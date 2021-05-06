@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lato:wght@300&display=swap');
 
+/*Applied to whole site*/
 body {
     font-family: Lato, sans-serif;
     margin: 0;
@@ -11,6 +12,7 @@ h1, h2, h3 {
     font-family: "dancing Script", sans-serif;
 }
 
+/*In the header*/
 #logo {
     font-size: 300%;
     padding-top: 40px;
@@ -29,134 +31,222 @@ h1, h2, h3 {
     float: right;
     padding-top: 20px;
 }
-#menu li {
-    margin-right: 30px;
-    list-style-type: none;
-    float: left;
-}
+    #menu li {
+        margin-right: 30px;
+        list-style-type: none;
+        float: left;
+    }
+        .active {
+            border-bottom: 1px solid grey;
+        }
+    #menu a {
+        color: grey;
+        text-decoration: none;
+    }
+        #menu a:hover {
+            color: black;
+        }
 
-.active {
-    border-bottom: 1px solid grey;
-}
 
-#menu a {
-    color: grey;
-    text-decoration: none;
-}
-
-#menu a:hover {
-    color: black;
-    
-}
-
-#block1, #block3, #block5, #block6 {
+/*In the main body*/
+#block1, #block2, #block3, #block4, #block5, #block6 {
     width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+/*In block 1 (Hero Image)*/
+#block1 {
     height: 500px;
-    padding: 0;
-    margin: 0;
-    background-color: lightgray;
-    overflow: hidden;
-    text-align: center;
+    background-color: lightgrey;
 }
+    #caribbean-bg {
+        background: url(../bvi3.jpg) no-repeat center center;
+        background-size: 100% 100%;
+        height: 100%;
+        width: 100%;
+        animation-name: caribbean-zoom;
+        animation-duration: 15s;
+        animation-fill-mode: forwards;
+    }
+        @keyframes caribbean-zoom {
+            from {
+                transfrom: scale(1)
+            }
+            to {
+                transform: scale(1.3)
+            }
+        }
 
+/*In block 2 (Website capture text)*/
 #block2 {
-    width: 100%;
     height: 280px;
-    padding: 0;
-    margin: 0;
     background-color: white;
-    overflow: hidden;
-    text-align: center;
     font-size: 130%;
 }
 
+/*In block 3 (Types of holiday)*/
 #block3 {
-    width: 100%;
-    height: 700px;
-    padding: 0;
-    margin: 0;
-    background-color: lightgray;
-    overflow: hidden;
-    text-align: center;
+    height: 650px;
+    background-image: linear-gradient(0deg, grey, white);
 }
+    #block3-text {
+        color: white;
+        line-height: 80px;
+        font-size: x-large;
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+    .types {
+        border: 8px solid whitesmoke;
+        border-radius: 40px;
+        background-color: white;
+        height: 100px;
+        width: 25%;
+        display: inline-block;
+        margin: 3px;
+        text-align: center;
+        line-height: 10px;
+        font-family: "dancing script";
+        font-size: xx-large;
+        padding-top: 40px;
+    }
+        #cruises {
+            /*Styling for holiday type boxes*/
+        }
+        #beachhol {
+            /*Styling for holiday type boxes*/
+        }
+        #all-in {
+            /*Styling for holiday type boxes*/
+        }
+        #activity {
+            /*Styling for holiday type boxes*/
+        }
+        #hotel-only {
+            /*Styling for holiday type boxes*/
+        }
+        #flights {
+            /*Styling for holiday type boxes*/
+        }
+        #single {
+            /*Styling for holiday type boxes*/
+        }
+        #naturist {
+            /*Styling for holiday type boxes*/
+        }
+            .naturistlogo {
+                height: 40px;
+                width: auto;
+                filter: grayscale(100%) saturate(100%);
+            }        
+        #group8 {
+            /*Styling for holiday type boxes*/
+        }
 
-#block3-text {
-    width: 100%;
-    color: white;
-    line-height: 80px;
-    font-size: x-large;
-    background-color: rgba(0, 0, 0, 0.6);
-}
 
+/*In block 4 (Reviews)*/
 #block4 {
-    width: 100%;
     height: 1000px;
-    padding: 0;
-    margin: 0;
     background-color: lightgray;
-    overflow: hidden;
 }
-
-#caribbean-bg {
-    background: url(../bvi3.jpg) no-repeat center center;
-    height: 100%;
-    width: 100%;
-    animation-name: caribbean-zoom;
-    animation-duration: 30s;
-    animation-fill-mode: backwards;
-}
-
-@keyframes caribbean-zoom {
-    from {
-        transfrom: scale(1)
+    #st-lucia-bg {
+        background: url(../antigua4.jpg) no-repeat center center;
+        background-attachment: fixed;
+        width: 100%;
+        height: 100%; 
+        background-size: 100% 100%;  
     }
-    to {
-        transform: scale(1.3)
+    .review-left, .review-right {
+        width: 60%;
+        height: auto;
+        background-color: rgba(0, 0, 0, 0.6);
+        border: 5px solid whitesmoke;
+        border-radius: 60px;
+        display: inline-block;
+        margin: 35px 200px;
+        color: whitesmoke;
+        text-align: center;
+        padding: 0.5%;
     }
+    .review-left {
+        float: left;
+    }
+    .review-right {
+        float: right;
+    }
+        .review-text {
+            height: 80%;
+            width: 60%;
+            float: left;
+            margin-left: 15%;
+            margin-top: 1%;
+        }
+        .review-border {
+            height: 130px;
+            width: 130px;
+            border: 2px solid whitesmoke;
+            border-radius: 50%;
+            float: right;
+            margin-top: 5px;
+        }
+        #review1, #review2, #review3, #review4 /*Images of people reviewing*/{
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            margin: 0 auto;
+            padding: 15px;
+        }
+                #review1 {
+                    background: url(../review1.jpg) no-repeat center center;
+                }
+                #review2 {
+                    background: url(../review2.jpg) no-repeat center center;
+                }
+                #review3 {
+                    background: url(../review3.jpg) no-repeat center center;
+                }
+                #review4 {
+                    background: url(../review4.jpg) no-repeat center center;
+                }
+
+/*In block 5 (Contact and company ethos)*/
+#block5 {
+    height: 500px;
+    background-color: whitesmoke;
+    border-bottom: 8px solid darkgray;
+    border-top: 8px solid darkgray;
 }
 
-.types {
-    border: 8px solid whitesmoke;
-    border-radius: 8%;
-    background-color: white;
-    height: 200px;
-    width: 25%;
-    display: inline-block;
-    margin: 10px;
-    text-align: center;
-    line-height: 40px;
-    font-family: "dancing script";
-    font-size: xx-large;
-    padding-top: 30px;
+/*In block 6 (Turtle Image)*/
+#block6 {
+    height: 700px;
 }
+    #turtle-bg {
+        background: url(../barbados2.jpg) no-repeat center center;
+        background-size: 100% 100%;
+        height: 100%;
+        width: 100%;
+    }
 
-#st-lucia-bg {
-    background: url(../stlucia4.webp) no-repeat center center;
-    background-attachment: fixed;
+/*Footer*/
+footer {
+    height: 100px;
     width: 100%;
-    height: 100%;   
+    background-color; whitesmoke;
+    position: static;
+    bottom: 0;
+    color: darkgray;
+    border-top: 8px solid darkgray;
 }
-
-.review-left {
-    width: 60%;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.6);
-    border: 5px solid whitesmoke;
-    display: inline-block;
-    float: left;
-    margin: 20px 200px;
-}
-
-.review-right {
-    width: 60%;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.6);
-    border: 5px solid whitesmoke;
-    display: inline-block;
-    float: right;
-    margin: 20px 200px;
-}
-
-#turtle-bg {
-
-}
+    .findus li {
+        font-size: 200%;
+        display: inline;
+        list-style-type: none;
+        margin: 0 2% 0 8%;
+        line-height: 100px;
+    }
+    footer a {
+        color: darkgray;
+    }
