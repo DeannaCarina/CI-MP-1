@@ -14,7 +14,7 @@
         <nav>
             <ul id="menu">
                 <li>
-                    <a href="index.html" class="active">Home</a>
+                    <a href="index.html" >Home</a>
                 </li>
                 <li>
                     <a href="#">Recommendations</a>
@@ -26,26 +26,57 @@
                     <a href="#">Gallery</a>
                 </li>
                 <li>
-                    <a href="signup.html">Sign Up</a>
+                    <a href="signup.html" class="active">Sign Up</a>
                 </li>
             </ul>
         </nav>
         <h1 id="logo">Travel Caribbean</h1>
     </header>
     <section id="signup-block1">
-
-        <div class="page" id="brochure-backpage">
-            <div class="page" id="brochure-middlepage"></div>
             <div class="page" id="brochure-toppage">
                 <br><br><h1>Travel Caribbean</h1>
                 <img src="assets/bvi3.jpg" alt="beachpic" id="beachpic">
-                <br><br><br><br><p>Travel Brochure</p>
-                <h2>May 2021 - April 2022</h2>
+                <br><br><br><br><p>Top 10 holidays we think you'll love!</p>
+                <h2>May 2021</h2>
                 <div id="brochure-footer">Great deals inside!</div>
             </div>
-        </div>
-        <div id="signup-form">
-            <h1>Sign up to our free brochure...</h1>
+            <form id="signup-form" method="POST" action="">
+                <h1>Sign up to our FREE brochure... <i class="fas fa-glass-cheers"></i></h1>
+                <label for="fname">First Name:</label><br>
+                <input type="text" id="fname" name="first_name" class="form-text"><br><br>
+                <label for="lname">Last Name:</label><br>
+                <input type="text" id="lname" name="last_name" class="form-text"><br><br>
+                <label for="email">Email Address:</label><br>
+                <input type="email" id="email" name="email_address" class="form-text"><br><br>
+                <h2 class="form-white-text">Interested in a more bespoke brochure as well?</h2>
+                    <div>
+                        <input type="checkbox" id="lucayan-archipelago" name="lucayan-archipelago">
+                        <label for="lucayan-archipelago" class="form-white-text"><strong>Lucayan Archipelago</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="greater-antilles" name="greater-antilles">
+                        <label for="greater-antilles" class="form-white-text">Greater Antilles</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="leeward-islands" name="leeward-islands">
+                        <label for="leeward-islands" class="form-white-text">Leeward Islands</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="windward-islands" name="windward-islands">
+                        <label for="windward-islands" class="form-white-text">Windward Islands</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="leeward-antilles" name="leeward-antilles">
+                        <label for="leeward-antilles" class="form-white-text">Leeward Antilles</strong></label>
+                    </div>
+                    <br><input type="submit" value="Sign me up!" id="signup-button" class="button">    
+
+            </form>
+            
+
+
+
+
         </div>
         
         

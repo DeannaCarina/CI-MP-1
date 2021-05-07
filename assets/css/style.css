@@ -71,8 +71,7 @@ h1, h2, h3 {
         width: 100%;
         animation-name: caribbean-zoom;
         animation-duration: 15s;
-        animation-fill-mode: forwards;
-        
+        animation-fill-mode: forwards;        
     }
         @keyframes caribbean-zoom {
             from {
@@ -94,15 +93,17 @@ h1, h2, h3 {
 #block3 {
     height: 650px;
     background-image: linear-gradient(0deg, grey, white);
+    border-bottom: 8px solid darkgray;
 }
     #block3-text {
         color: white;
         line-height: 80px;
         font-size: x-large;
         background-color: rgba(0, 0, 0, 0.6);
+        box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     }
     .types {
-        border: 8px solid whitesmoke;
+        border: 8px solid rgb(226, 225, 225);
         border-radius: 40px;
         background-color: white;
         height: 100px;
@@ -114,6 +115,7 @@ h1, h2, h3 {
         font-family: "dancing script";
         font-size: xx-large;
         padding-top: 40px;
+        box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     }
         #cruises {
             /*Styling for holiday type boxes of index.html*/
@@ -172,6 +174,7 @@ h1, h2, h3 {
         color: whitesmoke;
         text-align: center;
         padding: 0.5%;
+        box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     }
     .review-left {
         float: left;
@@ -281,24 +284,15 @@ h1, h2, h3 {
         padding: 0;
         border: 0;
     }
-    #brochure-backpage {
-        background-color: rgba(235, 235, 235, 0.8);
-        margin-top: 80px;
-        margin-left: 250px;
-        display: inline-block;
-    }
-
-    #brochure-middlepage {
-        background-color: rgba(245, 245, 245, 0.9);
-        transform: rotate(20deg);
-    }
-
     #brochure-toppage {
-        background-color: rgb(255, 255, 255);
-        margin-top: -500px;
-        transform: rotate(340deg);
+        background-color: rgb(224, 223, 223);
+        margin-top: 80px;
+        margin-left: 375px;
+        transform: rotate(358deg);
         text-align: center;
-        color: grey
+        color: grey;
+        float: left;
+        box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     }
         #brochure-toppage h1 {
             text-align: left;
@@ -321,16 +315,34 @@ h1, h2, h3 {
             color: white;
         }
     #signup-form {
-        width: 800px;
-        height: 600px;
+        width: 500px;
+        height: 500px;
         background-color:rgba(245, 245, 245, 0.466);
         color: gray;
         float: right;
-        margin-right: 200px;
+        margin-right: 500px;
         margin-top: 30px;
+        padding: 50px;
+        box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
+        text-align: left;
+        transform: rotate(3deg);
     }    
     #signup-form h1 {
         text-align: center;
+    }
+        .form-text {
+            line-height: 30px;
+            width: 400px;
+            background: whitesmoke;
+        }
+    .form-white-text {
+        color: white;
+    }    
+    #signup-button {
+        width: 150px;
+        height: 50px;
+        border-radius: 10px;
+        float: right;
     }
 
 
