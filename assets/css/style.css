@@ -67,8 +67,9 @@ h1, h2, h3 {
     #caribbean-bg {
         background: url(../bvi3.jpg) no-repeat center center;
         background-size: 100% 100%;
-        height: 100%;
+        height: 500px;
         width: 100%;
+        position: relative;
         animation-name: caribbean-zoom;
         animation-duration: 15s;
         animation-fill-mode: forwards;        
@@ -251,11 +252,12 @@ h1, h2, h3 {
         width: 400px;
         padding: 0;
         border: 0;
+        display: inline-block;
     }
     #brochure-toppage {
         background-color: rgb(224, 223, 223);
         margin-top: 80px;
-        margin-left: 375px;
+        margin-left: 250px;
         transform: rotate(358deg);
         text-align: center;
         color: grey;
@@ -288,12 +290,12 @@ h1, h2, h3 {
         background-color:rgba(245, 245, 245, 0.466);
         color: gray;
         float: right;
-        margin-right: 500px;
         margin-top: 30px;
         padding: 50px;
         box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
         text-align: left;
         transform: rotate(3deg);
+        margin-right: 200px;
     }    
     #signup-form h1 {
         text-align: center;
@@ -338,7 +340,120 @@ footer {
 
 
 
+    @media screen and (max-width: 1450px){
+        .page{
+            height: 400px;
+            width: 280px;
+        }
+        #brochure-toppage{
+            margin-left: 100px;
+        }
+    }
 
+    @media screen and (max-width: 1200px){
+        #signup-form{
+            width: 300px;
+            height: 500px;
+        }
+        .form-text{
+            width: 300px;
+        }
+    }
+
+
+    @media screen and (max-width: 1000px){
+        #block1 {
+            height: 300px;
+            width: 100%;
+        }
+        #caribbean-bg{
+            height: 300px;
+        }
+        #block4{
+            height: 1150px;
+        }
+        #block6{
+            height: 400px;
+            width: 100%;
+        }
+        #turtle-bg{
+            height: 400px;
+            width: 100%;
+        }
+        #thanks{
+            width: 400px;
+            height: 150px;
+        }
+        #thanks h1{
+            font-size: 200%;
+        }
+        #turtlebutton{
+            width: 300px;
+            height: 60px;
+            border-radius: 10px;
+            margin-left: 500px;
+            margin-top: -30px;
+        }
+        footer{
+            height: 75px;
+            padding-left: 100px;
+        }
+        .findus li{
+            margin: 0 2% 0 2%;
+            font-size: 170%;
+        }
+        #brochure-footer{
+            font-size: 0px;
+        }
+        #brochure-toppage p{
+            font-size: 0px;
+        }
+        #brochure-toppage h2{
+            font-size: 0px;
+        }
+        .page{
+            width: 180px;
+            height: 250px;
+        }
+        #signup-form{
+            transform: rotate(0deg);
+        }
+        
+    }
+
+    @media screen and (max-width: 880px){
+        #signup-block1{
+            height: 1100px;
+            width: 100%;
+            background-size: 100% 100%;
+            background-attachment: fixed;
+            background: url(../stlucia2.jpg) no-repeat center center;
+            overflow: hidden;
+        }
+    }    
+
+
+        
+
+    @media screen and (max-width: 602px){
+        #block1 {
+            height: 200px;
+        }
+        #caribbean-bg{
+            height: 200px;
+            width: 100%;
+        }
+        #block4{
+
+        }
+        #signup-form{
+            margin: auto 0;
+        }
+    }
+
+    @media screen and (max-width: 360px){
+        
+    }
 
 
 
