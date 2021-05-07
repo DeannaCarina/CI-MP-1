@@ -315,13 +315,11 @@ h1, h2, h3 {
         float: right;
     }
 
-
-
 /*Footer of all site pages*/
 footer {
-    height: 100px;
+    height: 160px;
     width: 100%;
-    background-color; whitesmoke;
+    background-color: whitesmoke;
     position: static;
     bottom: 0;
     color: darkgray;
@@ -337,8 +335,6 @@ footer {
     footer a {
         color: darkgray;
     }
-
-
 
     @media screen and (max-width: 1450px){
         .page{
@@ -359,7 +355,6 @@ footer {
             width: 300px;
         }
     }
-
 
     @media screen and (max-width: 1000px){
         #block1 {
@@ -432,9 +427,6 @@ footer {
         }
     }    
 
-
-        
-
     @media screen and (max-width: 602px){
         #block1 {
             height: 200px;
@@ -443,16 +435,13 @@ footer {
             height: 200px;
             width: 100%;
         }
-        #block4{
-
-        }
         #signup-form{
             margin: auto 0;
         }
     }
 
     @media screen and (max-width: 360px){
-        
+
     }
 
 
