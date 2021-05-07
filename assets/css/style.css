@@ -117,38 +117,6 @@ h1, h2, h3 {
         padding-top: 40px;
         box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     }
-        #cruises {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #beachhol {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #all-in {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #activity {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #hotel-only {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #flights {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #single {
-            /*Styling for holiday type boxes of index.html*/
-        }
-        #naturist {
-            /*Styling for holiday type boxes of index.html*/
-        }
-            .naturistlogo {
-                height: 40px;
-                width: auto;
-                filter: grayscale(100%) saturate(100%);
-            }        
-        #group8 {
-            /*Styling for holiday type boxes of index.html*/
-        }
 
 
 /*In block 4 (Reviews) of index.html*/
