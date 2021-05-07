@@ -12,7 +12,7 @@ h1, h2, h3 {
     font-family: "dancing Script", sans-serif;
 }
 
-/*In the header*/
+/*In the header of index.html*/
 #logo {
     font-size: 300%;
     padding-top: 40px;
@@ -48,7 +48,7 @@ h1, h2, h3 {
         }
 
 
-/*In the main body*/
+/*In the main body of index.html*/
 #block1, #block2, #block3, #block4, #block5, #block6 {
     width: 100%;
     padding: 0;
@@ -57,10 +57,12 @@ h1, h2, h3 {
     text-align: center;
 }
 
-/*In block 1 (Hero Image)*/
+/*In block 1 (Hero Image) of index.html*/
 #block1 {
     height: 500px;
     background-color: lightgrey;
+    border-top: 8px solid grey;
+    border-bottom: 8px solid grey;
 }
     #caribbean-bg {
         background: url(../bvi3.jpg) no-repeat center center;
@@ -70,6 +72,7 @@ h1, h2, h3 {
         animation-name: caribbean-zoom;
         animation-duration: 15s;
         animation-fill-mode: forwards;
+        
     }
         @keyframes caribbean-zoom {
             from {
@@ -80,14 +83,14 @@ h1, h2, h3 {
             }
         }
 
-/*In block 2 (Website capture text)*/
+/*In block 2 (Website capture text) of index.html*/
 #block2 {
     height: 280px;
     background-color: white;
     font-size: 130%;
 }
 
-/*In block 3 (Types of holiday)*/
+/*In block 3 (Types of holiday) of index.html*/
 #block3 {
     height: 650px;
     background-image: linear-gradient(0deg, grey, white);
@@ -113,28 +116,28 @@ h1, h2, h3 {
         padding-top: 40px;
     }
         #cruises {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #beachhol {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #all-in {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #activity {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #hotel-only {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #flights {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #single {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
         #naturist {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
             .naturistlogo {
                 height: 40px;
@@ -142,11 +145,11 @@ h1, h2, h3 {
                 filter: grayscale(100%) saturate(100%);
             }        
         #group8 {
-            /*Styling for holiday type boxes*/
+            /*Styling for holiday type boxes of index.html*/
         }
 
 
-/*In block 4 (Reviews)*/
+/*In block 4 (Reviews) of index.html*/
 #block4 {
     height: 1000px;
     background-color: lightgray;
@@ -183,7 +186,7 @@ h1, h2, h3 {
             margin-left: 15%;
             margin-top: 1%;
         }
-        .review-border {
+        .review-border /*outer border of reviewer portrait*/{
             height: 130px;
             width: 130px;
             border: 2px solid whitesmoke;
@@ -191,12 +194,13 @@ h1, h2, h3 {
             float: right;
             margin-top: 5px;
         }
-        #review1, #review2, #review3, #review4 /*Images of people reviewing*/{
+        #review1, #review2, #review3, #review4 /*Portrait of people reviewing 'company' (index.html)*/{
             height: 100px;
             width: 100px;
             border-radius: 50%;
-            margin: 0 auto;
-            padding: 15px;
+            margin-top: 5px;
+            margin-left: 5px;
+            padding: 10px;
         }
                 #review1 {
                     background: url(../review1.jpg) no-repeat center center;
@@ -211,7 +215,7 @@ h1, h2, h3 {
                     background: url(../review4.jpg) no-repeat center center;
                 }
 
-/*In block 5 (Contact and company ethos)*/
+/*In block 5 (Contact, company ethos, partnerships) of index.html*/
 #block5 {
     height: 500px;
     background-color: whitesmoke;
@@ -219,7 +223,7 @@ h1, h2, h3 {
     border-top: 8px solid darkgray;
 }
 
-/*In block 6 (Turtle Image)*/
+/*In block 6 (Turtle Image) Thank you and Sign up button of index.html*/
 #block6 {
     height: 700px;
 }
@@ -229,8 +233,109 @@ h1, h2, h3 {
         height: 100%;
         width: 100%;
     }
+        #thanks {
+            width: 600px;
+            height: 250px;
+            background-color: rgba(56, 56, 56, 0.61);
+            float: left;
+            margin-top: 200px;
+            text-align: center;
+        }
+            #thanks h1 {
+                color: white;
+                font-size: 350%;
+            }
+        .button {
+            background-color: rgba(94, 94, 94, 0.781);
+            border: 3px solid whitesmoke;
+            font-size: large;
+            transition-duration: 0.5s;
+            }
+            .button:hover {
+                background-color: rgb(136, 160, 172);
+                box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
+            }
+            .button a {
+                text-decoration: none;
+                color: white;
+            }
+            #turtlebutton {
+                width: 450px;
+                height: 80px;
+                border-radius: 20px;
+                margin-left: 700px;
+                margin-top: 50px;
+            }
 
-/*Footer*/
+/*In Signup.html Block 1*/
+#signup-block1 {
+    height: 660px;
+    width: 100%;
+    background: url(../stmaarten1.jpg) no-repeat center center;
+    background-size: 100% 100%;
+    border-top: 8px solid darkgray;
+}
+    .page {
+        height: 500px;
+        width: 400px;
+        padding: 0;
+        border: 0;
+    }
+    #brochure-backpage {
+        background-color: rgba(235, 235, 235, 0.8);
+        margin-top: 80px;
+        margin-left: 250px;
+        display: inline-block;
+    }
+
+    #brochure-middlepage {
+        background-color: rgba(245, 245, 245, 0.9);
+        transform: rotate(20deg);
+    }
+
+    #brochure-toppage {
+        background-color: rgb(255, 255, 255);
+        margin-top: -500px;
+        transform: rotate(340deg);
+        text-align: center;
+        color: grey
+    }
+        #brochure-toppage h1 {
+            text-align: left;
+            margin-left: 20px;
+        }
+        #brochure-toppage h2 {
+            font-size: 80%;
+        }
+        #beachpic {
+            width: 100%;
+            border-top: 4px solid darkgray;
+            border-bottom: 4px solid darkgray;
+        }
+        #brochure-footer {
+            width: 100%;
+            height: 5%;
+            background-color: grey;
+            position: fixed;
+            bottom: 15px;
+            color: white;
+        }
+    #signup-form {
+        width: 800px;
+        height: 600px;
+        background-color:rgba(245, 245, 245, 0.466);
+        color: gray;
+        float: right;
+        margin-right: 200px;
+        margin-top: 30px;
+    }    
+    #signup-form h1 {
+        text-align: center;
+    }
+
+
+
+/*Footer of all site pages*/
 footer {
     height: 100px;
     width: 100%;
@@ -250,3 +355,10 @@ footer {
     footer a {
         color: darkgray;
     }
+
+
+
+
+
+
+
