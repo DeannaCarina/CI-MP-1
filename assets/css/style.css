@@ -242,12 +242,87 @@ h1, h2, h3 {
 /*In maps.html*/
 .maps-section {
     width: 100%;
-    height: 600px;
+    height: 900px;
     border: 1px solid black;
 }
 #map-top{
-
+    background: url(/assets/carib3.png) no-repeat center center;
 }
+    .hov-map {
+        border: 1px solid whitesmoke;
+        border-radius: 10px;
+        width: 100px;
+        height: 45px;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: white;
+        background-color: rgba(94, 94, 94, 0.781);
+        transition-duration: 0.5s;
+    }
+        .hov-map:hover {
+            background-color: rgb(136, 160, 172);
+            box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
+        }
+        #hov-map-1{
+            margin-top: 220px;
+            margin-left: 45%;
+            float: left;
+            position: relative;
+        }
+        #hov-map-2{
+            margin-top: 300px;
+            margin-left: -270px;
+            height: 25px;
+            float: left;
+        }
+        #hov-map-3{
+            margin-top: 440px;
+            margin-left: -300px;
+            float: left;
+            width: 190px;
+            height: 25px;
+        }
+        #hov-map-4{
+            margin-top: 420px;
+            margin-left: 100px;
+            float: left;
+            width: 80px;
+            height: 60px;
+        }
+        #hov-map-5{
+            margin-top: 490px;
+            margin-left: 170px;
+            float: left;
+            width: 130px;
+            height: 25px;
+        }
+        #hov-map-6{
+            margin-top: 620px;
+            margin-left: -40px;
+            float: left;
+            width: 100px;
+            height: 45px;
+        }
+        #hov-map-7{
+            margin-top: 740px;
+            margin-left: -60px;
+            float: left;
+            width: 90px;
+            height: 60px;
+        }
+        #hov-map-8{
+            margin-top: 700px;
+            margin-left: -470px;
+            float: left;
+            width: 125px;
+            height: 40px;
+        }
+
+
+
+
 #map-1 {
     
 }
@@ -261,6 +336,15 @@ h1, h2, h3 {
     
 }
 #map-5 {
+    
+}
+#map-6 {
+    
+}
+#map-7 {
+    
+}
+#map-8 {
     
 }
 #map-bottom {
