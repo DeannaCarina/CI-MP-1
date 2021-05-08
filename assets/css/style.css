@@ -239,6 +239,34 @@ h1, h2, h3 {
                 margin-top: 50px;
             }
 
+/*In maps.html*/
+.maps-section {
+    width: 100%;
+    height: 600px;
+    border: 1px solid black;
+}
+#map-top{
+
+}
+#map-1 {
+    
+}
+#map-2 {
+    
+}
+#map-3 {
+    
+}
+#map-4 {
+    
+}
+#map-5 {
+    
+}
+#map-bottom {
+    
+}
+
 /*In Signup.html Block 1*/
 #signup-block1 {
     height: 660px;
