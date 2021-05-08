@@ -246,7 +246,7 @@ h1, h2, h3 {
     border: 1px solid black;
 }
 #map-top{
-    background: url(/assets/carib3.png) no-repeat center center;
+    background: url(../carib3.png) no-repeat center center;
 }
     .hov-map {
         border: 1px solid whitesmoke;
