@@ -246,22 +246,14 @@ h1, h2, h3 {
     width: 100%;
     height: 900px;
     border-top: 4px solid darkgray;
-    box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
+    box-shadow: 0px 20px 25px 0px rgba(71, 123, 165, 0.4), 0px 17px 50px 0px rgba(87, 212, 212, 0.3);
 }
-
-.maps-section h1 {
-    margin-left: 2%;
-    font-size: 200%;
-    color: grey;
-    text-shadow: 2px 2px rgba(184, 184, 184, 0.4);
-    margin-top: 5%;
-}
-
 #map-top{
     background: url(../carib3.png) no-repeat center center;
     background-color: rgb(163, 163, 161);
     overflow: hidden;
     width: 100%;
+    height: 900px;
     background-size: 100% 100%;
 }
     .hov-map {
@@ -285,48 +277,48 @@ h1, h2, h3 {
             box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
         }
         #hov-map-1{
-            margin-top: 150px;
-            margin-left: 40%;
+            margin-top: 100px;
+            margin-left: 37%;
             float: left;
             position: relative;
         }
         #hov-map-2{
-            margin-top: 260px;
+            margin-top: 220px;
             margin-left: -270px;
             height: 25px;
             float: left;
         }
         #hov-map-3{
             margin-top: 420px;
-            margin-left: -300px;
+            margin-left: -260px;
             float: left;
             width: 190px;
             height: 25px;
         }
         #hov-map-4{
-            margin-top: 420px;
-            margin-left: 100px;
+            margin-top: 400px;
+            margin-left: 140px;
             float: left;
             width: 80px;
             height: 60px;
         }
         #hov-map-5{
             margin-top: 470px;
-            margin-left: 280px;
+            margin-left: 240px;
             float: left;
             width: 130px;
             height: 25px;
         }
         #hov-map-6{
             margin-top: 620px;
-            margin-left: -10px;
+            margin-left: -20px;
             float: left;
             width: 100px;
             height: 45px;
         }
         #hov-map-7{
-            margin-top: 740px;
-            margin-left: -20px;
+            margin-top: 730px;
+            margin-left: -50px;
             float: left;
             width: 90px;
             height: 60px;
@@ -338,40 +330,40 @@ h1, h2, h3 {
             width: 125px;
             height: 40px;
         }
-.map-img {
-    float: right;
-    margin-right: 5%;
-    margin-top: 1%;
-}
-
-#map-1 {
-    
-}
-#map-2 {
-    
-}
-#map-3 {
-    
-}
-#map-4 {
-    
-}
-#map-5 {
-    
-}
-#map-6 {
-    
-}
-#map-7 {
-    
-}
-#map-8 {
-    
-}
-#map-bottom {
-    
-}
-
+.maps-section h1 {
+    margin-left: 2%;
+    font-size: 200%;
+    color: grey;
+    text-shadow: 2px 2px rgba(184, 184, 184, 0.4);
+    margin-top: 5%;
+}        
+    .big-map {
+        float: right;
+        margin-right: 5%;
+        margin-top: 1%;
+    }
+    .little-map {
+        display: inline-block;
+        float: right;
+    }
+    .map-text {
+        height: 650px;
+        width: 600px;
+        margin-left: 150px;
+        background-color: whitesmoke;
+        box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
+        display: inline-block;
+        margin-right: 100px;
+    }
+        #cuba-map {
+            width: 40%;
+            height: auto;
+        }
+        #hisp-map {
+            width: 40%;
+            height: auto;
+        }
+        
 /*In Signup.html Block 1*/
 #signup-block1 {
     height: 660px;
