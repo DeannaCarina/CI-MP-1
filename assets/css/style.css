@@ -13,7 +13,7 @@ h1, h2, h3 {
     font-family: "dancing Script", sans-serif;
 }
 
-/*In the header of index.html*/
+/*In the header of all pages in Travel Caribbean--------------------------------------------------------------------------------------------------------------*/
 #logo {
     font-size: 300%;
     padding-top: 40px;
@@ -50,7 +50,7 @@ h1, h2, h3 {
         }
 
 
-/*In the main body of index.html*/
+/*In the main body of index.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #block1, #block2, #block3, #block4, #block5, #block6 {
     width: 100%;
     padding: 0;
@@ -242,7 +242,7 @@ h1, h2, h3 {
                 margin-top: 50px;
             }
 
-/*In maps.html*/
+/*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
 .maps-section {
     width: 100%;
     height: 900px;
@@ -381,7 +381,7 @@ h1, h2, h3 {
             text-align: center;
         }
 
-/*In gallery.html*/
+/*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #photos {
     clear: both;
     line-height: 0;
@@ -393,7 +393,7 @@ h1, h2, h3 {
         width: 100%;
     }
 
-/*In Signup.html Block 1*/
+/*In Signup.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #signup-block1 {
     height: 660px;
     width: 100%;
@@ -470,7 +470,7 @@ h1, h2, h3 {
         border: 1px solid white;
     }
 
-/*Footer of all site pages*/
+/*Footer of all site pages-------------------------------------------------------------------------------------------------------------------------------------*/
 footer {
     height: 160px;
     width: 100%;
@@ -491,6 +491,7 @@ footer {
         color: darkgray;
     }
 
+    /*Media responsiveness for all pages on the Travel Caribbean website---------------------------------------------------------------------------------------------*/
     @media screen and (max-width: 1450px){
         .page{
             height: 400px;
