@@ -386,7 +386,7 @@ h1, h2, h3 {
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
-    background-color: black;
+    background-color: whitesmoke;
 }
     #photos > img {
         width: 100%;
