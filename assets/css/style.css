@@ -19,6 +19,7 @@ h1, h2, h3 {
     padding-left: 20px;
     color: grey;
     margin: 0;
+    text-shadow: 2px 2px rgba(184, 184, 184, 0.4);
 }
 
 #menu, #logo {
@@ -198,6 +199,7 @@ h1, h2, h3 {
 /*In block 6 (Turtle Image) Thank you and Sign up button of index.html*/
 #block6 {
     height: 700px;
+    border-top: 4px solid darkgrey;
 }
     #turtle-bg {
         background: url(../barbados2.jpg) no-repeat center center;
@@ -243,10 +245,23 @@ h1, h2, h3 {
 .maps-section {
     width: 100%;
     height: 900px;
-    border: 1px solid black;
+    border-top: 4px solid darkgray;
 }
+
+.maps-section h1 {
+    margin-left: 2%;
+    font-size: 200%;
+    color: grey;
+    text-shadow: 2px 2px rgba(184, 184, 184, 0.4);
+    margin-top: 5%;
+}
+
 #map-top{
     background: url(../carib3.png) no-repeat center center;
+    background-color: rgb(163, 163, 161);
+    overflow: hidden;
+    width: 100%;
+    background-size: 100% 100%;
 }
     .hov-map {
         border: 1px solid whitesmoke;
@@ -257,28 +272,31 @@ h1, h2, h3 {
         margin: 0;
         padding: 0;
         text-align: center;
-        color: white;
         background-color: rgba(94, 94, 94, 0.781);
         transition-duration: 0.5s;
     }
+        .hov-map a {
+            text-decoration: none;
+            color: white;
+        }
         .hov-map:hover {
             background-color: rgb(136, 160, 172);
             box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
         }
         #hov-map-1{
-            margin-top: 220px;
-            margin-left: 45%;
+            margin-top: 150px;
+            margin-left: 40%;
             float: left;
             position: relative;
         }
         #hov-map-2{
-            margin-top: 300px;
+            margin-top: 260px;
             margin-left: -270px;
             height: 25px;
             float: left;
         }
         #hov-map-3{
-            margin-top: 440px;
+            margin-top: 420px;
             margin-left: -300px;
             float: left;
             width: 190px;
@@ -292,36 +310,38 @@ h1, h2, h3 {
             height: 60px;
         }
         #hov-map-5{
-            margin-top: 490px;
-            margin-left: 170px;
+            margin-top: 470px;
+            margin-left: 280px;
             float: left;
             width: 130px;
             height: 25px;
         }
         #hov-map-6{
             margin-top: 620px;
-            margin-left: -40px;
+            margin-left: -10px;
             float: left;
             width: 100px;
             height: 45px;
         }
         #hov-map-7{
             margin-top: 740px;
-            margin-left: -60px;
+            margin-left: -20px;
             float: left;
             width: 90px;
             height: 60px;
         }
         #hov-map-8{
-            margin-top: 700px;
-            margin-left: -470px;
+            margin-top: 730px;
+            margin-left: -530px;
             float: left;
             width: 125px;
             height: 40px;
         }
-
-
-
+.map-img {
+    float: right;
+    margin-right: 5%;
+    margin-top: 1%;
+}
 
 #map-1 {
     
