@@ -246,6 +246,7 @@ h1, h2, h3 {
     width: 100%;
     height: 900px;
     border-top: 4px solid darkgray;
+    background-color: whitesmoke;
     box-shadow: 0px 20px 25px 0px rgba(71, 123, 165, 0.4), 0px 17px 50px 0px rgba(87, 212, 212, 0.3);
 }
 #map-top{
@@ -337,31 +338,18 @@ h1, h2, h3 {
     text-shadow: 2px 2px rgba(184, 184, 184, 0.4);
     margin-top: 5%;
 }        
-    .big-map {
-        float: right;
-        margin-right: 5%;
-        margin-top: 1%;
-    }
-    .little-map {
-        display: inline-block;
-        float: right;
-    }
     .map-text {
-        height: 650px;
+        height: 600px;
         width: 600px;
         margin-left: 150px;
-        background-color: whitesmoke;
+        background-color: white;
         box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
         display: inline-block;
         margin-right: 100px;
     }
-        #cuba-map {
-            width: 40%;
-            height: auto;
-        }
-        #hisp-map {
-            width: 40%;
-            height: auto;
+        .small-map {
+            width: 100%;
+            height: 100%;
         }
         
 /*In Signup.html Block 1*/
@@ -426,7 +414,7 @@ h1, h2, h3 {
         text-align: center;
     }
         .form-text {
-            line-height: 30px;
+            line-height: 20px;
             width: 400px;
             background: whitesmoke;
         }
