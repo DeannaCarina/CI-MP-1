@@ -356,8 +356,11 @@ h1, h2, h3 {
         width: 50%;
         box-shadow: 0 30px 35px 0 rgba(0,0,0,0.4), 0 27px 60px 0 rgba(0,0,0,0.3);
         position: absolute;
+        padding: 20px;
     }    
-
+    #text-5 {
+        columns: 2;
+    }
     .bespoke-button {
         background-color: rgba(94, 94, 94, 0.781);
         border: 1.5px solid whitesmoke;
@@ -451,6 +454,7 @@ h1, h2, h3 {
         height: 50px;
         border-radius: 10px;
         float: right;
+        border: 1px solid white;
     }
 
 /*Footer of all site pages*/
