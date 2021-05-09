@@ -15,3 +15,5 @@ To-do list:
 10. check all structure of HTML
 11. take screenshots of finished website
 12. write the README.md following CI guidlines and example template
+
+## Deadline - 1st July 2021
