@@ -492,113 +492,65 @@ footer {
     }
 
     /*Media responsiveness for all pages on the Travel Caribbean website---------------------------------------------------------------------------------------------*/
-    @media screen and (max-width: 1450px){
-        .page{
-            height: 400px;
-            width: 280px;
-        }
-        #brochure-toppage{
-            margin-left: 100px;
-        }
+
+    /*  FOR INDEX.HTML
+        Hero Image needs fixing at 1000px - height of image needs reducing
+        Capture text breaks at 515px - section needs extending in height
+        Types of holiday breaks at 625px - font needs making smaller, and EITHER type boxes smaller OR section extending in height
+        Reviews break at 1295px - section needs extending - this needs repeating a few tims as screen size reduces
+        Thank you breaks at 1150px - button gets overridden and goes out of site - positional fix in HTML with %positioning?
+        Find us breaks at 1175px - goes onto 2 lines - make icons smaller and margins smaller
+
+        FOR RECOMMENDATIONS.HTML - page needs creating
+        (Thank you and find us need fixing)
+
+        FOR MAPS.HTML
+        Large map breaks pretty much straight away - surely there's a better way to style this?
+        Small map text boxes break at 1500 - need reducing in width
+        ^ at a smaller width text box can go below small map
+        Small maps break straight away, set fixed width and height rather than % to fix
+        Side-by-side buttons break at 1225px - need placing below one another instead
+        (Thank you and find us need fixing)
+
+        FOR GALLERY.HTML
+        Reduce to 3 collums for tablet size
+        Reduce to 2 collums for smartphone size
+        (Thank you and find us need fixing)
+
+        FOR SIGNUP.HTML
+        Form breaks at 1450 - reduce form in width OR change background to a portrait image and extend section height
+        (Thank you and find us need fixing)*/
+
+
+
+
+
+    /*Responsiveness for index.html*/
+    @media screen and (max-width: px){
+
     }
 
-    @media screen and (max-width: 1200px){
-        #signup-form{
-            width: 300px;
-            height: 500px;
-        }
-        .form-text{
-            width: 300px;
-        }
-    }
-
-    @media screen and (max-width: 1000px){
-        #block1 {
-            height: 300px;
-            width: 100%;
-        }
-        #caribbean-bg{
-            height: 300px;
-        }
-        #block4{
-            height: 1150px;
-        }
-        #block6{
-            height: 400px;
-            width: 100%;
-        }
-        #turtle-bg{
-            height: 400px;
-            width: 100%;
-        }
-        #thanks{
-            width: 400px;
-            height: 150px;
-        }
-        #thanks h1{
-            font-size: 200%;
-        }
-        #turtlebutton{
-            width: 300px;
-            height: 60px;
-            border-radius: 10px;
-            margin-left: 500px;
-            margin-top: -30px;
-        }
-        footer{
-            height: 75px;
-            padding-left: 100px;
-        }
-        .findus li{
-            margin: 0 2% 0 2%;
-            font-size: 170%;
-        }
-        #brochure-footer{
-            font-size: 0px;
-        }
-        #brochure-toppage p{
-            font-size: 0px;
-        }
-        #brochure-toppage h2{
-            font-size: 0px;
-        }
-        .page{
-            width: 180px;
-            height: 250px;
-        }
-        #signup-form{
-            transform: rotate(0deg);
-        }
+    /*Responsiveness for recommendations.html*/
+    @media screen and (max-width: px){
         
     }
 
-    @media screen and (max-width: 880px){
-        #signup-block1{
-            height: 1100px;
-            width: 100%;
-            background-size: 100% 100%;
-            background-attachment: fixed;
-            background: url(../stlucia2.jpg) no-repeat center center;
-            overflow: hidden;
-        }
+    /*Responsiveness for maps.html*/
+    @media screen and (max-width: px){
+
+    }
+
+    /*Rexponsiveness for gallery.html*/
+    @media screen and (max-width: px){
+        
     }    
 
-    @media screen and (max-width: 602px){
-        #block1 {
-            height: 200px;
-        }
-        #caribbean-bg{
-            height: 200px;
-            width: 100%;
-        }
-        #signup-form{
-            margin: auto 0;
-        }
+    /*Responsiveness for signup.html*/
+    @media screen and (max-width: px){
+        
     }
 
-    @media screen and (max-width: 360px){
-
-    }
+    
 
 
 
