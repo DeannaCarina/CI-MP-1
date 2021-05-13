@@ -113,7 +113,7 @@ h1, h2, h3 {
 
 /*In block 3 (Types of holiday) of index.html*/
 #block3 {
-    height: 650px;
+    height: 380px;
     background-image: linear-gradient(0deg, grey, white);
     border-bottom: 8px solid darkgray;
 }
@@ -129,7 +129,7 @@ h1, h2, h3 {
         border-radius: 40px;
         background-color: white;
         height: 100px;
-        width: 25%;
+        width: 180px;
         display: inline-block;
         margin: 3px;
         text-align: center;
