@@ -482,12 +482,13 @@ footer {
     bottom: 0;
     color: darkgray;
     border-top: 8px solid darkgray;
+    text-align: center;
 }
     .findus li {
         font-size: 200%;
         display: inline;
         list-style-type: none;
-        margin: 0 2% 0 8%;
+        margin: 0 2% 0 1%;
         line-height: 100px;
     }
     footer a {
