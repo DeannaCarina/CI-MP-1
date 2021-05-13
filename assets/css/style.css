@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 /*In the header of all pages in Travel Caribbean--------------------------------------------------------------------------------------------------------------*/
 #logo {
-    font-size: 300%;
+    font-size: 500%;
     padding-top: 40px;
     padding-left: 20px;
     color: grey;
@@ -32,6 +32,7 @@ h1, h2, h3 {
 #menu {
     float: right;
     padding-top: 20px;
+    font-size: 150%;
 }
     #menu li {
         margin-right: 30px;
