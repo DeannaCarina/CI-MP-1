@@ -226,19 +226,20 @@ h1, h2, h3 {
     width: 100%;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
         #thanks {
             width: 600px;
-            height: 250px;
+            height: 180px;
             background-color: rgba(56, 56, 56, 0.61);
-            margin-top: 50px;
-            margin-left: 50px;
             text-align: center;
             padding-top: 30px;
+            margin: 300px auto 70px;
         }
         #thanks h1 {
             color: white;
             font-size: 300%;
+            margin: 0;
         }
         
         .button {
@@ -246,9 +247,6 @@ h1, h2, h3 {
             border: 3px solid whitesmoke;
             font-size: large;
             transition-duration: 0.5s;
-            float: left;
-            margin-top: 50px;
-            margin-left: 50px;
             }
             .button:hover {
                 background-color: rgb(136, 160, 172);
