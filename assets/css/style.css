@@ -280,6 +280,7 @@ h1, h2, h3 {
         height: 200px;
         background-color: whitesmoke;
         text-align: center; 
+        background-image: linear-gradient(0deg, grey, white);
         box-shadow: 0 60px 75px 0 rgba(103, 170, 170, 0.4), 0 57px 100px 0 rgba(143, 151, 230, 0.3);
     }
     #caribbean-map {
@@ -459,7 +460,7 @@ h1, h2, h3 {
 
 /*Footer of all site pages-------------------------------------------------------------------------------------------------------------------------------------*/
 footer {
-    height: 160px;
+    height: 170px;
     width: 100%;
     background-color: whitesmoke;
     position: static;
@@ -509,29 +510,75 @@ footer {
         Form breaks at 1450 - reduce form in width OR change background to a portrait image and extend section height
         (Thank you and find us need fixing)*/
 
-    /*Responsiveness for index.html*/
-    @media screen and (max-width: px){
-        
+
+    @media screen and (max-width: 1470px){
+        #brochure-toppage{
+            margin-left: 30px;
+        }
+        #signup-form{
+            margin-right:30px;
+        }
     }
-
-    /*Responsiveness for recommendations.html*/
-    @media screen and (max-width: px){
-        
+    @media screen and (max-width: 1070px){
+        .page{
+            width: 280px;
+            height: 350px;
+            font-size: 70%;
+        }
+        #brochure-footer{
+            font-size: 70%;
+        }
     }
-
-    /*Responsiveness for maps.html*/
-    @media screen and (max-width: px){
-
+    @media screen and (max-width: 950px){
+        #signup-form{
+            transform: rotate(0deg);
+            width: 300px;
+            font-size: 85%;
+        }
+        #fname, #lname, #email{
+            width: 300px;
+        }
+        #signup-button{
+            width: 30%;
+            font-size: 70%;
+            float: right;
+        }
+        .findus li{
+            font-size: 80%;
+        }
+        h3{
+            text-shadow: 4px 4px rgba(53, 53, 53, 0.4);
+        }
     }
-
-    /*Rexponsiveness for gallery.html*/
-    @media screen and (max-width: px){
-        
+    @media screen and (max-width: 750px){
+        #signup-block1{
+            background: url(../gallery/dominica4.jpg) no-repeat center center;
+            background-size: 100% 100%;
+            background-attachment: fixed;
+            height: 1200px;
+        }
+        #signup-form h1{
+            color: whitesmoke;
+            text-shadow: 4px 4px rgba(53, 53, 53, 0.4);
+        }
+        #signup-form{
+            background-color: transparent;
+        }
+        label{
+            color: white;
+        }
+        #menu{
+            font-size: 80%;
+        }
+        #menu li{
+            margin-right: 10px;
+        }
+        #logo{
+            font-size: 300%;
+        }
+    
     }    
-
-    /*Responsiveness for signup.html*/
-    @media screen and (max-width: px){
-        
+    @media screen and (max-width: 460px){
     }
 
     
