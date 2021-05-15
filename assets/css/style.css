@@ -220,7 +220,8 @@ h1, h2, h3 {
 /*In block 5 (Contact, company ethos, partnerships) of index.html*/
 #block5 {
     height: 500px;
-    background-color: whitesmoke;
+    background: url(/assets/curacao1a.jpg) no-repeat center center;
+    background-size: 100% 100%;
     border-bottom: 8px solid darkgray;
     border-top: 8px solid darkgray;
 }
