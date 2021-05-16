@@ -145,7 +145,7 @@ h1, h2, h3 {
 /*In block 5 (Contact, company ethos, partnerships) of index.html*/
 #block5 {
     height: 500px;
-    background: url(/assets/curacao1a.jpg) no-repeat center center;
+    background: url(../curacao1a.jpg) no-repeat center center;
     background-size: 100% 100%;
 }
 
