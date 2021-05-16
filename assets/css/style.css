@@ -53,7 +53,7 @@ h1, h2, h3 {
 
 
 /*In the main body of index.html-------------------------------------------------------------------------------------------------------------------------------------*/
-#block1, #block2, #block3, #block4, #block5, #block6 {
+#block2, #block3, #block4, #block5, #block6 {
     width: 100%;
     padding: 0;
     margin: 0;
@@ -62,17 +62,11 @@ h1, h2, h3 {
 }
 
 /*In block 1 (Hero Image) of index.html*/
-#block1 {
+#caribbean-bg {
     height: 500px;
-    background-color: lightgrey;
-    border-top: 8px solid grey;
-    border-bottom: 8px solid grey;
-}
-    #caribbean-bg {
-        height: 500px;
-        width: 100%;
-        overflow: hidden;
-        position: relative;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
     }
         #caribbean-child {
             background: url(../bvi3.jpg) no-repeat center center;
