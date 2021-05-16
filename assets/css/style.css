@@ -539,9 +539,10 @@ footer {
             width: 300px;
         }
         #signup-button{
-            width: 30%;
+            height: 30px;
+            width: 100px;
+            margin-top: 5px;
             font-size: 70%;
-            float: right;
         }
         .findus li{
             font-size: 80%;
@@ -558,14 +559,17 @@ footer {
             height: 1200px;
         }
         #signup-form h1{
-            color: whitesmoke;
+            color: black;
             text-shadow: 4px 4px rgba(53, 53, 53, 0.4);
         }
-        #signup-form{
-            background-color: transparent;
-        }
         label{
-            color: white;
+            color: black;
+        }
+        #signup-form h3{
+            color: black;
+        }
+        .form-white-text{
+            color: black;
         }
         #menu{
             font-size: 80%;
@@ -575,10 +579,19 @@ footer {
         }
         #logo{
             font-size: 300%;
-        }
-    
+        }    
     }    
-    @media screen and (max-width: 460px){
+    @media screen and (max-width: 420px){
+        #signup-form{
+            width: 200px;
+            height: 600px;
+        }
+        #fname, #lname, #email{
+             width: 200px;
+        }
+        #signup-button{
+            margin-top: 30px;
+        }
     }
 
     
