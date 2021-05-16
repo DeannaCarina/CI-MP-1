@@ -111,7 +111,6 @@ h1, h2, h3 {
 #block3 {
     height: 380px;
     background-image: linear-gradient(0deg, grey, white);
-    
     line-height: 300px;
 }
     #block3-text {
@@ -148,7 +147,6 @@ h1, h2, h3 {
     height: 500px;
     background: url(/assets/curacao1a.jpg) no-repeat center center;
     background-size: 100% 100%;
-
 }
 
 /*In block 4 (Reviews) of index.html*/
