@@ -111,7 +111,7 @@ h1, h2, h3 {
 #block3 {
     height: 380px;
     background-image: linear-gradient(0deg, grey, white);
-    border-bottom: 8px solid darkgray;
+    
     line-height: 300px;
 }
     #block3-text {
@@ -143,6 +143,13 @@ h1, h2, h3 {
             color: whitesmoke;
         }
 
+/*In block 5 (Contact, company ethos, partnerships) of index.html*/
+#block5 {
+    height: 500px;
+    background: url(/assets/curacao1a.jpg) no-repeat center center;
+    background-size: 100% 100%;
+
+}
 
 /*In block 4 (Reviews) of index.html*/
 #block4 {
@@ -209,14 +216,7 @@ h1, h2, h3 {
                     background: url(../review4.jpg) no-repeat center center;
                 }
 
-/*In block 5 (Contact, company ethos, partnerships) of index.html*/
-#block5 {
-    height: 500px;
-    background: url(/assets/curacao1a.jpg) no-repeat center center;
-    background-size: 100% 100%;
-    border-bottom: 8px solid darkgray;
-    border-top: 8px solid darkgray;
-}
+
 
 /*In block 6 (Turtle Image) Thank you and Sign up button of index.html*/
 #block6 {
