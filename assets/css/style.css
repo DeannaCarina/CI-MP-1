@@ -553,6 +553,10 @@ footer {
         .findus li{
             font-size: 80%;
         }
+        #block6 {
+            background: url(../gallery/barbados4.jpg) no-repeat center center;
+            background-size: 100% 100%;
+        }
     }
     @media screen and (max-width: 772px){
         #block3{
@@ -598,7 +602,27 @@ footer {
         #logo{
             font-size: 300%;
         }    
-    }    
+    }  
+    @media screen and (max-width: 690px){
+        #block6 {
+            background: url(../gallery/barbados4.jpg) no-repeat center center;
+            background-size: auto 100%;
+        }
+        #thanks {
+            width: 400px;
+            height: 130px;
+            padding-top: 30px;
+            margin: 300px auto 70px;
+        }
+        #thanks h1 {
+            font-size: 200%;
+        }
+        #turtlebutton {
+            width: 330px;
+            height: 70px;
+            border-radius: 20px;
+        }
+    }  
     @media screen and (max-width: 609px){
         #block2 {
             height: 340px;
@@ -620,6 +644,11 @@ footer {
             width: 170px;
             line-height: 35px;
             height: 220px;
+        }
+        #block6 {
+            background: url(../gallery/barbados4.jpg) no-repeat center center;
+            background-size: auto 100%;
+            background-position: right;
         }
     }
     @media screen and (max-width: 487px){
@@ -655,6 +684,15 @@ footer {
     @media screen and (max-width: 417px){
         #block2 {
             height: 320px;
+        }
+        #thanks {
+            width: 300px;
+        }
+        #turtlebutton {
+            width: 250px;
+            height: 70px;
+            border-radius: 20px;
+            font-size: 90%;
         }
     }
     @media screen and (max-width: 413px){
