@@ -53,7 +53,7 @@ h1, h2, h3 {
 
 
 /*In the main body of index.html-------------------------------------------------------------------------------------------------------------------------------------*/
-#block2, #block3, #block4, #block5, #block6 {
+#block3, #block4, #block5, #block6 {
     width: 100%;
     padding: 0;
     margin: 0;
@@ -102,8 +102,12 @@ h1, h2, h3 {
 /*In block 2 (Website capture text) of index.html*/
 #block2 {
     height: 280px;
-    background-color: white;
+    background-color: whitesmoke;
+    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     font-size: 130%;
+    margin: 25px;
+    padding: 15px;
+    text-align: center;
 }
 
 /*In block 3 (Types of holiday) of index.html*/
@@ -373,7 +377,6 @@ h1, h2, h3 {
     height: 660px;
     width: 100%;
     background: url(../stmaarten1.jpg) no-repeat center center;
-    
     border-top: 8px solid darkgray;
 }
     .page {
@@ -491,10 +494,6 @@ footer {
         FOR GALLERY.HTML
         Reduce to 3 collums for tablet size
         Reduce to 2 collums for smartphone size
-        (Thank you and find us need fixing)
-
-        FOR SIGNUP.HTML
-        Form breaks at 1450 - reduce form in width OR change background to a portrait image and extend section height
         (Thank you and find us need fixing)*/
 
     @media screen and (max-width: 1752px){
@@ -519,6 +518,11 @@ footer {
         #block3{
             height: 530px;
             line-height: 140px;
+        }
+    }
+    @media screen and (max-width: 1109px){
+        #block2 {
+            height: 320px;
         }
     }
     @media screen and (max-width: 1070px){
@@ -548,9 +552,6 @@ footer {
         }
         .findus li{
             font-size: 80%;
-        }
-        h3{
-            text-shadow: 4px 4px rgba(53, 53, 53, 0.4);
         }
     }
     @media screen and (max-width: 772px){
@@ -598,6 +599,39 @@ footer {
             font-size: 300%;
         }    
     }    
+    @media screen and (max-width: 609px){
+        #block2 {
+            height: 340px;
+        }
+    }
+    @media screen and (max-width: 595px){
+        #block2 {
+            height: 380px;
+        }
+    }
+    @media screen and (max-width: 518px){
+        #block2 {
+            font-size: 100%;
+            height: 240px;
+        }
+        #cover-text {
+            color: white;
+            font-size: 100%;
+            width: 170px;
+            line-height: 35px;
+            height: 220px;
+        }
+    }
+    @media screen and (max-width: 487px){
+        #block2 {
+            height: 260px;
+        }
+    }
+    @media screen and (max-width: 476px){
+        #block2 {
+            height: 300px;
+        }
+    }
     @media screen and (max-width: 462px){
         #block3{
             height: 840px;
@@ -618,7 +652,26 @@ footer {
             margin-top: 30px;
         }
     }
-
+    @media screen and (max-width: 417px){
+        #block2 {
+            height: 320px;
+        }
+    }
+    @media screen and (max-width: 413px){
+        #block2 {
+            height: 340px;
+        }
+    }
+    @media screen and (max-width: 406px){
+        #block2 {
+            height: 360px;
+        }
+    }
+    @media screen and (max-width: 345px){
+        #block2 {
+            height: 380px;
+        }
+    }
     
 
 
