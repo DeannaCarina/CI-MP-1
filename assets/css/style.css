@@ -145,7 +145,6 @@ h1, h2, h3 {
 #block5 {
     height: 800px;
     background: url(../curacao1a.jpg) no-repeat center center;
-    background-size: 100% 100%;
 }
 
 /*In block 4 (Reviews) of index.html*/
@@ -155,8 +154,6 @@ h1, h2, h3 {
     background: url(../antigua4.jpg) no-repeat center center;
     background-attachment: fixed;
     width: 100%;
-    height: 100%; 
-    background-size: 100% 100%;  
 }
     .review-left, .review-right {
         width: 60%;
@@ -220,7 +217,6 @@ h1, h2, h3 {
     height: 700px;
     border-top: 4px solid darkgrey;
     background: url(../barbados2.jpg) no-repeat center center;
-    background-size: 100% 100%;
     width: 100%;
     margin: 0;
     padding: 0;
