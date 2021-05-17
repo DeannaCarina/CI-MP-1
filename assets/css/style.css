@@ -373,7 +373,7 @@ h1, h2, h3 {
     height: 660px;
     width: 100%;
     background: url(../stmaarten1.jpg) no-repeat center center;
-    background-size: 100% 100%;
+    
     border-top: 8px solid darkgray;
 }
     .page {
@@ -572,7 +572,6 @@ footer {
     @media screen and (max-width: 750px){
         #signup-block1{
             background: url(../gallery/dominica4.jpg) no-repeat center center;
-            background-size: 100% 100%;
             background-attachment: fixed;
             height: 1200px;
         }
