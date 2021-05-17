@@ -135,8 +135,8 @@ h1, h2, h3 {
         transition-duration: 0.5s;
     }
         .types:hover {
-            height:130px;
-            width:190px;
+            height:120px;
+            width:180px;
             background-color: rgba(57, 104, 116, 0.4);
             color: whitesmoke;
         }
@@ -497,13 +497,28 @@ footer {
         Form breaks at 1450 - reduce form in width OR change background to a portrait image and extend section height
         (Thank you and find us need fixing)*/
 
-
+    @media screen and (max-width: 1752px){
+        .types {
+            width: 130px;
+            font-size: large;
+        }
+            .types:hover{
+                width: 140px;
+            }
+            
+    }
     @media screen and (max-width: 1470px){
         #brochure-toppage{
             margin-left: 30px;
         }
         #signup-form{
             margin-right:30px;
+        }
+    }
+    @media screen and (max-width: 1392px){
+        #block3{
+            height: 530px;
+            line-height: 140px;
         }
     }
     @media screen and (max-width: 1070px){
@@ -538,6 +553,22 @@ footer {
             text-shadow: 4px 4px rgba(53, 53, 53, 0.4);
         }
     }
+    @media screen and (max-width: 772px){
+        #block3{
+            height: 600px;
+            line-height: 90px;
+        }
+        #block3-text {
+            font-size: large;
+        }
+        .types{
+            height: 70px;
+            line-height: 20px;
+        }
+            .types:hover{
+                height: 90px;
+            }
+    }    
     @media screen and (max-width: 750px){
         #signup-block1{
             background: url(../gallery/dominica4.jpg) no-repeat center center;
@@ -568,6 +599,14 @@ footer {
             font-size: 300%;
         }    
     }    
+    @media screen and (max-width: 462px){
+        #block3{
+            height: 840px;
+        }
+        #block3-text {
+            font-size: small;
+        }
+    }
     @media screen and (max-width: 420px){
         #signup-form{
             width: 200px;
