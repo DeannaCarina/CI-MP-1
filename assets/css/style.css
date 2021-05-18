@@ -509,11 +509,6 @@ footer {
             line-height: 140px;
         }
     }
-    @media screen and (max-width: 1109px){
-        #block2 {
-            height: 320px;
-        }
-    }
     @media screen and (max-width: 1070px){
         .page{
             width: 280px;
@@ -611,18 +606,10 @@ footer {
         }
     }  
     @media screen and (max-width: 609px){
-        #block2 {
-            height: 340px;
-        }
         #cover-text {
             width: 350px;
             height: 180px;
             margin: 100px auto;
-        }
-    }
-    @media screen and (max-width: 595px){
-        #block2 {
-            height: 380px;
         }
     }
     @media screen and (max-width: 531px){
@@ -640,7 +627,7 @@ footer {
     @media screen and (max-width: 518px){
         #block2 {
             font-size: 100%;
-            height: 240px;
+            height: 220px;
         }
         #block6 {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
@@ -648,18 +635,15 @@ footer {
             background-position: right;
         }
     }
-    @media screen and (max-width: 487px){
-        #block2 {
-            height: 260px;
-        }
-    }
     @media screen and (max-width: 476px){
-        #block2 {
-            height: 300px;
-        }
         #cover-text {
             width: 200px;
             height: 320px;
+        }
+    }
+    @media screen and (max-width: 467px){
+        #block2 {
+            height: 260px;
         }
     }
     @media screen and (max-width: 462px){
@@ -683,9 +667,6 @@ footer {
         }
     }
     @media screen and (max-width: 417px){
-        #block2 {
-            height: 320px;
-        }
         #thanks {
             width: 300px;
         }
@@ -696,18 +677,15 @@ footer {
             font-size: 90%;
         }
     }
-    @media screen and (max-width: 413px){
-        #block2 {
-            height: 340px;
-        }
-    }
     @media screen and (max-width: 406px){
-        #block2 {
-            height: 360px;
-        }
         #logo{
             margin-top: 70px;
             font-size: 400%;
+        }
+    }
+    @media screen and (max-width: 386px){
+        #block2 {
+            height: 280px;
         }
     }
     @media screen and (max-width: 368px){
@@ -718,12 +696,43 @@ footer {
             margin-right: 10px;
         }
     }
-    @media screen and (max-width: 345px){
+    @media screen and (max-width: 360px){
+        #block2 {
+            height: 320px;
+        }
+    }
+    @media screen and (max-width: 327px){
+        #menu li{
+            text-align: right;
+            float: none;
+        }
+        #logo{
+            font-size: 300%;
+            text-align: center;
+            padding-left: 0px;
+            margin-top: 100px;
+        }
+        #cover-text {
+            width: 130px;
+            height: 220px;
+            line-height: 40px;
+            font-size: 90%;
+        }
+    }
+    @media screen and (max-width: 319px){
         #block2 {
             height: 380px;
         }
     }
-    
-
+    @media screen and (max-width: 249px){
+        #block2 {
+            height: 420px;
+        }
+    }
+    @media screen and (max-width: 218px){
+        #block2 {
+            height: 490px;
+        }
+    }
 
 
