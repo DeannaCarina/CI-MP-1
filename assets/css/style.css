@@ -59,7 +59,7 @@ h1, h2, h3 {
 /*In block 1 (Hero Image) of index.html*/
 #video {
     object-fit: cover;
-    height: 100vh;
+    height: 950px;
     width: 100vw;
     position: absolute;
     top: 0;
@@ -67,7 +67,7 @@ h1, h2, h3 {
     overflow: hidden;
 } 
 #caribbean-bg {
-    height: 100vh;
+    height: 950px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -546,6 +546,13 @@ footer {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: 100% 100%;
         }
+        #cover-text {
+            font-size: 125%;
+            width: 500px;
+            padding: 30px;
+            line-height: 70px;
+            height: 180px;
+        }
     }
     @media screen and (max-width: 772px){
         #block3{
@@ -582,15 +589,6 @@ footer {
         .form-white-text{
             color: black;
         }
-        #menu{
-            font-size: 80%;
-        }
-        #menu li{
-            margin-right: 10px;
-        }
-        #logo{
-            font-size: 300%;
-        }    
     }  
     @media screen and (max-width: 690px){
         #block6 {
@@ -616,23 +614,33 @@ footer {
         #block2 {
             height: 340px;
         }
+        #cover-text {
+            width: 350px;
+            height: 180px;
+            margin: 100px auto;
+        }
     }
     @media screen and (max-width: 595px){
         #block2 {
             height: 380px;
         }
     }
+    @media screen and (max-width: 531px){
+        #menu{
+            font-size: 100%;
+        }
+        #menu li{
+            margin-right: 20px;
+        }
+        #logo{
+            margin-top: 70px;
+            font-size: 500%;
+        }    
+    } 
     @media screen and (max-width: 518px){
         #block2 {
             font-size: 100%;
             height: 240px;
-        }
-        #cover-text {
-            color: white;
-            font-size: 100%;
-            width: 170px;
-            line-height: 35px;
-            height: 220px;
         }
         #block6 {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
@@ -648,6 +656,10 @@ footer {
     @media screen and (max-width: 476px){
         #block2 {
             height: 300px;
+        }
+        #cover-text {
+            width: 200px;
+            height: 320px;
         }
     }
     @media screen and (max-width: 462px){
@@ -692,6 +704,18 @@ footer {
     @media screen and (max-width: 406px){
         #block2 {
             height: 360px;
+        }
+        #logo{
+            margin-top: 70px;
+            font-size: 400%;
+        }
+    }
+    @media screen and (max-width: 368px){
+        #menu{
+            font-size: 100%;
+        }
+        #menu li{
+            margin-right: 10px;
         }
     }
     @media screen and (max-width: 345px){
