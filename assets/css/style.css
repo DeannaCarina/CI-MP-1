@@ -13,6 +13,7 @@ body {
 h1, h2, h3 {
     /* font-family: "Permanent Marker", sans-serif; */
     font-family: "Satisfy", sans-serif;
+    margin: 0;
 }
 
 /*In the header of all pages in Travel Caribbean--------------------------------------------------------------------------------------------------------------*/
@@ -82,7 +83,7 @@ h1, h2, h3 {
                 background-color: rgba(252, 252, 252, 0.616);
                 box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
                 width: 800px;
-                line-height: 70px;
+                line-height: 120px;
                 letter-spacing:2px;
                 height: 220px;
                 padding: 10px 10px 40px 10px;
@@ -92,7 +93,7 @@ h1, h2, h3 {
 
 /*In block 2 (Website capture text) of index.html*/
 #block2 {
-    height: 250px;
+    height: 220px;
     background-color: whitesmoke;
     font-size: 110%;
     padding: 30px;
@@ -102,7 +103,7 @@ h1, h2, h3 {
 /*In block 3 (Types of holiday) of index.html*/
 #block3 {
     height: 380px;
-    background-image: linear-gradient(0deg, grey, white);
+    /* background-image: linear-gradient(0deg, grey, white); */
     line-height: 300px;
 }
     #block3-text {
@@ -115,7 +116,7 @@ h1, h2, h3 {
     .types {
         border: 8px solid rgb(226, 225, 225);
         border-radius: 40px;
-        background-color: white;
+        background-color: rgba(255, 255, 255, 0.829);
         height: 100px;
         width: 170px;
         display: inline-block;
@@ -139,6 +140,13 @@ h1, h2, h3 {
     height: 800px;
     background: url(../curacao1a.jpg) no-repeat center center;
 }
+    #contact{
+        height: 450px;
+        width: 90%;
+        background-color: hotpink;
+        margin: 20px auto;
+        
+    }
 
 /*In block 4 (Reviews) of index.html*/
 #block4 {
@@ -546,7 +554,7 @@ footer {
             width: 500px;
             padding: 30px;
             line-height: 70px;
-            height: 180px;
+            height: 150px;
         }
     }
     @media screen and (max-width: 772px){
@@ -608,7 +616,7 @@ footer {
     @media screen and (max-width: 609px){
         #cover-text {
             width: 350px;
-            height: 180px;
+            height: 140px;
             margin: 100px auto;
         }
     }
@@ -638,7 +646,7 @@ footer {
     @media screen and (max-width: 476px){
         #cover-text {
             width: 200px;
-            height: 320px;
+            height: 280px;
         }
     }
     @media screen and (max-width: 467px){
@@ -714,7 +722,7 @@ footer {
         }
         #cover-text {
             width: 130px;
-            height: 220px;
+            height: 160px;
             line-height: 40px;
             font-size: 90%;
         }
@@ -748,10 +756,6 @@ footer {
             line-height: 40px;
         }
     }
-
-
-
-    
     @media screen and (max-width: 249px){
         #block2 {
             height: 420px;
