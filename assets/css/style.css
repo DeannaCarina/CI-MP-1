@@ -724,6 +724,34 @@ footer {
             height: 380px;
         }
     }
+    @media screen and (max-width: 307px){
+        #block3{
+            height: 950px;
+            line-height: 60px;
+        }
+        #block3-text {
+            font-size: medium;
+        }
+        .types{
+            height: 50px;
+            line-height: 15px;
+            margin-top: 0px;
+            padding: 10px;
+            border-radius: 30px;
+        }
+            .types:hover{
+                height: 60px;
+            }
+    }
+    @media screen and (max-width: 295px){
+        #block3-text{
+            line-height: 40px;
+        }
+    }
+
+
+
+    
     @media screen and (max-width: 249px){
         #block2 {
             height: 420px;
