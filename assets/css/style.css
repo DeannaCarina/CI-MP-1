@@ -53,7 +53,6 @@ h1, h2, h3 {
     width: 100%;
     padding: 0;
     margin: 0;
-    overflow: hidden;
     text-align: center;
 }
 
@@ -103,7 +102,6 @@ h1, h2, h3 {
 /*In block 3 (Types of holiday) of index.html*/
 #block3 {
     height: 380px;
-    /* background-image: linear-gradient(0deg, grey, white); */
     line-height: 300px;
 }
     #block3-text {
@@ -118,9 +116,9 @@ h1, h2, h3 {
     }
     #types-div{
         width: 100%;
-        height: 200px;
-        /* background-color: crimson; */
-        line-height: 150px;
+        height: 250px;
+        /* background-color: rgba(220, 20, 60, 0.438); */
+        line-height: 300px;
     }
     .types {
         border: 8px solid rgb(226, 225, 225);
@@ -150,12 +148,15 @@ h1, h2, h3 {
 #block5 {
     height: 800px;
     background: url(../gallery/bvi4.jpg) no-repeat center center;
+    background-attachment: fixed;
 }
     #contact{
         height: 400px;
         width: 90%;
         /* background-color: hotpink; */
-        margin: 50px auto;
+        margin: 0 auto;
+        padding-bottom: 30px;
+        padding-top: 30px;
     }
         .col{
             /* background-color: teal; */
@@ -173,10 +174,11 @@ h1, h2, h3 {
                 .row-1-child{
                     height: 120px;
                     width: 120px;
-                    background-color: rgba(255, 255, 255, 0.829);
+                    background-color: rgba(85, 85, 85, 0.699);
                     margin: auto;
                     border-radius: 50%;
                     line-height: 120px;
+                    color: whitesmoke;
                     border: 5px solid rgb(226, 225, 225);
                     border-style: ridge;
                 }
@@ -185,10 +187,10 @@ h1, h2, h3 {
                 line-height: 40px;
                 font-weight: bolder;
                 height: 100px;
-                width: 280;
+                width: 280px;
                 padding-top: 20px;
                 margin: 10px;
-                background-color: rgba(255, 255, 255, 0.829);
+                background-color: rgba(255, 255, 255, 0.541);
                 border-radius: 20px;
                 border: 5px solid rgb(226, 225, 225);
                 border-style: ridge;
@@ -564,7 +566,6 @@ footer {
             .types:hover{
                 width: 140px;
             }
-            
     }
     @media screen and (max-width: 1470px){
         #brochure-toppage{
@@ -574,10 +575,47 @@ footer {
             margin-right:30px;
         }
     }
+    @media screen and (max-width: 1432px){
+        #contact{
+            width: 100%;
+        }
+    }
     @media screen and (max-width: 1392px){
         #block3{
             height: 530px;
             line-height: 140px;
+        }
+        .types{
+            width: 110px;
+        }
+            .types:hover{
+                width: 120px;
+            }
+    }
+    @media screen and (max-width: 1289px){
+        .col{
+            width: 230px;
+        }
+        .row-2{
+            width: 200px;
+            font-size: 150%;
+            line-height: 30px;
+            height: 80px;
+        }
+    }    
+    @media screen and (max-width: 1234px){
+        .types{
+            width: 130px;
+        }
+            .types:hover{
+                width: 140px;
+            }
+        #types-div{
+            height: 400px;
+            line-height: 150px;
+        }
+        #block5{
+            height: 960px;
         }
     }
     @media screen and (max-width: 1070px){
@@ -590,6 +628,17 @@ footer {
             font-size: 70%;
         }
     }
+    @media screen and (max-width: 1009px){
+        .col{
+            width: 150px;
+        }
+        .row-2{
+            width: 120px;
+            font-size: 100%;
+            line-height: 30px;
+            height: 80px;
+        }
+    }    
     @media screen and (max-width: 950px){
         #signup-form{
             transform: rotate(0deg);
@@ -620,7 +669,15 @@ footer {
             height: 150px;
         }
     }
-    @media screen and (max-width: 772px){
+    /* @media screen and (max-width: 806px){
+        #block5{
+            height: 1000px;
+        }
+        #types-div{
+            height: 400px;
+        }
+    } */
+    /* @media screen and (max-width: 772px){
         #block3{
             height: 600px;
             line-height: 90px;
@@ -635,7 +692,15 @@ footer {
             .types:hover{
                 height: 90px;
             }
-    }    
+    }     */
+    @media screen and (max-width: 772px){
+        .types{
+            width: 110px;
+        }
+            .types:hover{
+                width: 120px;
+            }
+    }
     @media screen and (max-width: 750px){
         #signup-block1{
             background: url(../gallery/dominica4.jpg) no-repeat center center;
@@ -675,13 +740,63 @@ footer {
             height: 70px;
             border-radius: 20px;
         }
-    }  
+        #contact{
+            height: 800px
+        }
+        .col{
+            width: 280px;
+        }
+        .row-2{
+            width: 260px;
+            font-size: 150%;
+            line-height: 30px;
+            height: 80px;
+        }
+        #block5{
+            height: 1350px;
+        }
+    }   
+    @media screen and (max-width: 690px){
+        .types{
+            width: 90px;
+            font-size: small;
+        }
+        .types:hover{
+            width: 100px;
+        }
+    }
     @media screen and (max-width: 609px){
         #cover-text {
             width: 350px;
             height: 140px;
             margin: 100px auto;
         }
+    }
+    @media screen and (max-width: 603px){
+        .col{
+            width: 180px;
+        }
+        .row-2{
+            width: 150px;
+            font-size: 100%;
+            line-height: 30px;
+            height: 80px;
+        }
+    }   
+    @media screen and (max-width: 573px){ 
+        #block5{
+            height: 1580px;
+        }
+        #types-div{
+            height: 630px;
+        }
+        .types{
+            width: 110px;
+            font-size: large;
+        }
+            .types:hover{
+                width: 120px;
+            }
     }
     @media screen and (max-width: 531px){
         #menu{
@@ -704,7 +819,7 @@ footer {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: auto 100%;
             background-position: right;
-        }
+        }        
     }
     @media screen and (max-width: 476px){
         #cover-text {
@@ -717,10 +832,7 @@ footer {
             height: 260px;
         }
     }
-    @media screen and (max-width: 462px){
-        #block3{
-            height: 840px;
-        }
+    @media screen and (max-width: 449px){
         #block3-text {
             font-size: small;
         }
@@ -754,6 +866,20 @@ footer {
             font-size: 400%;
         }
     }
+    @media screen and (max-width: 403px){
+        #contact{
+            height: 1600px
+        }
+        #block5{
+            height: 2780px;
+        }
+        .types{
+            width: 112px;
+        }
+        #types-div{
+            height: 1050px;
+        }
+    }    
     @media screen and (max-width: 386px){
         #block2 {
             height: 280px;
@@ -795,7 +921,7 @@ footer {
             height: 380px;
         }
     }
-    @media screen and (max-width: 307px){
+    /* @media screen and (max-width: 307px){
         #block3{
             height: 950px;
             line-height: 60px;
@@ -813,11 +939,30 @@ footer {
             .types:hover{
                 height: 60px;
             }
-    }
+    } */
     @media screen and (max-width: 295px){
         #block3-text{
             line-height: 40px;
         }
+        #contact{
+            height: 1600px;
+        }
+        #block5{
+            height: 3000px;
+        }
+        #types-div{
+            line-height: 90px;
+            height: 1300px;
+        }
+        .types{
+            width: 140px;
+            height: 50px;
+            line-height: 2px;
+        }
+            .types:hover{
+                width: 150px;
+                height: 55px;
+            }
     }
     @media screen and (max-width: 249px){
         #block2 {
