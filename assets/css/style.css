@@ -245,6 +245,7 @@ h1, h2, h3 {
             float: left;
             margin-left: 15%;
             margin-top: 1%;
+            /* background-color: rgba(128, 255, 0, 0.466); */
         }
         .review-border /*outer border of reviewer portrait*/{
             height: 130px;
@@ -616,6 +617,10 @@ footer {
             height: 470px;
         }
     }
+    @media screen and (max-width: 1142px){
+        #block4{
+            height: 1200px;
+        }
     @media screen and (max-width: 1070px){
         .page{
             width: 280px;
@@ -626,6 +631,10 @@ footer {
             font-size: 70%;
         }
     }
+    @media screen and (max-width: 1048px){
+        #block4{
+            height: 1300px;
+        }
     @media screen and (max-width: 1009px){
         .col{
             width: 150px;
@@ -667,30 +676,15 @@ footer {
             height: 150px;
         }
     }
-    /* @media screen and (max-width: 806px){
-        #block5{
-            height: 1000px;
+    @media screen and (max-width: 893px){
+        .review-text {
+            margin-left: 20px;
         }
-        #types-div{
-            height: 400px;
+    }    
+    @media screen and (max-width: 825px){
+        #block4{
+            height: 1400px;
         }
-    } */
-    /* @media screen and (max-width: 772px){
-        #block3{
-            height: 600px;
-            line-height: 90px;
-        }
-        #block3-text {
-            font-size: large;
-        }
-        .types{
-            height: 70px;
-            line-height: 20px;
-        }
-            .types:hover{
-                height: 90px;
-            }
-    }     */
     @media screen and (max-width: 772px){
         .types{
             width: 110px;
@@ -719,6 +713,10 @@ footer {
             color: black;
         }
     }  
+    @media screen and (max-width: 710px){
+        #block4{
+            height: 1500px;
+        }
     @media screen and (max-width: 690px){
         #block6 {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
@@ -763,6 +761,30 @@ footer {
             width: 100px;
         }
     }
+    @media screen and (max-width: 674px){
+        #block4{
+            height: 1600px;
+        }
+    @media screen and (max-width: 654px){
+        #block4{
+            height: 1550px;
+        }
+        .review-left, .review-right {
+            float: none;
+            width: 400px;
+            height: 300px;
+            margin: 20px auto;
+        }
+        .review-text{
+            height: 90%;
+            width: 90%;
+            margin: 10px 13px 10px;
+        }
+        .review-border{
+            float: none;
+            margin: 160px auto 5px;
+        }
+    }    
     @media screen and (max-width: 609px){
         #cover-text {
             width: 350px;
@@ -831,6 +853,19 @@ footer {
     @media screen and (max-width: 467px){
         #block2 {
             height: 260px;
+        }
+        #block4{
+            height: 1850px;
+        }
+        .review-left, .review-right {
+            float: none;
+            margin: 10px auto;
+            width: 300px;
+            height: 400px;
+            padding: 0px;
+        }
+        .review-border{
+            margin: 250px auto 5px;
         }
     }
     @media screen and (max-width: 420px){
@@ -968,31 +1003,22 @@ footer {
             line-height: 40px;
             font-size: 90%;
         }
+        #block4{
+            height: 2350px;
+        }
+        .review-left, .review-right {
+            width: 200px;
+            height: 520px;
+        }
+        .review-border{
+            margin: 360px auto 5px;
+        }
     }
     @media screen and (max-width: 319px){
         #block2 {
             height: 380px;
         }
     }
-    /* @media screen and (max-width: 307px){
-        #block3{
-            height: 950px;
-            line-height: 60px;
-        }
-        #block3-text {
-            font-size: medium;
-        }
-        .types{
-            height: 50px;
-            line-height: 15px;
-            margin-top: 0px;
-            padding: 10px;
-            border-radius: 30px;
-        }
-            .types:hover{
-                height: 60px;
-            }
-    } */
     @media screen and (max-width: 301px){
         .col{
             width: 200px;
@@ -1043,5 +1069,3 @@ footer {
             height: 490px;
         }
     }
-
-
