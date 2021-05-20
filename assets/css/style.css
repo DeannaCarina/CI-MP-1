@@ -597,6 +597,11 @@ footer {
                 width: 120px;
             }
     }
+    @media screen and (max-width: 1323px){
+        #cover-text{
+            margin: 30px auto;
+        }
+    }    
     @media screen and (max-width: 1289px){
         .col{
             width: 230px;
@@ -863,6 +868,7 @@ footer {
         #cover-text {
             width: 200px;
             height: 280px;
+            margin: 30px auto;
         }
     }
     @media screen and (max-width: 467px){
