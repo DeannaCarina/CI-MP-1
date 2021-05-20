@@ -100,25 +100,23 @@ h1, h2, h3 {
 }
 
 /*In block 3 (Types of holiday) of index.html*/
-#block3 {
-    height: 380px;
-    line-height: 300px;
+#block3-text {
+    color: whitesmoke;
+    line-height: 80px;
+    font-size: x-large;
+    background-color: rgba(57, 104, 116, 0.8);
+    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
+    border-top: 8px solid rgb(226, 225, 225);
+    border-bottom: 8px solid rgb(226, 225, 225);
+    border-style: ridge;
 }
-    #block3-text {
-        color: whitesmoke;
-        line-height: 80px;
-        font-size: x-large;
-        background-color: rgba(57, 104, 116, 0.8);
-        box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
-        border-top: 8px solid rgb(226, 225, 225);
-        border-bottom: 8px solid rgb(226, 225, 225);
-        border-style: ridge;
-    }
+#block3 {
+    height: 300px;
+    background-color: teal;
+}
     #types-div{
         width: 100%;
-        height: 250px;
-        /* background-color: rgba(220, 20, 60, 0.438); */
-        line-height: 300px;
+        height: 300px;
     }
     .types {
         border: 8px solid rgb(226, 225, 225);
@@ -146,17 +144,17 @@ h1, h2, h3 {
 
 /*In block 5 (Contact, company ethos, partnerships) of index.html*/
 #block5 {
-    height: 800px;
+    height: 470px;
     background: url(../gallery/bvi4.jpg) no-repeat center center;
     background-attachment: fixed;
 }
     #contact{
         height: 400px;
         width: 90%;
-        /* background-color: hotpink; */
+        /* background-color: rgba(255, 105, 180, 0.582); */
         margin: 0 auto;
         padding-bottom: 30px;
-        padding-top: 30px;
+        padding-top: 40px;
     }
         .col{
             /* background-color: teal; */
@@ -164,6 +162,7 @@ h1, h2, h3 {
             width: 300px;
             display: inline-block;
             margin: 10px;
+            /* background-color: chartreuse; */
         }
             .row-1{
                 height: 130px;
@@ -580,11 +579,7 @@ footer {
             width: 100%;
         }
     }
-    @media screen and (max-width: 1392px){
-        #block3{
-            height: 530px;
-            line-height: 140px;
-        }
+    @media screen and (max-width: 1403px){
         .types{
             width: 110px;
         }
@@ -611,11 +606,14 @@ footer {
                 width: 140px;
             }
         #types-div{
-            height: 400px;
-            line-height: 150px;
+            height: 500px;
+            line-height: 135px;
+        }
+        #block3{
+            height: 500px;
         }
         #block5{
-            height: 960px;
+            height: 470px;
         }
     }
     @media screen and (max-width: 1070px){
@@ -753,7 +751,7 @@ footer {
             height: 80px;
         }
         #block5{
-            height: 1350px;
+            height: 870px;
         }
     }   
     @media screen and (max-width: 690px){
@@ -784,8 +782,8 @@ footer {
         }
     }   
     @media screen and (max-width: 573px){ 
-        #block5{
-            height: 1580px;
+        #block3{
+            height: 690px;
         }
         #types-div{
             height: 630px;
@@ -815,6 +813,9 @@ footer {
             font-size: 100%;
             height: 220px;
         }
+        #block3-text {
+            font-size: small;
+        }
         #block6 {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: auto 100%;
@@ -830,11 +831,6 @@ footer {
     @media screen and (max-width: 467px){
         #block2 {
             height: 260px;
-        }
-    }
-    @media screen and (max-width: 449px){
-        #block3-text {
-            font-size: small;
         }
     }
     @media screen and (max-width: 420px){
@@ -859,6 +855,12 @@ footer {
             border-radius: 20px;
             font-size: 90%;
         }
+        .types{
+            width: 100px;
+        }
+            .types:hover{
+                width: 110px;
+            }
     }
     @media screen and (max-width: 406px){
         #logo{
@@ -868,22 +870,73 @@ footer {
     }
     @media screen and (max-width: 403px){
         #contact{
-            height: 1600px
+            height: 500px
         }
         #block5{
-            height: 2780px;
-        }
-        .types{
-            width: 112px;
+            height: 570px;
         }
         #types-div{
             height: 1050px;
         }
+        .col{
+            width: 300px;
+            height: 100px;
+            margin: 10px auto;
+        }
+        .row-1{
+            height: 70px;
+            width: 70px;
+            display: inline-block;
+            margin: 0px;
+        }
+        .row-1-child{
+            width: 60px;
+            height: 60px;
+            line-height: 60px;
+            font-size: small;
+        }
+        .row-2{
+            display: inline-block;
+            width: 100px;
+            height: 70px;
+            margin: 0px;
+            line-height: 20px;
+            margin-left: 5px;
+            font-size: small;
+        }
+        .row-3{
+            width: 70px;
+            height: 70px;
+            display: inline-block;
+            margin: 0px;
+            margin-left: 5px;
+        }
+        .row-3-child{
+            width: 60px;
+            height: 60px;
+            line-height: 60px;
+        }
     }    
     @media screen and (max-width: 386px){
-        #block2 {
+        #block2{
             height: 280px;
         }
+        #block3{
+            height: 880px;
+        }
+        #types-div{
+            height: 800px;
+        }
+        .types{
+            width: 110px;
+            height: 60px;
+            line-height: 15px;
+            padding-top: 20px;
+        }
+            .types:hover{
+                width: 120px;
+                height: 70px;
+            }
     }
     @media screen and (max-width: 368px){
         #menu{
@@ -940,19 +993,31 @@ footer {
                 height: 60px;
             }
     } */
+    @media screen and (max-width: 301px){
+        .col{
+            width: 200px;
+            margin-bottom: 90px;
+        }
+            .row-3-child{
+                margin-left: 40px;
+            }
+        #block5{
+            height: 850px;
+        }
+        #contact{
+            height: 800px;
+        }
+    }    
     @media screen and (max-width: 295px){
         #block3-text{
             line-height: 40px;
         }
-        #contact{
-            height: 1600px;
-        }
-        #block5{
-            height: 3000px;
+        #block3{
+            height: 1150px;
         }
         #types-div{
             line-height: 90px;
-            height: 1300px;
+            height: 1100px;
         }
         .types{
             width: 140px;
@@ -967,6 +1032,10 @@ footer {
     @media screen and (max-width: 249px){
         #block2 {
             height: 420px;
+        }
+        #block3-text{
+            padding-left: 10px;
+            padding-right: 10px;
         }
     }
     @media screen and (max-width: 218px){
