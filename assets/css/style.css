@@ -59,19 +59,27 @@ h1, h2, h3 {
 /*In block 1 (Hero Image) of index.html*/
 #video {
     object-fit: cover;
-    height: 950px;
+    height: 100vh;
     width: 100vw;
     position: absolute;
     top: 0;
     left: 0;
     overflow: hidden;
 } 
-#caribbean-bg {
-    height: 950px;
+#index-hero{
+    height: 100vh;
     width: 100%;
     overflow: hidden;
     position: relative;
-    /* background: url(../hero.jpg) no-repeat center center; */
+}
+#caribbean-bg {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    background-size: 100% 100%;
+    border-bottom: 3px solid whitesmoke;
+    border-bottom-style: ridge;
+    background: url(../bvi3.jpg) no-repeat no-repeat;
     }
    
             #cover-text {
@@ -427,11 +435,12 @@ h1, h2, h3 {
     clear: both;
     line-height: 0;
     column-count: 4;
-    column-gap: 0px;
-    background-color: whitesmoke;
+    column-gap: 20px;
+    background-color: rgb(0, 0, 0);
 }
     #photos > img {
         width: 100%;
+        margin: 10px;
     }
 
 /*In Signup.html-------------------------------------------------------------------------------------------------------------------------------------*/
@@ -635,6 +644,9 @@ footer {
         #block4{
             height: 1300px;
         }
+        #photos {
+            column-count: 3;
+        }
     @media screen and (max-width: 1009px){
         .col{
             width: 150px;
@@ -692,6 +704,9 @@ footer {
             .types:hover{
                 width: 120px;
             }
+            #photos {
+                column-count: 2;
+            }    
     }
     @media screen and (max-width: 750px){
         #signup-block1{
@@ -901,6 +916,9 @@ footer {
         #logo{
             margin-top: 70px;
             font-size: 400%;
+        }
+        #photos {
+            column-count: 1;
         }
     }
     @media screen and (max-width: 403px){
