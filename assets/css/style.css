@@ -570,6 +570,22 @@ footer {
         Reduce to 3 collums for tablet size
         Reduce to 2 collums for smartphone size
         (Thank you and find us need fixing)*/
+    @media screen and (max-height: 1000px){
+        #video{
+            height: 1000px;
+        } 
+        #index-hero{
+            height: 1000px;
+        }
+    }
+    @media screen and (max-height: 900px){
+        #video{
+            height: 900px;
+        } 
+        #index-hero{
+            height: 900px;
+        }
+    }
     @media screen and (max-height: 800px){
         #video{
             height: 800px;
