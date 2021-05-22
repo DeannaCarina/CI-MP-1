@@ -17,7 +17,7 @@ h1, h2, h3 {
 }
 
 /*In the header of all pages in Travel Caribbean--------------------------------------------------------------------------------------------------------------*/
-#logo {
+#logo, .logo-page{
     font-size: 700%;
     padding-top: 40px;
     padding-left: 50px;
@@ -59,27 +59,27 @@ h1, h2, h3 {
 /*In block 1 (Hero Image) of index.html*/
 #video {
     object-fit: cover;
-    height: 100vh;
-    width: 100vw;
+    height: 1000px;
+    width: 100%;
     position: absolute;
     top: 0;
     left: 0;
     overflow: hidden;
 } 
 #index-hero{
-    height: 100vh;
+    height: 1000px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 #caribbean-bg {
-    height: 400px;
+    height: 230px;
     width: 100%;
     overflow: hidden;
     background-size: 100% 100%;
     border-bottom: 3px solid whitesmoke;
     border-bottom-style: ridge;
-    background: url(../bvi3.jpg) no-repeat no-repeat;
+    background-image: linear-gradient(0.25turn, #468088, #ecf0e9, #467ca0);
     }
    
             #cover-text {
@@ -120,7 +120,8 @@ h1, h2, h3 {
 }
 #block3 {
     height: 300px;
-    background-color: teal;
+    /* background-color: teal; */
+    background: url(../bvi3.jpg) center no-repeat no-repeat;
 }
     #types-div{
         width: 100%;
@@ -174,7 +175,7 @@ h1, h2, h3 {
         }
             .row-1{
                 height: 130px;
-                width: 290;
+                width: 290px;
                 margin: 10px;
                 /* background-color: violet; */
             }
@@ -204,7 +205,7 @@ h1, h2, h3 {
             }
             .row-3{
                 height: 80px;
-                width: 290;
+                width: 290px;
                 margin: 10px;
                 /* background-color: crimson; */
             }
@@ -436,11 +437,12 @@ h1, h2, h3 {
     line-height: 0;
     column-count: 4;
     column-gap: 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(71, 71, 71);
 }
     #photos > img {
         width: 100%;
         margin: 10px;
+        border-radius: 20px;
     }
 
 /*In Signup.html-------------------------------------------------------------------------------------------------------------------------------------*/
@@ -598,10 +600,18 @@ footer {
             }
     }
     @media screen and (max-width: 1323px){
+        #logo{
+            font-size: 500%;
+        }
         #cover-text{
             margin: 30px auto;
         }
     }    
+    @media screen and (max-width: 1310px){
+        .logo-page{
+            font-size: 350%;
+        }
+    }  
     @media screen and (max-width: 1289px){
         .col{
             width: 230px;
@@ -712,7 +722,7 @@ footer {
             #photos {
                 column-count: 2;
             }    
-    }
+    }  
     @media screen and (max-width: 750px){
         #signup-block1{
             background: url(../gallery/dominica4.jpg) no-repeat center center;
@@ -804,12 +814,12 @@ footer {
             float: none;
             margin: 160px auto 5px;
         }
-    }    
+    }
     @media screen and (max-width: 609px){
         #cover-text {
             width: 350px;
             height: 140px;
-            margin: 100px auto;
+            margin: none;
         }
     }
     @media screen and (max-width: 603px){
