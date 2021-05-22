@@ -569,7 +569,38 @@ footer {
         Reduce to 3 collums for tablet size
         Reduce to 2 collums for smartphone size
         (Thank you and find us need fixing)*/
-
+    @media screen and (max-height: 800px){
+        #video{
+            height: 800px;
+        } 
+        #index-hero{
+            height: 800px;
+        }
+    }  
+    @media screen and (max-height: 700px){
+        #video{
+            height: 700px;
+        } 
+        #index-hero{
+            height: 700px;
+        }
+    }  
+    @media screen and (max-height: 600px){
+        #video{
+            height: 600px;
+        } 
+        #index-hero{
+            height: 600px;
+        }
+    } 
+    @media screen and (max-height: 500px){
+        #video{
+            height: 500px;
+        } 
+        #index-hero{
+            height: 500px;
+        }
+    }
     @media screen and (max-width: 1752px){
         .types {
             width: 130px;
@@ -708,23 +739,26 @@ footer {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: 100% 100%;
         }
-        #cover-text {
-            font-size: 125%;
-            width: 500px;
-            padding: 30px;
-            line-height: 70px;
-            height: 150px;
-        }
     }
     @media screen and (max-width: 893px){
         .review-text {
             margin-left: 20px;
         }
     }    
+    @media screen and (max-width: 860px){
+        #cover-text {
+            width: 350px;
+            height: 140px;
+            margin: none;
+            font-size: 150%;
+            line-height: 55px;
+        }
+    }
     @media screen and (max-width: 825px){
         #block4{
             height: 1400px;
         }
+      
     @media screen and (max-width: 772px){
         .types{
             width: 110px;
@@ -845,13 +879,6 @@ footer {
             width: 170px;
         }
     }   
-    @media screen and (max-width: 609px){
-        #cover-text {
-            width: 350px;
-            height: 140px;
-            margin: none;
-        }
-    }
     @media screen and (max-width: 573px){ 
         #block3{
             height: 690px;
@@ -896,8 +923,10 @@ footer {
     @media screen and (max-width: 476px){
         #cover-text {
             width: 200px;
-            height: 280px;
+            height: 140px;
             margin: 30px auto;
+            font-size: 125%;
+            line-height: 40px;
         }
     }
     @media screen and (max-width: 467px){
@@ -1125,3 +1154,4 @@ footer {
             height: 490px;
         }
     }
+    
