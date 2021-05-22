@@ -60,7 +60,7 @@ h1, h2, h3 {
 /*In block 1 (Hero Image) of index.html*/
 #video {
     object-fit: cover;
-    height: 1000px;
+    height: 1100px;
     width: 100%;
     position: absolute;
     top: 0;
@@ -68,7 +68,7 @@ h1, h2, h3 {
     overflow: hidden;
 } 
 #index-hero{
-    height: 1000px;
+    height: 1100px;
     width: 100%;
     overflow: hidden;
     position: relative;
