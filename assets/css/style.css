@@ -752,7 +752,7 @@ footer {
         #cover-text {
             width: 350px;
             height: 140px;
-            margin: none;
+            margin: 0px;
             font-size: 150%;
             line-height: 55px;
         }
@@ -1024,9 +1024,9 @@ footer {
         .types{
             width: 100px;
         }
-            .types:hover{
-                width: 110px;
-            }
+        .types:hover{
+            width: 110px;
+        }
     }
     @media screen and (max-width: 406px){
         #logo{
