@@ -674,6 +674,7 @@ footer {
         }
         #block3{
             height: 500px;
+            background-size: auto 100%;
         }
         #block5{
             height: 470px;
