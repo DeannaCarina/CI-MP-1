@@ -171,6 +171,7 @@ h1, h2, h3 {
             width: 300px;
             display: inline-block;
             margin: 10px;
+            padding-right: 10px;
             /* background-color: chartreuse; */
         }
             .row-1{
@@ -612,7 +613,7 @@ footer {
             font-size: 350%;
         }
     }  
-    @media screen and (max-width: 1289px){
+    @media screen and (max-width: 1329px){
         .col{
             width: 230px;
         }
@@ -621,6 +622,12 @@ footer {
             font-size: 150%;
             line-height: 30px;
             height: 80px;
+        }
+        .row-1{
+            width: 220px;
+        }
+        .row-3{
+            width: 220px;
         }
     }    
     @media screen and (max-width: 1234px){
@@ -655,14 +662,7 @@ footer {
             font-size: 70%;
         }
     }
-    @media screen and (max-width: 1048px){
-        #block4{
-            height: 1300px;
-        }
-        #photos {
-            column-count: 3;
-        }
-    @media screen and (max-width: 1009px){
+    @media screen and (max-width: 1055px){
         .col{
             width: 150px;
         }
@@ -672,7 +672,20 @@ footer {
             line-height: 30px;
             height: 80px;
         }
-    }    
+        .row-1{
+            width: 140px;
+        }
+        .row-3{
+            width: 140px;
+        }
+    }
+    @media screen and (max-width: 1048px){
+        #block4{
+            height: 1300px;
+        }
+        #photos {
+            column-count: 3;
+        }  
     @media screen and (max-width: 950px){
         #signup-form{
             transform: rotate(0deg);
@@ -743,6 +756,26 @@ footer {
             color: black;
         }
     }  
+    @media screen and (max-width: 729px){
+        #block5{
+            height: 870px;
+        }
+        #contact{
+            height: 800px
+        }
+        .col{
+            width: 280px;
+        }
+        .row-2{
+            width: 260px;
+            font-size: 150%;
+            line-height: 30px;
+            height: 80px;
+        }
+        .row-1, .row-3{
+            width: 270px;
+        }
+    }
     @media screen and (max-width: 710px){
         #block4{
             height: 1500px;
@@ -766,23 +799,6 @@ footer {
             height: 70px;
             border-radius: 20px;
         }
-        #contact{
-            height: 800px
-        }
-        .col{
-            width: 280px;
-        }
-        .row-2{
-            width: 260px;
-            font-size: 150%;
-            line-height: 30px;
-            height: 80px;
-        }
-        #block5{
-            height: 870px;
-        }
-    }   
-    @media screen and (max-width: 690px){
         .types{
             width: 90px;
             font-size: small;
@@ -790,7 +806,7 @@ footer {
         .types:hover{
             width: 100px;
         }
-    }
+    } 
     @media screen and (max-width: 674px){
         #block4{
             height: 1600px;
@@ -815,6 +831,20 @@ footer {
             margin: 160px auto 5px;
         }
     }
+    @media screen and (max-width: 623px){
+        .col{
+            width: 180px;
+        }
+        .row-2{
+            width: 160px;
+            font-size: 100%;
+            line-height: 30px;
+            height: 80px;
+        }
+        .row-1, .row-3{
+            width: 170px;
+        }
+    }   
     @media screen and (max-width: 609px){
         #cover-text {
             width: 350px;
@@ -822,17 +852,6 @@ footer {
             margin: none;
         }
     }
-    @media screen and (max-width: 603px){
-        .col{
-            width: 180px;
-        }
-        .row-2{
-            width: 150px;
-            font-size: 100%;
-            line-height: 30px;
-            height: 80px;
-        }
-    }   
     @media screen and (max-width: 573px){ 
         #block3{
             height: 690px;
@@ -899,6 +918,53 @@ footer {
             margin: 250px auto 5px;
         }
     }
+    @media screen and (max-width: 423px){
+        #contact{
+            height: 500px
+        }
+        #block5{
+            height: 570px;
+        }
+        .col{
+            width: 300px;
+            height: 100px;
+            margin: 10px auto;
+            padding-right: 0;
+        }
+        .row-1{
+            height: 70px;
+            width: 70px;
+            display: inline-block;
+            margin: 0px;
+        }
+        .row-1-child{
+            width: 60px;
+            height: 60px;
+            line-height: 60px;
+            font-size: small;
+        }
+        .row-2{
+            display: inline-block;
+            width: 100px;
+            height: 70px;
+            margin: 0px;
+            line-height: 20px;
+            margin-left: 5px;
+            font-size: small;
+        }
+        .row-3{
+            width: 70px;
+            height: 70px;
+            display: inline-block;
+            margin: 0px;
+            margin-left: 5px;
+        }
+        .row-3-child{
+            width: 60px;
+            height: 60px;
+            line-height: 60px;
+        }
+    }    
     @media screen and (max-width: 420px){
         #signup-form{
             width: 200px;
@@ -938,52 +1004,8 @@ footer {
         }
     }
     @media screen and (max-width: 403px){
-        #contact{
-            height: 500px
-        }
-        #block5{
-            height: 570px;
-        }
         #types-div{
             height: 1050px;
-        }
-        .col{
-            width: 300px;
-            height: 100px;
-            margin: 10px auto;
-        }
-        .row-1{
-            height: 70px;
-            width: 70px;
-            display: inline-block;
-            margin: 0px;
-        }
-        .row-1-child{
-            width: 60px;
-            height: 60px;
-            line-height: 60px;
-            font-size: small;
-        }
-        .row-2{
-            display: inline-block;
-            width: 100px;
-            height: 70px;
-            margin: 0px;
-            line-height: 20px;
-            margin-left: 5px;
-            font-size: small;
-        }
-        .row-3{
-            width: 70px;
-            height: 70px;
-            display: inline-block;
-            margin: 0px;
-            margin-left: 5px;
-        }
-        .row-3-child{
-            width: 60px;
-            height: 60px;
-            line-height: 60px;
         }
     }    
     @media screen and (max-width: 386px){
