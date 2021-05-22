@@ -606,9 +606,9 @@ footer {
             width: 130px;
             font-size: large;
         }
-            .types:hover{
-                width: 140px;
-            }
+        .types:hover{
+            width: 140px;
+        }
     }
     @media screen and (max-width: 1470px){
         #brochure-toppage{
@@ -627,9 +627,9 @@ footer {
         .types{
             width: 110px;
         }
-            .types:hover{
-                width: 120px;
-            }
+        .types:hover{
+            width: 120px;
+        }
     }
     @media screen and (max-width: 1323px){
         #logo{
@@ -665,9 +665,9 @@ footer {
         .types{
             width: 130px;
         }
-            .types:hover{
-                width: 140px;
-            }
+        .types:hover{
+            width: 140px;
+        }
         #types-div{
             height: 500px;
             line-height: 135px;
@@ -684,6 +684,7 @@ footer {
         #block4{
             height: 1200px;
         }
+    }    
     @media screen and (max-width: 1070px){
         .page{
             width: 280px;
@@ -718,6 +719,7 @@ footer {
         #photos {
             column-count: 3;
         }  
+    }    
     @media screen and (max-width: 950px){
         #signup-form{
             transform: rotate(0deg);
@@ -759,17 +761,17 @@ footer {
         #block4{
             height: 1400px;
         }
-      
+    }  
     @media screen and (max-width: 772px){
         .types{
             width: 110px;
         }
-            .types:hover{
-                width: 120px;
-            }
-            #photos {
-                column-count: 2;
-            }    
+        .types:hover{
+            width: 120px;
+        }
+        #photos {
+            column-count: 2;
+        }    
     }  
     @media screen and (max-width: 750px){
         #signup-block1{
@@ -815,6 +817,7 @@ footer {
         #block4{
             height: 1500px;
         }
+    }    
     @media screen and (max-width: 690px){
         #block6 {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
@@ -846,6 +849,7 @@ footer {
         #block4{
             height: 1600px;
         }
+    }    
     @media screen and (max-width: 654px){
         #block4{
             height: 1550px;
@@ -1155,4 +1159,3 @@ footer {
             height: 490px;
         }
     }
-    
