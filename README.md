@@ -1,5 +1,8 @@
 # Travel Caribbean
 
+[<img src="https://img.youtube.com/vi/BL2B_9ZHvYM/maxresdefault.jpg" width="50%">](https://youtu.be/BL2B_9ZHvYM)
+
+
 https://deannacarina.github.io/CI-MP-1/index.html
 
 To-do list:
