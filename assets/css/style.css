@@ -602,22 +602,6 @@ footer {
             height: 700px;
         }
     }  
-    @media screen and (max-height: 600px){
-        #video{
-            height: 600px;
-        } 
-        #index-hero{
-            height: 600px;
-        }
-    } 
-    @media screen and (max-height: 500px){
-        #video{
-            height: 500px;
-        } 
-        #index-hero{
-            height: 500px;
-        }
-    }
     @media screen and (max-width: 1752px){
         .types {
             width: 130px;
