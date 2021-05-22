@@ -631,19 +631,6 @@ footer {
             width: 120px;
         }
     }
-    @media screen and (max-width: 1323px){
-        #logo{
-            font-size: 500%;
-        }
-        #cover-text{
-            margin: 30px auto;
-        }
-    }    
-    @media screen and (max-width: 1310px){
-        .logo-page{
-            font-size: 350%;
-        }
-    }  
     @media screen and (max-width: 1329px){
         .col{
             width: 230px;
@@ -660,7 +647,23 @@ footer {
         .row-3{
             width: 220px;
         }
+    } 
+    @media screen and (max-width: 1323px){
+        #logo{
+            font-size: 500%;
+        }
+        #cover-text{
+            margin: 30px auto;
+        }
     }    
+    @media screen and (max-width: 1310px){
+        .logo-page{
+            font-size: 350%;
+        }
+        #caribbean-bg{
+            height: 140px;
+        }
+    }     
     @media screen and (max-width: 1234px){
         .types{
             width: 130px;
@@ -743,6 +746,11 @@ footer {
             background-size: 100% 100%;
         }
     }
+    @media screen and (max-width: 939px){
+        #caribbean-bg{
+            height: 240px;
+        }
+    }    
     @media screen and (max-width: 893px){
         .review-text {
             margin-left: 20px;
