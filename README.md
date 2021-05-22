@@ -1,6 +1,6 @@
 # Travel Caribbean
 
-[<img src="https://img.youtube.com/vi/BL2B_9ZHvYM/maxresdefault.jpg" width="50%">](https://youtu.be/BL2B_9ZHvYM)
+<img src="assets/Responsive.gif" alt="Demo of Travel Caribbean site" width="100%">
 
 
 https://deannacarina.github.io/CI-MP-1/index.html
