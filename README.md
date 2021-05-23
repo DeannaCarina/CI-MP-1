@@ -152,7 +152,7 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
-<img src="assets/screen-index.png" alt="Screenshot of index.html"><br>
-<img src="assets/screen-gallery.png" alt="Screenshot of gallery.html"><br>
-<img src="assets/screen-contact.png" alt="Screenshot of contact.html"><br>
+<img src="assets/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
+<img src="assets/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
+<img src="assets/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
