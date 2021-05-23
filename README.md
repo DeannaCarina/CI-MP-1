@@ -13,20 +13,20 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     <li>
         <a href="#UX"><strong>UX</strong></a>
         <ul>
-            <li><a href="##Goals">Goals</a>
+            <li><a href="#Goals">Goals</a>
                 <ul>
                     <li>Vision</li>
                     <li>Aim</li>
                     <li>Target Audience</li>
                 </ul>
             </li>
-            <li><a href="##User-Stories">User Stories</a>
+            <li><a href="#User-Stories">User Stories</a>
                 <ul>
                     <li>New Customer</li>
                     <li>Returning Customer</li>
                 </ul>
             </li>
-            <li><a href="##Structure">Structure</a>
+            <li><a href="#Structure">Structure</a>
                 <ul>
                     <li>Design
                         <ul>
