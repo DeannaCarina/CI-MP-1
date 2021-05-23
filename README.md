@@ -8,10 +8,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
 
 <ul>
     <li>
-        **Demo**
+        <strong>Demo</strong>
     </li>
     <li>
-        **UX**
+        <strong>UX</strong>
         <ul>
             <li>Goals
                 <ul>
@@ -50,10 +50,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        **Technologies**
+        <strong>Technologies</strong>
     </li>
     <li>
-        **Features**
+        <strong>Features</strong>
         <ul>
             <li>
                 Features Left to Implement
@@ -61,7 +61,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        **Testing**
+        <strong>Testing</strong>
         <ul>
             <li>Fuctionality</li>
             <li>Compatibility</li>
@@ -73,10 +73,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>    
     </li>
     <li>
-        **Deployment**
+        <strong>Deployment</strong>
     </li>
     <li>
-        Credits
+        <strong>Credits
         <ul>
             <li>Content</li>
             <li>Credits - Images</li>
@@ -85,7 +85,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        **Screenshots**
+        <strong>Screenshots</strong>
     </li>
 </ul>
 
