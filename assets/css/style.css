@@ -692,9 +692,10 @@ footer {
     @media screen and (max-width: 1310px){
         .logo-page{
             font-size: 350%;
+            padding-top: 20px;
         }
         #caribbean-bg{
-            height: 140px;
+            height: 120px;
         }
     }     
     @media screen and (max-width: 1234px){
@@ -782,12 +783,12 @@ footer {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: 100% 100%;
         }
-    }
-    @media screen and (max-width: 939px){
+    }   
+    @media screen and (max-width: 911px){
         #caribbean-bg{
-            height: 240px;
+            height: 200px;
         }
-    }    
+    } 
     @media screen and (max-width: 893px){
         .review-text {
             margin-left: 20px;
@@ -1055,6 +1056,9 @@ footer {
         #signup-button{
             margin-top: 30px;
         }
+        #caribbean-bg{
+            height: 240px;
+        }
     }
     @media screen and (max-width: 417px){
         #thanks {
@@ -1154,6 +1158,13 @@ footer {
         }
         .review-border{
             margin: 360px auto 5px;
+        }
+        #caribbean-bg{
+            height: 280px;
+            text-align: center;
+        }
+        .logo-page{
+            padding: 0px;
         }
     }
     @media screen and (max-width: 319px){
