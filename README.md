@@ -98,13 +98,19 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <img src="assets/Responsive.gif" alt="Demo of Travel Caribbean site" width="100%">
 
 # UX
+<a href="#Contents">Back to the top.</a>
+
 ## Goals
 ### Vision
 ### Aim
 ### Target Audience
+<a href="#Contents">Back to the top.</a>
+
 ## User stories
 ### New customer
 ### Returning Customer
+<a href="#Contents">Back to the top.</a>
+
 ## Structure
 ### Design
 #### Typography
@@ -117,11 +123,14 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 #### Structure
 #### Skeleton (wireframes)
 #### Surface
+<a href="#Contents">Back to the top.</a>
 
 # Technologies
+<a href="#Contents">Back to the top.</a>
 
 # Features
 ## Features left to implement
+<a href="#Contents">Back to the top.</a>
 
 # Testing
 ## Functionality
@@ -130,13 +139,17 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 ## Code Validation
 ## Issues found during development
 ## Performance Testing (lighthouse)
+<a href="#Contents">Back to the top.</a>
     
 # Deployment
+<a href="#Contents">Back to the top.</a>
 
 # Credits
 ## Content
 ## Credits - Images
 ## Credits - Video
 ## Acknowledgements
+<a href="#Contents">Back to the top.</a>
 
 # Screenshots
+<a href="#Contents">Back to the top.</a>
