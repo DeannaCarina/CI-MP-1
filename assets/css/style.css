@@ -803,7 +803,7 @@ footer {
             line-height: 55px;
         }
     }
-    @media screen and (max-width: 825px){
+    @media screen and (max-width: 826px){
         #block4{
             height: 1400px;
         }
@@ -837,6 +837,11 @@ footer {
         }
         .form-white-text{
             color: black;
+        }
+    }  
+    @media screen and (max-width: 735px){
+        #block4{
+            height: 1450px;
         }
     }  
     @media screen and (max-width: 729px){
@@ -898,7 +903,7 @@ footer {
     }    
     @media screen and (max-width: 654px){
         #block4{
-            height: 1550px;
+            height: 1600px;
         }
         .review-left, .review-right {
             float: none;
@@ -985,7 +990,7 @@ footer {
             height: 260px;
         }
         #block4{
-            height: 1850px;
+            height: 1900px;
         }
         .review-left, .review-right {
             float: none;
