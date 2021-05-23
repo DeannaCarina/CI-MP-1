@@ -501,9 +501,9 @@ h1, h2, h3 {
         }
     #signup-form {
         width: 500px;
-        height: 500px;
-        background-color:rgba(245, 245, 245, 0.466);
-        color: gray;
+        height: 450px;
+        background-color:rgba(245, 245, 245, 0.651);
+        color: rgb(85, 85, 85);
         float: right;
         margin-top: 30px;
         padding: 50px;
@@ -520,8 +520,13 @@ h1, h2, h3 {
             width: 400px;
             background: whitesmoke;
         }
+        #budget{
+            line-height: 20px;
+            width: 100px;
+            background: whitesmoke;
+        }
     .form-white-text {
-        color: white;
+        color: rgb(85, 85, 85);
     }    
     #signup-button {
         width: 150px;

@@ -40,47 +40,35 @@
                 <div id="brochure-footer">Great deals inside!</div>
             </div>
             <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net/" target="_blank">
-                <h1>Sign up to our FREE brochure... <i class="fas fa-glass-cheers"></i></h1>
+                <h1>Contact us... <i class="fas fa-glass-cheers"></i></h1>
                 <label for="fname">First Name:</label><br>
-                <input type="text" id="fname" name="first_name" class="form-text"><br><br>
+                <input type="text" id="fname" name="first_name" class="form-text" required><br>
                 <label for="lname">Last Name:</label><br>
-                <input type="text" id="lname" name="last_name" class="form-text"><br><br>
+                <input type="text" id="lname" name="last_name" class="form-text" required><br>
                 <label for="email">Email Address:</label><br>
-                <input type="email" id="email" name="email_address" class="form-text"><br><br>
-                <h3 class="form-white-text">Interested in a more bespoke brochure as well?</h3>
-                    <div>
-                        <input type="checkbox" id="lucayan-archipelago" name="lucayan-archipelago">
-                        <label for="lucayan-archipelago" class="form-white-text"><strong>Lucayan Archipelago</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="cuba" name="cuba">
-                        <label for="cuba" class="form-white-text"><strong>Cuba</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="cayman-islands-jamaica" name="cayman-islands-jamaica">
-                        <label for="cayman-islands-jamaica" class="form-white-text"><strong>Cayman Islands & Jamaica</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="hispaniola-puerto-rico" name="hispaniola-puerto-rico">
-                        <label for="hispaniola-puerto-rico" class="form-white-text"><strong>Hispaniola & Puerto Rico</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="leeward-antilles" name="leeward-antilles">
-                        <label for="leeward-antilles" class="form-white-text"><strong>Leeward Islands</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="windward-islands" name="windward-islands">
-                        <label for="windward-islands" class="form-white-text"><strong>Windward Islands</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="trinidad-barbados" name="trinidad-barbados">
-                        <label for="trinidad-barbadoss" class="form-white-text"><strong>Trinidad and Tobago & Barbados</strong></label>
-                    </div>
-                    <div>
-                        <input type="checkbox" id="abc-islands" name="abc-islands">
-                        <label for="abc-islands" class="form-white-text"><strong>Aruba, Bonaire & Curacao</strong></label>
-                    </div>
-                    <input type="submit" value="Sign me up!" id="signup-button" class="button">    
+                <input type="email" id="email" name="email_address" class="form-text" required><br>
+                <label for="budget">Budget:</label><br>
+                £<input type="number" id="budget" name="budget_price" class="form-text">
+                or $<input type="number" id="budget" name="budget_price" class="form-text">
+                or €<input type="number" id="budget" name="budget_price" class="form-text"><br><br>
+            <h3 class="form-white-text">Island Group...</h3>
+                <input type="checkbox" id="lucayan-archipelago" name="lucayan-archipelago">
+                <label for="lucayan-archipelago" class="form-white-text"><strong>Lucayan Archipelago</strong></label><br>
+                <input type="checkbox" id="cuba" name="cuba">
+                <label for="cuba" class="form-white-text"><strong>Cuba</strong></label><br>
+                <input type="checkbox" id="cayman-islands-jamaica" name="cayman-islands-jamaica">
+                <label for="cayman-islands-jamaica" class="form-white-text"><strong>Cayman Islands & Jamaica</strong></label><br>
+                <input type="checkbox" id="hispaniola-puerto-rico" name="hispaniola-puerto-rico">
+                <label for="hispaniola-puerto-rico" class="form-white-text"><strong>Hispaniola & Puerto Rico</strong></label><br>
+                <input type="checkbox" id="leeward-antilles" name="leeward-antilles">
+                <label for="leeward-antilles" class="form-white-text"><strong>Leeward Islands</strong></label><br>
+                <input type="checkbox" id="windward-islands" name="windward-islands">
+                <label for="windward-islands" class="form-white-text"><strong>Windward Islands</strong></label><br>
+                <input type="checkbox" id="trinidad-barbados" name="trinidad-barbados">
+                <label for="trinidad-barbadoss" class="form-white-text"><strong>Trinidad and Tobago & Barbados</strong></label><br>
+                <input type="checkbox" id="abc-islands" name="abc-islands">
+                <label for="abc-islands" class="form-white-text"><strong>Aruba, Bonaire & Curacao</strong></label><br>
+                <input type="submit" value="Sign me up!" id="signup-button" class="button">    
             </form>
         </div>
     </section>
