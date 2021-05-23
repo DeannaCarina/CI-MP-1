@@ -8,25 +8,25 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
 
 <ul>
     <li>
-        <strong>[Demo] (#Demo)</strong>
+        <a href="#demo"><strong>Demo</strong></a>
     </li>
     <li>
-        <strong>[UX] (#UX)</strong>
+        <a href="#UX"><strong>UX</strong></a>
         <ul>
-            <li>[Goals] (##Goals)
+            <li><a href="##Goals">Goals</a>
                 <ul>
                     <li>Vision</li>
                     <li>Aim</li>
                     <li>Target Audience</li>
                 </ul>
             </li>
-            <li>[User Stories] (##User-Stories)
+            <li><a href="##User-Stories">User Stories</a>
                 <ul>
                     <li>New Customer</li>
                     <li>Returning Customer</li>
                 </ul>
             </li>
-            <li>[Structure] (##Structure)
+            <li><a href="##Structure">Structure</a>
                 <ul>
                     <li>Design
                         <ul>
@@ -50,10 +50,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        <strong>[Technologies] (#Technologies)</strong>
+        <a href="#Technologies"><strong>Technologies</strong></a>
     </li>
     <li>
-        <strong>[Features] (#Features)</strong>
+        <a href="#Features"><strong>Features</strong></a>
         <ul>
             <li>
                 Features Left to Implement
@@ -61,7 +61,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        <strong>[Testing] (#Testing)</strong>
+        <a href="#Testing"><strong>Testing</strong></a>
         <ul>
             <li>Fuctionality</li>
             <li>Compatibility</li>
@@ -73,10 +73,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>    
     </li>
     <li>
-        <strong>[Deployment] (#Deployment)</strong>
+        <a href="#Deployment"><strong>Deployment</strong></a>
     </li>
     <li>
-        <strong>[Credits] (#Credits)</strong>
+       <a href="#Credits"><strong>Credits</strong></a> 
         <ul>
             <li>Content</li>
             <li>Credits - Images</li>
@@ -85,7 +85,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        <strong>[Screenshots] (#Screenshots)</strong>
+        <a href="#Screenshots"><strong>Screenshots</strong></a>
     </li>
 </ul>
 
