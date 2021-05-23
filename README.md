@@ -1,7 +1,6 @@
 # Travel Caribbean
 
-Milestone One Project: HTML/CSS Essentials - Code Institute 
-## Deadline - 1st July 2021
+Milestone One Project: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
 
 This is my submission for Code Institute's Milestone One Project. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with **ONLY** HTML5 and CSS3. The website covers the most basic function of the company: "The new way to plan your Caribbean getaway", the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month. There are also contact links at the bottom of the page with personal links to my own Instagram acount as all static images have come from my own photography portfolio.
 
