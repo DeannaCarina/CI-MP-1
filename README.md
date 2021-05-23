@@ -19,7 +19,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
                     <li>Aim</li>
                     <li>Target Audience</li>
                 </ul>
-            <li>
+            </li>
             <li>User Stories
                 <ul>
                     <li>New Customer</li>
