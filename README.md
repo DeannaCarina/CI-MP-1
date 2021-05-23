@@ -76,7 +76,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         <strong>Deployment</strong>
     </li>
     <li>
-        <strong>Credits
+        <strong>Credits</strong>
         <ul>
             <li>Content</li>
             <li>Credits - Images</li>
