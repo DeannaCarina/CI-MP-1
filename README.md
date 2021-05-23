@@ -8,25 +8,25 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
 
 <ul>
     <li>
-        <strong>Demo</strong>
+        <strong>[Demo] (#Demo)</strong>
     </li>
     <li>
-        <strong>UX</strong>
+        <strong>[UX] (#UX)</strong>
         <ul>
-            <li>Goals
+            <li>[Goals] (##Goals)
                 <ul>
                     <li>Vision</li>
                     <li>Aim</li>
                     <li>Target Audience</li>
                 </ul>
             </li>
-            <li>User Stories
+            <li>[User Stories] (##User-Stories)
                 <ul>
                     <li>New Customer</li>
                     <li>Returning Customer</li>
                 </ul>
             </li>
-            <li>Structure
+            <li>[Structure] (##Structure)
                 <ul>
                     <li>Design
                         <ul>
@@ -50,10 +50,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        <strong>Technologies</strong>
+        <strong>[Technologies] (#Technologies)</strong>
     </li>
     <li>
-        <strong>Features</strong>
+        <strong>[Features] (#Features)</strong>
         <ul>
             <li>
                 Features Left to Implement
@@ -61,7 +61,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        <strong>Testing</strong>
+        <strong>[Testing] (#Testing)</strong>
         <ul>
             <li>Fuctionality</li>
             <li>Compatibility</li>
@@ -73,10 +73,10 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>    
     </li>
     <li>
-        <strong>Deployment</strong>
+        <strong>[Deployment] (#Deployment)</strong>
     </li>
     <li>
-        <strong>Credits</strong>
+        <strong>[Credits] (#Credits)</strong>
         <ul>
             <li>Content</li>
             <li>Credits - Images</li>
@@ -85,7 +85,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         </ul>
     </li>
     <li>
-        <strong>Screenshots</strong>
+        <strong>[Screenshots] (#Screenshots)</strong>
     </li>
 </ul>
 
