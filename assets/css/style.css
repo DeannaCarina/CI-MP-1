@@ -423,22 +423,28 @@ iframe{
     padding: 50px;
 }
 .islands-map{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     float: left;
-    margin-left: 120px;
-    margin-top: 200px;
+    margin-left: 250px;
+    margin-top: 250px;
     box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
     border: 8px solid rgb(226, 225, 225);
     border-radius: 40px;
     border-style: ridge;
 }
+.islands-map:hover{
+    width: 580px;
+    height: 580px;
+    margin-left: 60px;
+    margin-top: 110px;
+}
 #islandbutton {
     width: 200px;
     height: 50px;
     border-radius: 150px;
-    margin-top: 60px;
-    margin-left: 230px;
+    margin-top: 40px;
+    margin-left: 300px;
 }
 #map-link-1{
     background: url(../islands-backgrounds/antigua1.jpg);
