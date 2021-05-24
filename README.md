@@ -42,6 +42,12 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
                             <li>Scope</li>
                             <li>Structure</li>
                             <li>Skeleton</li>
+                                <ul>
+                                    <li>index.html</li>
+                                    <li>islands.html</li>
+                                    <li>gallery.html</li>
+                                    <li>contact.html</li>
+                                </ul>
                             <li>Surface</li>
                         </ul>
                     </li>
