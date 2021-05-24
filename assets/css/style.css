@@ -161,7 +161,7 @@ h1, h2, h3 {
 
 /*In block 5 (Contact, company ethos, partnerships) of index.html*/
 #block5 {
-    height: 470px;
+    height: 540px;
     background: url(../gallery/bvi4.jpg) no-repeat center center;
     background-attachment: fixed;
 }
@@ -174,13 +174,24 @@ h1, h2, h3 {
         padding-top: 40px;
     }
     #contact-link{
+        height: 50px;
+        width: 400px;
+        line-height: 50px;
+        margin: auto;
         background-color: rgba(58, 57, 57, 0.514);
         box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
+        border: 5px solid rgb(226, 225, 225);
+        border-style: ridge;
+        border-radius: 20px;
     }
+        #contact-link:hover{
+            background-color: rgba(40, 85, 81, 0.637);
+        }
     #contact-link a{
         color: white;
         text-shadow: 2px 2px rgba(128, 128, 128, 0.46);
         text-decoration: none;
+        font-weight: 1000;
     }
     #contact-link a:hover {
         color: grey;
@@ -713,9 +724,6 @@ footer {
             height: 500px;
             background-size: auto 100%;
         }
-        #block5{
-            height: 470px;
-        }
     }
     @media screen and (max-width: 1142px){
         #block4{
@@ -846,7 +854,7 @@ footer {
     }  
     @media screen and (max-width: 729px){
         #block5{
-            height: 870px;
+            height: 920px;
         }
         #contact{
             height: 800px
@@ -1008,7 +1016,13 @@ footer {
             height: 500px
         }
         #block5{
-            height: 570px;
+            height: 650px;
+        }
+        #contact-link{
+            width: 200px;
+            height: 50px;
+            line-height: 25px;
+            padding: 10px;
         }
         .col{
             width: 300px;
@@ -1124,12 +1138,7 @@ footer {
         #menu li{
             margin-right: 10px;
         }
-    }
-    @media screen and (max-width: 365px){
-        #block5{
-            height: 600px;
-        }
-    }    
+    } 
     @media screen and (max-width: 360px){
         #block2 {
             height: 320px;
@@ -1186,7 +1195,7 @@ footer {
                 margin-left: 40px;
             }
         #block5{
-            height: 890px;
+            height: 950px;
         }
         #contact{
             height: 800px;
@@ -1220,6 +1229,11 @@ footer {
         #block3-text{
             padding-left: 10px;
             padding-right: 10px;
+        }
+        #contact-link{
+            width: 150px;
+            height: 65px;
+            line-height: 20px;
         }
     }
     @media screen and (max-width: 218px){
