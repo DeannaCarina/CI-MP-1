@@ -407,10 +407,8 @@ iframe{
     height: 2000px;
 }
 .islands-section{
-    height: 920px;
+    height: 950px;
     width: 100%;
-    border-top: 3px solid red;
-    border-bottom: 3px solid blue;
 }    
 .islands-text{
     width: 60%;
@@ -421,9 +419,8 @@ iframe{
     margin-top: 120px;
 }
 .islands-map{
-    width: 25%;
+    width: 400px;
     height: 400px;
-    background-color: hotpink;
     float: left;
     margin-left: 120px;
     margin-top: 200px;
@@ -433,7 +430,7 @@ iframe{
     height: 50px;
     border-radius: 150px;
     margin-top: 60px;
-    margin-left: 250px;
+    margin-left: 230px;
 }
 #map-link-1{
     background: url(../islands-backgrounds/antigua1.jpg);
@@ -465,6 +462,38 @@ iframe{
 }
 #map-link-8{
     background: url(../islands-backgrounds/curacao1b.jpg);
+    background-size: 100% 100%; 
+}
+#map-1{
+    background: url(../small-maps/lucayan.png);
+    background-size: 100% 100%; 
+}
+#map-2{
+    background: url(../small-maps/cuba.png);
+    background-size: 100% 100%; 
+}
+#map-3{
+    background: url(../small-maps/ci-jamaica.png);
+    background-size: 100% 100%; 
+}
+#map-4{
+    background: url(../small-maps/hispaniola-pr.png);
+    background-size: 100% 100%; 
+}
+#map-5{
+    background: url(../small-maps/leeward.png);
+    background-size: 100% 100%; 
+}
+#map-6{
+    background: url(../small-maps/windward.png);
+    background-size: 100% 100%; 
+}
+#map-7{
+    background: url(../small-maps/tt-barbados.png);
+    background-size: 100% 100%; 
+}
+#map-8{
+    background: url(../small-maps/abc.png);
     background-size: 100% 100%; 
 }
 
