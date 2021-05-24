@@ -388,8 +388,6 @@ iframe{
     height: 60px;
     line-height: 60px;
     display: inline-block;
-    margin-bottom: 1%;
-    padding: 0px;
     text-align: center;
     background-color: rgba(94, 94, 94, 0.781);
     transition-duration: 0.5s;
@@ -702,6 +700,23 @@ footer {
             width: 140px;
         }
     }
+    @media screen and (max-width: 1600px){
+        /* #islands-header{
+            height: 950px;
+        }    */
+        /* #map-links-container{
+            height: 170px;
+            line-height: 160px;
+        } */
+        .hov-map {
+            font-size: small;
+            width: 6%;
+            height: auto;
+            padding: 10px;
+            line-height: 15px;
+            margin: 2%;
+        }
+    }
     @media screen and (max-width: 1470px){
         #brochure-toppage{
             margin-left: 30px;
@@ -817,6 +832,19 @@ footer {
             column-count: 3;
         }  
     }    
+    @media screen and (max-width: 987px){
+        /* #islands-header{
+            height: 950px;
+        }    */
+        /* #map-links-container{
+            height: 170px;
+            line-height: 160px;
+        } */
+        .hov-map {
+            width: 60px;
+            margin: 0.5%;
+        }
+    }
     @media screen and (max-width: 950px){
         #signup-form{
             transform: rotate(0deg);
@@ -895,6 +923,19 @@ footer {
             color: black;
         }
     }  
+    @media screen and (max-width: 736px){
+        /* #islands-header{
+            height: 950px;
+        }    */
+        #map-links-container{
+            height: 170px;
+            line-height: 80px;
+        }
+        .hov-map {
+            width: 90px;
+            margin: 0.5%;
+        }
+    }
     @media screen and (max-width: 735px){
         #block4{
             height: 1450px;
@@ -1039,6 +1080,13 @@ footer {
             margin: 30px auto;
             font-size: 125%;
             line-height: 40px;
+        }
+        #islands-header{
+            height: 980px;
+        }   
+        #map-links-container{
+            height: 200px;
+            line-height: 55px;
         }
     }
     @media screen and (max-width: 467px){
@@ -1192,6 +1240,15 @@ footer {
             height: 320px;
         }
     }
+    @media screen and (max-width: 352px){
+        #islands-header{
+            height: 1050px;
+        }   
+        #map-links-container{
+            height: 270px;
+            line-height: 55px;
+        }
+    }
     @media screen and (max-width: 327px){
         #menu li{
             text-align: right;
@@ -1282,6 +1339,15 @@ footer {
             width: 150px;
             height: 65px;
             line-height: 20px;
+        }
+    }
+    @media screen and (max-width: 231px){
+        #islands-header{
+            height: 1270px;
+        }   
+        #map-links-container{
+            height: 500px;
+            line-height: 55px;
         }
     }
     @media screen and (max-width: 218px){
