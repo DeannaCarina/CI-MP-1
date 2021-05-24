@@ -95,7 +95,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
 # Demo
 A live demo of the website can be found <a href="https://deannacarina.github.io/CI-MP-1/index.html" target="_blank">**HERE**</a>
 
-<img src="assets/Responsive.gif" alt="Demo of Travel Caribbean site" width="100%">
+<img src="assets/images-readme/Responsive.gif" alt="Demo of Travel Caribbean site" width="100%">
 
 # UX
 <a href="#Contents">Back to the top.</a>
@@ -152,7 +152,7 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
-<img src="assets/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
-<img src="assets/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
-<img src="assets/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
+<img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
+<img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
+<img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
