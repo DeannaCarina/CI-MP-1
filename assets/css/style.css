@@ -434,6 +434,38 @@ iframe{
     margin-top: 60px;
     margin-left: 250px;
 }
+#map-link-1{
+    background: url(../islands-backgrounds/antigua1.jpg);
+    background-size: 100% 100%;
+}
+#map-link-2{
+    background: url(../islands-backgrounds/cuba1.jpg);
+    background-size: 100% 100%;
+}
+#map-link-3{
+    background: url(../islands-backgrounds/bvi2.jpg);
+    background-size: 100% 100%; 
+}
+#map-link-4{
+    background: url(../islands-backgrounds/domrep1.jpg);
+    background-size: 100% 100%; 
+}
+#map-link-5{
+    background: url(../islands-backgrounds/stmaarten2.jpg);
+    background-size: 100% 100%; 
+}
+#map-link-6{
+    background: url(../islands-backgrounds/dominica3.jpg);
+    background-size: 100% 100%; 
+}
+#map-link-7{
+    background: url(../islands-backgrounds/barbados3.jpg);
+    background-size: 100% 100%; 
+}
+#map-link-8{
+    background: url(../islands-backgrounds/curacao1b.jpg);
+    background-size: 100% 100%; 
+}
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #photos {
