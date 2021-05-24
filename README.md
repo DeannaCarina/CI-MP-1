@@ -122,10 +122,18 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 #### Scope
 #### Structure
 #### Skeleton (wireframes)
+##### index.html
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html"><br><hr><br>
+
+##### islands.html
 <img src="assets/images-readme/wire-islands.png" alt="Wireframe plan of islands.html"><br><hr><br>
+
+##### gallery.html
 <img src="assets/images-readme/wire-gallery.png" alt="Wireframe plan of gallery.html"><br><hr><br>
+
+##### contact.html
 <img src="assets/images-readme/wire-contact.png" alt="Wireframe plan of contact.html"><br><br>
+
 #### Surface
 <a href="#Contents">Back to the top.</a>
 
