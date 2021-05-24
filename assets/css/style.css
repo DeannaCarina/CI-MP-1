@@ -117,6 +117,7 @@ h1, h2, h3 {
 /*In block 3 (Types of holiday) of index.html*/
 #block3-text {
     color: whitesmoke;
+    text-align: center;
     line-height: 80px;
     font-size: x-large;
     background-color: rgba(57, 104, 116, 0.8);
@@ -414,7 +415,7 @@ iframe{
 .islands-text{
     width: 60%;
     height: 600px;
-    background-color: rgba(128, 128, 128, 0.685);
+    background-color: rgba(255, 255, 255, 0.781);
     float: right;
     margin-right: 120px;
     margin-top: 120px;
