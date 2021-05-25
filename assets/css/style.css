@@ -78,7 +78,7 @@ h1, h2, h3 {
     box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
 }
 .caribbean-bg {
-    height: 170px;
+    height: auto;
     width: 100%;
     overflow: hidden;
     background-size: 100% 100%;
@@ -366,7 +366,7 @@ h1, h2, h3 {
 /*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 #islands-header{
-    height: 950px;
+    height: auto;
 }   
 iframe{
     height: 600px;
@@ -978,6 +978,7 @@ footer {
     @media screen and (max-width: 531px){
         #menu{
             font-size: 100%;
+            padding-left: 60px;
         }
         #menu li{
             margin-right: 20px;
@@ -1017,6 +1018,11 @@ footer {
             line-height: 55px;
         }
     }
+    @media screen and (max-width: 470px){
+        .logo-page{
+            padding-right: 50px;
+        }
+    }    
     @media screen and (max-width: 467px){
         #block2 {
             height: 260px;
@@ -1211,7 +1217,7 @@ footer {
             text-align: center;
         }
         .logo-page{
-            padding: 0px;
+            padding-left: 20px;
         }
     }
     @media screen and (max-width: 319px){
@@ -1254,6 +1260,14 @@ footer {
                 width: 150px;
                 height: 55px;
             }
+    }
+    @media screen and (max-width: 261px){
+        .logo-page{
+            font-size: 280%;
+        }
+        #menu{
+            padding-left: 0px;
+        }
     }
     @media screen and (max-width: 249px){
         #block2 {
