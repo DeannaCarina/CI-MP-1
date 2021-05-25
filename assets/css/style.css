@@ -408,11 +408,18 @@ iframe{
     background-size: 100% 100%;
 }
 .islands-section{
-    height: 950px;
+    height: 100vh;
     width: 100%;
 }    
-#map-link-2, #map-link-4, #map-link-6, #map-link-8{
+#map-link-1, #map-link-5{
     background-color: rgba(54, 54, 54, 0.575);
+    background-image: url(../islands-backgrounds/thanks.jpg);
+    background-size: cover;
+}
+#map-link-3, #map-link-7{
+    background-color: rgba(54, 54, 54, 0.575);
+    background-image: url(../islands-backgrounds/brochurelandscape.jpg);
+    background-size: cover;
 }
 .islands-text{
     width: 50%;
