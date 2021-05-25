@@ -759,17 +759,16 @@ footer {
         }  
         .islands-text{
             height: 400px;
-            position: relative;
-            bottom: 0;
         }
         #big-islands{
             height: auto
         }
         .islands-map{
-            margin-left: 500px;
-            margin-top: 5px;
-            position: relative;
-            top: 0;
+            margin-left: 65%;
+        }
+        #islandbutton{
+            margin-top: -700px;
+            margin-left: 400px;
         }
     }    
     @media screen and (max-width: 1470px){
