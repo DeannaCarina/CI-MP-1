@@ -402,7 +402,10 @@ iframe{
     }
 #big-islands{
     width: 100%;
-    height: 2000px;
+    height: 7600px;
+    background: url(../islands-backgrounds/review.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 .islands-section{
     height: 950px;
@@ -443,38 +446,6 @@ iframe{
     border-radius: 150px;
     margin-top: 40px;
     margin-left: 300px;
-}
-#map-link-1{
-    background: url(../islands-backgrounds/antigua1.jpg);
-    background-size: 100% 100%;
-}
-#map-link-2{
-    background: url(../islands-backgrounds/cuba1.jpg);
-    background-size: 100% 100%;
-}
-#map-link-3{
-    background: url(../islands-backgrounds/bvi2.jpg);
-    background-size: 100% 100%; 
-}
-#map-link-4{
-    background: url(../islands-backgrounds/domrep1.jpg);
-    background-size: 100% 100%; 
-}
-#map-link-5{
-    background: url(../islands-backgrounds/stmaarten2.jpg);
-    background-size: 100% 100%; 
-}
-#map-link-6{
-    background: url(../islands-backgrounds/dominica3.jpg);
-    background-size: 100% 100%; 
-}
-#map-link-7{
-    background: url(../islands-backgrounds/barbados3.jpg);
-    background-size: 100% 100%; 
-}
-#map-link-8{
-    background: url(../islands-backgrounds/curacao1b.jpg);
-    background-size: 100% 100%; 
 }
 #map-1{
     background: url(../small-maps/lucayan.png);
@@ -611,8 +582,7 @@ iframe{
         border-radius: 20px;
         margin-top: 20px;
     }
-
-/*Footer of all site pages-------------------------------------------------------------------------------------------------------------------------------------*/
+/*Footer of all site pages---------------------------------------------------------------------------------------------------------------------------------*/
 footer {
     height: 170px;
     width: 100%;
@@ -633,32 +603,7 @@ footer {
     footer a {
         color: darkgray;
     }
-
-    /*Media responsiveness for all pages on the Travel Caribbean website---------------------------------------------------------------------------------------------*/
-
-    /*  FOR INDEX.HTML
-        Hero Image needs fixing at 1000px - height of image needs reducing
-        Capture text breaks at 515px - section needs extending in height
-        Types of holiday breaks at 625px - font needs making smaller, and EITHER type boxes smaller OR section extending in height
-        Reviews break at 1295px - section needs extending - this needs repeating a few tims as screen size reduces
-        Thank you breaks at 1150px - button gets overridden and goes out of site - positional fix in HTML with %positioning?
-        Find us breaks at 1175px - goes onto 2 lines - make icons smaller and margins smaller
-
-        FOR RECOMMENDATIONS.HTML - page needs creating
-        (Thank you and find us need fixing)
-
-        FOR MAPS.HTML
-        Large map breaks pretty much straight away - surely there's a better way to style this?
-        Small map text boxes break at 1500 - need reducing in width
-        ^ at a smaller width text box can go below small map
-        Small maps break straight away, set fixed width and height rather than % to fix
-        Side-by-side buttons break at 1225px - need placing below one another instead
-        (Thank you and find us need fixing)
-
-        FOR GALLERY.HTML
-        Reduce to 3 collums for tablet size
-        Reduce to 2 collums for smartphone size
-        (Thank you and find us need fixing)*/
+    /*Media responsiveness for all pages on the Travel Caribbean website-------------------------------------------------------------------------------------*/
     @media screen and (max-height: 1000px){
         #video{
             height: 1000px;
@@ -701,13 +646,6 @@ footer {
         }
     }
     @media screen and (max-width: 1600px){
-        /* #islands-header{
-            height: 950px;
-        }    */
-        /* #map-links-container{
-            height: 170px;
-            line-height: 160px;
-        } */
         .hov-map {
             font-size: small;
             width: 6%;
@@ -833,13 +771,6 @@ footer {
         }  
     }    
     @media screen and (max-width: 987px){
-        /* #islands-header{
-            height: 950px;
-        }    */
-        /* #map-links-container{
-            height: 170px;
-            line-height: 160px;
-        } */
         .hov-map {
             width: 60px;
             margin: 0.5%;
@@ -924,9 +855,6 @@ footer {
         }
     }  
     @media screen and (max-width: 736px){
-        /* #islands-header{
-            height: 950px;
-        }    */
         #map-links-container{
             height: 170px;
             line-height: 80px;
