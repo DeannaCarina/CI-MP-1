@@ -476,6 +476,12 @@ iframe{
     background: url(../small-maps/abc.png);
     background-size: 100% 100%; 
 }
+#map2section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/cuba.png);
+}
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #photos {
