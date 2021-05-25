@@ -476,11 +476,53 @@ iframe{
     background: url(../small-maps/abc.png);
     background-size: 100% 100%; 
 }
+#map1section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/lucayan.png);
+}
 #map2section{
     height: 900px;
     width: 900px;
     margin: auto auto;
     background-image: url(../small-maps/cuba.png);
+}
+#map3section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/ci-jamaica.png);
+}
+#map4section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/hispaniola-pr.png);
+}
+#map5section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/leeward.png);
+}
+#map6section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/windward.png);
+}
+#map7section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/tt-barbados.png);
+}
+#map8section{
+    height: 900px;
+    width: 900px;
+    margin: auto auto;
+    background-image: url(../small-maps/abc.png);
 }
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
