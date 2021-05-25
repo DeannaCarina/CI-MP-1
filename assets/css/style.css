@@ -479,56 +479,81 @@ iframe{
 .island-page{
     width: 100%;
     height: 100vh;
-    background-color: hotpink;
+    background-color: white;
     text-align: center;
+    padding-top: 50px;
 }
+.island-page h1{
+    font-size: 400%;
+    color: rgb(70, 70, 70);
+    text-shadow: 8px 8px rgba(151, 150, 150, 0.46);
+}
+#island-page-button{
+    color: ivory;
+    width: 250px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+    #island-page-button:hover{
+        cursor: pointer;
+    }
 #map1section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 700px;
     margin: auto auto;
     background-image: url(../small-maps/lucayan.png);
+    background-size: cover;
 }
 #map2section{
-    height: 900px;
+    height: 700px;
     width: 900px;
     margin: auto auto;
     background-image: url(../small-maps/cuba.png);
+    background-size: cover;
 }
 #map3section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 700px;
     margin: auto auto;
     background-image: url(../small-maps/ci-jamaica.png);
+    background-size: cover;
 }
 #map4section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 850px;
     margin: auto auto;
     background-image: url(../small-maps/hispaniola-pr.png);
+    background-size: cover;
 }
 #map5section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 700px;
     margin: auto auto;
     background-image: url(../small-maps/leeward.png);
+    background-size: cover;
 }
 #map6section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 700px;
     margin: auto auto;
     background-image: url(../small-maps/windward.png);
+    background-size: cover;
 }
 #map7section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 700px;
     margin: auto auto;
     background-image: url(../small-maps/tt-barbados.png);
+    background-size: cover;
 }
 #map8section{
-    height: 900px;
-    width: 900px;
+    height: 700px;
+    width: 700px;
     margin: auto auto;
-    background-image: url(../small-maps/abc.png);
+    background-image: url(../small-maps/abc-big.png);
+    background-size: cover;
 }
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
