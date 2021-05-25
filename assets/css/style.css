@@ -411,6 +411,9 @@ iframe{
     height: 950px;
     width: 100%;
 }    
+#map-link-2, #map-link-4, #map-link-6, #map-link-8{
+    background-color: rgba(54, 54, 54, 0.575);
+}
 .islands-text{
     width: 50%;
     height: 500px;
@@ -433,12 +436,6 @@ iframe{
     border: 8px solid rgb(226, 225, 225);
     border-radius: 40px;
     border-style: ridge;
-}
-.islands-map:hover{
-    width: 580px;
-    height: 580px;
-    margin-left: 60px;
-    margin-top: 110px;
 }
 #islandbutton {
     width: 200px;
