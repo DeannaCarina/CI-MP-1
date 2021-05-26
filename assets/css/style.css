@@ -422,21 +422,28 @@ iframe{
     background-size: cover;
 }
 .islands-text{
-    width: 50%;
-    height: 55%;
+    width: 800px;
+    height: 500px;
     background-color: rgba(255, 255, 255, 0.877);
-    margin-right: 80px;
-    margin-top: 85px;
     box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
     border: 1px solid transparent;
     border-radius: 40px;
     padding: 50px;
     float: right;
-    position: relative;
-    bottom: 500px;
+    margin-right: 150px;
+    margin-top: 100px;
 }
 .fa-arrow-circle-up{
     color: transparent;
+}
+.map-section-link-container{
+    width: 316px;
+    height: 385px;
+    margin-left: 50px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 100px;
 }
 .islands-map{
     width: 300px;
@@ -445,17 +452,12 @@ iframe{
     border: 8px solid rgb(226, 225, 225);
     border-radius: 40px;
     border-style: ridge;
-    position: relative;
-    top: 0;
-    margin-left: 200px;
-    margin-top: 200px;
 }
 #islandbutton {
     width: 200px;
     height: 50px;
+    margin-top: 15px;
     border-radius: 150px;
-    margin-left: 200px;
-    margin-top: 50px;
 }
 #map-1{
     background: url(../small-maps/lucayan.png);
@@ -724,13 +726,6 @@ footer {
         #index-hero{
             height: 700px;
         }
-        .islands-text{
-            height: 300px;
-            margin-top: 50px;
-        }
-        .islands-map{
-            margin-top: 50px;
-        }
     }  
     @media screen and (max-width: 1752px){
         .types {
@@ -750,32 +745,20 @@ footer {
             line-height: 15px;
             margin: 2%;
         }
-        .fa-arrow-circle-left{
-            color: transparent;
-        }
-        .fa-arrow-circle-up{
-            color: black;
-        }
-        .islands-section{
-            height: 1300px;
-            display: inline-block;
-        }  
-        .islands-text{
-            height: 400px;
-            bottom: 50px;
-        }
         #big-islands{
             height: auto
         }
-        .islands-map{
-            float: right;
-            margin-right: 20%;
-            margin-left: 0px;
-            
+    }    
+    @media screen and (max-width: 1530px){
+        .map-section-link-container{
+            width: 216px;
         }
-        #islandbutton {
-            margin-left: 40%;
-            margin-top: 450px;
+        .islands-map{
+            width: 200px;
+            height: 200px;
+        }
+        .islands-text{
+            width: 600px;
         }
     }    
     @media screen and (max-width: 1470px){
@@ -803,15 +786,7 @@ footer {
         }
     }
     @media screen and (max-width: 1350px){
-        .islands-text{
-            width: 700px;
-        }
-        #islandbutton {
-            margin: 0px;
-            position: relative;
-            left: 300px;
-            top: 450px
-        }
+        
     }
     @media screen and (max-width: 1329px){
         .col{
@@ -863,9 +838,42 @@ footer {
             background-size: auto 100%;
         }
     }
+    @media screen and (max-width: 1230px){
+        .map-section-link-container{
+            width: 216px;
+            height: 300px;
+            float: right;
+            margin-right: 180px;
+        }
+        .islands-map{
+            width: 200px;
+            height: 200px;
+        }
+        .islands-text{
+            width: 700px;
+            margin-top: 0px;
+        }
+        .islands-section{
+            height: 1200px;
+        }
+        .fa-arrow-circle-left{
+            color: transparent;
+        }
+        .fa-arrow-circle-up{
+            color: black;
+        }
+    }  
     @media screen and (max-width: 1142px){
         #block4{
             height: 1200px;
+        }
+    }   
+    @media screen and (max-width: 1100px){ 
+        .map-section-link-container{
+            margin-right: 50px;
+        }
+        .islands-text{
+            margin-right: 40px;
         }
     }    
     @media screen and (max-width: 1070px){
@@ -898,9 +906,6 @@ footer {
         .row-3{
             width: 140px;
         }
-        #islandbutton {
-            left: 150px;
-        }
     }
     @media screen and (max-width: 1048px){
         #block4{
@@ -917,9 +922,7 @@ footer {
         }
     }
     @media screen and (max-width: 960px){
-        .islands-text{
-            width: 500px;
-        }
+        
     }
     @media screen and (max-width: 950px){
         #signup-form{
@@ -949,6 +952,15 @@ footer {
             height: 200px;
         }
     } 
+    @media screen and (max-width: 900px){
+        .islands-text{
+            width: 500px;
+            height: 700px;
+        }
+        .islands-section{
+            height: 1400px;
+        }
+    }    
     @media screen and (max-width: 893px){
         .review-text {
             margin-left: 20px;
@@ -961,10 +973,6 @@ footer {
             margin: 150px auto;
             font-size: 150%;
             line-height: 55px;
-        }
-        .islands-map{
-            margin-top: 100px;
-            margin-bottom: 100px;
         }
     }
     @media screen and (max-width: 826px){
@@ -982,13 +990,6 @@ footer {
         #photos {
             column-count: 2;
         }    
-        .islands-text{
-            width: 400px;
-        }
-        .islands-text h2{
-            font-size: medium;
-            font-family: 'lato';
-        }
     }  
     @media screen and (max-width: 750px){
         #signup-block1{
@@ -1050,6 +1051,15 @@ footer {
             height: 1500px;
         }
     }    
+    @media screen and (max-width: 700px){
+        .islands-text{
+            width: 300px;
+        }
+        .islands-text h2{
+            font-family: 'lato';
+            font-size: medium;
+        }
+    }
     @media screen and (max-width: 690px){
         #block6 {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
@@ -1081,9 +1091,6 @@ footer {
         #block4{
             height: 1600px;
         }
-        .islands-text{
-            width: 350px;
-        }
     }    
     @media screen and (max-width: 654px){
         #block4{
@@ -1105,12 +1112,6 @@ footer {
             margin: 160px auto 5px;
         }
     }
-    @media screen and (max-width: 644px){
-        #islandbutton {
-            position: unset;
-            margin-left: 130px;
-        }
-    }
     @media screen and (max-width: 623px){
         .col{
             width: 180px;
@@ -1123,11 +1124,6 @@ footer {
         }
         .row-1, .row-3{
             width: 170px;
-        }
-        .islands-text{
-            margin-left: 40px;
-            margin-right: 40px;
-            text-align: center;
         }
     }   
     @media screen and (max-width: 573px){ 
@@ -1157,9 +1153,6 @@ footer {
             margin-top: 70px;
             font-size: 500%;
         }    
-        .islands-text{
-            width: 300px;
-        }
     } 
     @media screen and (max-width: 518px){
         #block2 {
@@ -1190,20 +1183,24 @@ footer {
             height: 250px;
             line-height: 55px;
         }
-        .islands-text{
-            width: auto;
-        }
-        .islands-map{
-            height: 200px;
-            width: 200px;
-        }
-        #islandbutton{
-            margin-left: 50px;
-        }
     }
     @media screen and (max-width: 470px){
         .logo-page{
             padding-right: 50px;
+        }
+        #islands-header{
+            height: 1050px;
+        } 
+        .islands-text{
+            width: 200px;
+            margin-right: 10px;
+            height: 900px;
+        }
+        .islands-text h2{
+            text-align: center;
+        }
+        .islands-section{
+            height: 1550px;
         }
     }    
     @media screen and (max-width: 467px){
@@ -1343,10 +1340,7 @@ footer {
             .types:hover{
                 width: 120px;
                 height: 70px;
-            }
-        .islands-text h2{
-            font-size: small;
-        }    
+            }    
     }
     @media screen and (max-width: 368px){
         #menu{
@@ -1363,11 +1357,10 @@ footer {
     }
     @media screen and (max-width: 352px){
         #islands-header{
-            height: 1050px;
+            height: 1100px;
         }   
         #map-links-container{
-            height: 270px;
-            line-height: 55px;
+            height: 280px;
         }
     }
     @media screen and (max-width: 327px){
@@ -1406,6 +1399,15 @@ footer {
         .logo-page{
             padding-left: 20px;
         }
+        #islands-header{
+            height: 1150px;
+        }
+        .islands-text{
+            padding: 10px;
+        }   
+        .map-section-link-container{
+            margin-right: 10px;
+        } 
     }
     @media screen and (max-width: 319px){
         #block2 {
@@ -1425,14 +1427,6 @@ footer {
         }
         #contact{
             height: 800px;
-        }
-        .islands-map{
-            width: 150px;
-            height: 150px;
-        }
-        #islandbutton{
-            font-size: small;
-            width: 150px;
         }
     }    
     @media screen and (max-width: 295px){
@@ -1463,6 +1457,9 @@ footer {
         #menu{
             padding-left: 0px;
         }
+        #islands-header{
+            height: 1120px;
+        }
     }
     @media screen and (max-width: 249px){
         #block2 {
@@ -1480,7 +1477,7 @@ footer {
     }
     @media screen and (max-width: 231px){
         #islands-header{
-            height: 1270px;
+            height: 1350px;
         }   
         #map-links-container{
             height: 500px;
