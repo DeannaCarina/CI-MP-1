@@ -1279,8 +1279,9 @@ footer {
     }    
     @media screen and (max-width: 420px){
         #signup-form{
-            width: 200px;
-            height: 600px;
+            width: 225px;
+            height: 540px;
+            padding: 20px;
         }
         #fname, #lname, #email{
              width: 200px;
