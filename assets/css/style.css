@@ -801,12 +801,6 @@ footer {
             width: 120px;
         }
     }
-    @media screen and (max-width: 1350px){
-        
-    }
-    @media screen and (max-width: 1329px){
-        
-    } 
     @media screen and (max-width: 1323px){
         #logo{
             font-size: 500%;
