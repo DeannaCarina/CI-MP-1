@@ -961,11 +961,14 @@ footer {
     } 
     @media screen and (max-width: 900px){
         .islands-text{
-            width: 500px;
+            width: 540px;
             height: 700px;
         }
         .islands-section{
             height: 1400px;
+        }
+        .island-info{
+            height: 620px;
         }
     }    
     @media screen and (max-width: 893px){
@@ -1060,7 +1063,8 @@ footer {
     }    
     @media screen and (max-width: 700px){
         .islands-text{
-            width: 300px;
+            width: 350px;
+            padding: 15px;
         }
         .islands-text h2{
             font-family: 'lato';
@@ -1199,7 +1203,7 @@ footer {
             height: 1050px;
         } 
         .islands-text{
-            width: 200px;
+            width: 275px;
             margin-right: 10px;
             height: 900px;
         }
@@ -1208,6 +1212,9 @@ footer {
         }
         .islands-section{
             height: 1550px;
+        }
+        .island-info{
+            height: 800px;
         }
     }    
     @media screen and (max-width: 467px){
@@ -1409,9 +1416,9 @@ footer {
         #islands-header{
             height: 1150px;
         }
-        .islands-text{
+        /* .islands-text{
             padding: 10px;
-        }   
+        }    */
         .map-section-link-container{
             margin-right: 10px;
         } 
