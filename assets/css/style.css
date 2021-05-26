@@ -763,6 +763,23 @@ footer {
             width: 600px;
         }
     }    
+    @media screen and (max-width: 1476px){
+        .col{
+            width: 230px;
+        }
+        .row-2{
+            width: 200px;
+            font-size: 150%;
+            line-height: 30px;
+            height: 80px;
+        }
+        .row-1{
+            width: 220px;
+        }
+        .row-3{
+            width: 220px;
+        }
+    }
     @media screen and (max-width: 1470px){
         #brochure-toppage{
             margin-left: 30px;
@@ -788,21 +805,7 @@ footer {
         
     }
     @media screen and (max-width: 1329px){
-        .col{
-            width: 230px;
-        }
-        .row-2{
-            width: 200px;
-            font-size: 150%;
-            line-height: 30px;
-            height: 80px;
-        }
-        .row-1{
-            width: 220px;
-        }
-        .row-3{
-            width: 220px;
-        }
+        
     } 
     @media screen and (max-width: 1323px){
         #logo{
