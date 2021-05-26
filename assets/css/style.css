@@ -798,6 +798,9 @@ footer {
         .types:hover{
             width: 120px;
         }
+        #big-islands{
+            background-size: cover;
+        }
     }
     @media screen and (max-width: 1350px){
         .islands-text{
