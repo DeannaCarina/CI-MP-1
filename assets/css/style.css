@@ -18,7 +18,7 @@ h1, h2, h3 {
 }
 
 /*In the header of all pages in Travel Caribbean--------------------------------------------------------------------------------------------------------------*/
-#logo, .logo-page{
+#index-logo, .sub-pages-logo{
     font-size: 700%;
     padding-top: 10px;
     padding-left: 50px;
@@ -50,15 +50,15 @@ h1, h2, h3 {
 
 
 /*In the main body of index.html-------------------------------------------------------------------------------------------------------------------------------------*/
-#block3, #block4, #block5, #block6 {
+#index-types-div, #index-reviews-section, #index-steps-section, #turtle-banner{
     width: 100%;
     padding: 0;
     margin: 0;
     text-align: center;
 }
 
-/*In block 1 (Hero Image) of index.html*/
-#video {
+/*In hero video of index.html*/
+#index-hero-video {
     object-fit: cover;
     height: 1100px;
     width: 100%;
@@ -67,17 +67,17 @@ h1, h2, h3 {
     left: 0;
     overflow: hidden;
 } 
-#index-hero{
+#index-hero-section{
     height: 1100px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
-#top-bar{
+#index-top-bar-div{
     background-color: rgba(85, 84, 84, 0.514);
     box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
 }
-.caribbean-bg {
+.sub-pages-top-bar {
     height: auto;
     width: 100%;
     overflow: hidden;
@@ -86,7 +86,7 @@ h1, h2, h3 {
     border-bottom-style: ridge;
     background-image: linear-gradient(0.25turn, #468088, #ecf0e9, #467ca0);
     } 
-            #cover-text {
+            #index-cover-text-div {
                 /* color: rgb(102, 102, 102);
                 text-shadow: 3px 3px rgba(235, 235, 235, 0.9); */
                 color:  rgba(235, 235, 235, 0.9);
@@ -106,7 +106,7 @@ h1, h2, h3 {
             }
 
 /*In block 2 (Website capture text) of index.html*/
-#block2 {
+#index-capture-text-section{
     height: 220px;
     background-color: whitesmoke;
     font-size: 110%;
@@ -115,7 +115,7 @@ h1, h2, h3 {
 }
 
 /*In block 3 (Types of holiday) of index.html*/
-#block3-text {
+#heading-bar{
     color: whitesmoke;
     text-align: center;
     line-height: 80px;
@@ -126,12 +126,12 @@ h1, h2, h3 {
     border-bottom: 8px solid rgb(226, 225, 225);
     border-style: ridge;
 }
-#block3 {
+#index-types-div {
     height: 300px;
     /* background-color: teal; */
     background: url(../bvi3.jpg) center no-repeat no-repeat;
 }
-    #types-div{
+    #index-types-container{
         width: 100%;
         height: 300px;
     }
@@ -160,12 +160,12 @@ h1, h2, h3 {
         }
 
 /*In block 5 (Contact, company ethos, partnerships) of index.html*/
-#block5 {
+#index-steps-section{
     height: 540px;
     background: url(../gallery/bvi4.jpg) no-repeat center center;
     background-attachment: fixed;
 }
-    #contact{
+    #index-steps-div{
         height: 400px;
         width: 90%;
         /* background-color: rgba(255, 105, 180, 0.582); */
@@ -173,7 +173,7 @@ h1, h2, h3 {
         padding-bottom: 30px;
         padding-top: 40px;
     }
-    #contact-link{
+    #index-steps-contact-link{
         height: 50px;
         width: 400px;
         line-height: 50px;
@@ -184,19 +184,19 @@ h1, h2, h3 {
         border-style: ridge;
         border-radius: 20px;
     }
-        #contact-link:hover{
+        #index-steps-contact-link:hover{
             background-color: rgba(40, 85, 81, 0.637);
         }
-    #contact-link a{
+    #index-steps-contact-link a{
         color: white;
         text-shadow: 2px 2px rgba(128, 128, 128, 0.46);
         text-decoration: none;
         font-weight: 1000;
     }
-    #contact-link a:hover {
+    #index-steps-contact-link a:hover {
         color: grey;
     }
-        .col{
+        .index-steps-col{
             /* background-color: teal; */
             height: 380px;
             width: 300px;
@@ -205,13 +205,13 @@ h1, h2, h3 {
             padding-right: 10px;
             /* background-color: chartreuse; */
         }
-            .row-1{
+            .index-steps-row-1{
                 height: 130px;
                 width: 290px;
                 margin: 10px;
                 /* background-color: violet; */
             }
-                .row-1-child{
+                .index-steps-row-1-child{
                     height: 120px;
                     width: 120px;
                     background-color: rgba(85, 85, 85, 0.699);
@@ -222,7 +222,7 @@ h1, h2, h3 {
                     border: 5px solid rgb(226, 225, 225);
                     border-style: ridge;
                 }
-            .row-2{
+            .index-steps-row-2{
                 font-size: 200%;
                 line-height: 40px;
                 font-weight: bolder;
@@ -235,13 +235,13 @@ h1, h2, h3 {
                 border: 5px solid rgb(226, 225, 225);
                 border-style: ridge;
             }
-            .row-3{
+            .index-steps-row-3{
                 height: 80px;
                 width: 290px;
                 margin: 10px;
                 /* background-color: crimson; */
             }
-                .row-3-child{
+                .index-steps-row-3-child{
                     height: 70px;
                     width: 70px;
                     background-color: rgba(255, 255, 255, 0.829);
@@ -254,7 +254,7 @@ h1, h2, h3 {
                 }
 
 /*In block 4 (Reviews) of index.html*/
-#block4 {
+#index-reviews-section {
     height: 1200px;
     background-color: lightgray;
     background: url(../antigua4.jpg) no-repeat center center;
@@ -320,7 +320,7 @@ h1, h2, h3 {
 
 
 /*In block 6 (Turtle Image) Thank you and Sign up button of index.html*/
-#block6 {
+#turtle-banner {
     height: 700px;
     border-top: 4px solid darkgrey;
     background: url(../barbados2.jpg) no-repeat center center;
@@ -329,7 +329,7 @@ h1, h2, h3 {
     padding: 0;
     text-align: center;
 }
-        #thanks {
+        #turtle-banner-thanks {
             width: 600px;
             height: 180px;
             background-color: rgba(56, 56, 56, 0.61);
@@ -337,27 +337,27 @@ h1, h2, h3 {
             padding-top: 30px;
             margin: 300px auto 70px;
         }
-        #thanks h1 {
+        #turtle-banner-thanks h1 {
             color: white;
             font-size: 300%;
             margin: 0;
         }
         
-        .button {
+        .styled-button {
             background-color: rgba(94, 94, 94, 0.781);
             border: 3px solid whitesmoke;
             font-size: large;
             transition-duration: 0.5s;
             }
-            .button:hover {
+            .styled-button:hover {
                 background-color: rgb(136, 160, 172);
                 box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
             }
-            .button a {
+            .styled-button a {
                 text-decoration: none;
                 color: white;
             }
-            #turtlebutton {
+            #turtle-button {
                 width: 450px;
                 height: 80px;
                 border-radius: 20px;
@@ -365,13 +365,13 @@ h1, h2, h3 {
 
 /*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-#islands-header{
+#islands-header-container{
     height: auto;
 }   
 iframe{
     height: 600px;
 }
-#map-links-container{
+#islands-internal-nav-bar{
     width: 100%;
     height: 170px;
     line-height: 160px;
@@ -419,7 +419,7 @@ iframe{
     background-size: cover;
     background-attachment: fixed;
 }
-.islands-text{
+.islands-section-text-div{
     width: 800px;
     height: 500px;
     background-color: rgba(255, 255, 255, 0.877);
@@ -441,7 +441,7 @@ iframe{
 .fa-arrow-circle-up{
     color: transparent;
 }
-.map-section-link-container{
+.islands-section-map-link-container{
     width: 316px;
     height: 385px;
     margin-left: 50px;
@@ -458,7 +458,7 @@ iframe{
     border-radius: 40px;
     border-style: ridge;
 }
-#islandbutton {
+#islands-back-to-top{
     width: 200px;
     height: 50px;
     margin-top: 15px;
@@ -577,7 +577,7 @@ iframe{
 }
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
-#photos {
+#gallery-photos-section{
     clear: both;
     line-height: 0;
     column-count: 4;
@@ -585,27 +585,27 @@ iframe{
     background-color: rgb(71, 71, 71);
     padding-right: 20px;
 }
-    #photos > img {
+    #gallery-photos-section > img {
         width: 100%;
         margin: 10px;
         border-radius: 20px;
     }
 
 /*In Signup.html-------------------------------------------------------------------------------------------------------------------------------------*/
-#signup-block1 {
+#contact-page-section{
     height: 660px;
     width: 100%;
     background: url(../stmaarten1.jpg) no-repeat center center;
     border-top: 8px solid darkgray;
 }
-    .page {
+    .contact-brochure-page {
         height: 500px;
         width: 400px;
         padding: 0;
         border: 0;
         display: inline-block;
     }
-    #brochure-toppage {
+    #contact-brochure-top-page {
         background-color: rgb(224, 223, 223);
         margin-top: 80px;
         margin-left: 250px;
@@ -615,19 +615,19 @@ iframe{
         float: left;
         box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
     }
-        #brochure-toppage h1 {
+        #contact-brochure-top-page h1 {
             text-align: left;
             margin-left: 20px;
         }
-        #brochure-toppage h2 {
+        #contact-brochure-top-page h2 {
             font-size: 80%;
         }
-        #beachpic {
+        #contact-brochure-image {
             width: 100%;
             border-top: 4px solid darkgray;
             border-bottom: 4px solid darkgray;
         }
-        #brochure-footer {
+        #contact-brochure-footer {
             width: 100%;
             height: 5%;
             background-color: grey;
@@ -664,14 +664,14 @@ iframe{
     .form-white-text {
         color: rgb(85, 85, 85);
     }    
-    #signup-button {
+    #contact-form-button {
         width: 150px;
         height: 50px;
         border-radius: 10px;
         float: right;
         border: 1px solid white;
     }
-    #brochurebutton {
+    #contact-brochure-button {
         width: 250px;
         font-size: 100%;
         height: 80px;
@@ -689,7 +689,7 @@ footer {
     border-top: 8px solid darkgray;
     text-align: center;
 }
-    .findus li {
+    .find-us li {
         font-size: 200%;
         display: inline;
         list-style-type: none;
@@ -701,34 +701,34 @@ footer {
     }
     /*Media responsiveness for all pages on the Travel Caribbean website-------------------------------------------------------------------------------------*/
     @media screen and (max-height: 1000px){
-        #video{
+        #index-hero-video{
             height: 1000px;
         } 
-        #index-hero{
+        #index-hero-section{
             height: 1000px;
         }
     }
     @media screen and (max-height: 900px){
-        #video{
+        #index-hero-video{
             height: 900px;
         } 
-        #index-hero{
+        #index-hero-section{
             height: 900px;
         }
     }
     @media screen and (max-height: 800px){
-        #video{
+        #index-hero-video{
             height: 800px;
         } 
-        #index-hero{
+        #index-hero-section{
             height: 800px;
         }
     }  
     @media screen and (max-height: 700px){
-        #video{
+        #index-hero-video{
             height: 700px;
         } 
-        #index-hero{
+        #index-hero-section{
             height: 700px;
         }
     }  
@@ -752,36 +752,36 @@ footer {
         }
     }    
     @media screen and (max-width: 1530px){
-        .map-section-link-container{
+        .islands-section-map-link-container{
             width: 216px;
         }
         .islands-map{
             width: 200px;
             height: 200px;
         }
-        .islands-text{
+        .islands-section-text-div{
             width: 600px;
         }
     }    
     @media screen and (max-width: 1476px){
-        .col{
+        .index-steps-col{
             width: 230px;
         }
-        .row-2{
+        .index-steps-row-2{
             width: 200px;
             font-size: 150%;
             line-height: 30px;
             height: 80px;
         }
-        .row-1{
+        .index-steps-row-1{
             width: 220px;
         }
-        .row-3{
+        .index-steps-row-3{
             width: 220px;
         }
     }
     @media screen and (max-width: 1470px){
-        #brochure-toppage{
+        #contact-brochure-top-page{
             margin-left: 30px;
         }
         #signup-form{
@@ -789,7 +789,7 @@ footer {
         }
     }
     @media screen and (max-width: 1432px){
-        #contact{
+        #index-steps-div{
             width: 100%;
         }
     }
@@ -802,19 +802,19 @@ footer {
         }
     }
     @media screen and (max-width: 1323px){
-        #logo{
+        #index-logo{
             font-size: 500%;
         }
-        #cover-text{
+        #index-cover-text-div{
             margin: 150px auto;
         }
     }    
     @media screen and (max-width: 1310px){
-        .logo-page{
+        .sub-pages-logo{
             font-size: 350%;
             padding-top: 20px;
         }
-        #caribbean-bg{
+        .sub-pages-top-bar{
             height: 120px;
         }
     }     
@@ -825,17 +825,17 @@ footer {
         .types:hover{
             width: 140px;
         }
-        #types-div{
+        #index-types-container{
             height: 500px;
             line-height: 135px;
         }
-        #block3{
+        #index-types-div{
             height: 500px;
             background-size: auto 100%;
         }
     }
     @media screen and (max-width: 1230px){
-        .map-section-link-container{
+        .islands-section-map-link-container{
             width: 216px;
             height: 300px;
             float: right;
@@ -845,7 +845,7 @@ footer {
             width: 200px;
             height: 200px;
         }
-        .islands-text{
+        .islands-section-text-div{
             width: 700px;
             margin-top: 0px;
         }
@@ -860,54 +860,54 @@ footer {
         }
     }  
     @media screen and (max-width: 1142px){
-        #block4{
+        #index-reviews-section{
             height: 1200px;
         }
     }   
     @media screen and (max-width: 1100px){ 
-        .map-section-link-container{
+        .islands-section-map-link-container{
             margin-right: 50px;
         }
-        .islands-text{
+        .islands-section-text-div{
             margin-right: 40px;
         }
     }    
     @media screen and (max-width: 1070px){
-        .page{
+        .contact-brochure-page{
             width: 280px;
             height: 350px;
             font-size: 70%;
         }
-        #brochure-footer{
+        #contact-brochure-footer{
             font-size: 70%;
         }
-        #brochurebutton {
+        #contact-brochure-button{
             width: 200px;
             height: 60px;
         }
     }
     @media screen and (max-width: 1055px){
-        .col{
+        .index-steps-col{
             width: 150px;
         }
-        .row-2{
+        .index-steps-row-2{
             width: 120px;
             font-size: 100%;
             line-height: 30px;
             height: 80px;
         }
-        .row-1{
+        .index-steps-row-1{
             width: 140px;
         }
-        .row-3{
+        .index-steps-row-3{
             width: 140px;
         }
     }
     @media screen and (max-width: 1048px){
-        #block4{
+        #index-reviews-section{
             height: 1300px;
         }
-        #photos {
+        #gallery-photos-section{
             column-count: 3;
         }  
     }    
@@ -916,9 +916,6 @@ footer {
             width: 60px;
             margin: 0.5%;
         }
-    }
-    @media screen and (max-width: 960px){
-        
     }
     @media screen and (max-width: 950px){
         #signup-form{
@@ -929,27 +926,27 @@ footer {
         #fname, #lname, #email{
             width: 300px;
         }
-        #signup-button{
+        #contact-form-button{
             height: 30px;
             width: 100px;
             margin-top: 5px;
             font-size: 70%;
         }
-        .findus li{
+        .find-us li{
             font-size: 80%;
         }
-        #block6 {
+        #turtle-banner{
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: 100% 100%;
         }
     }   
     @media screen and (max-width: 911px){
-        #caribbean-bg{
+        .sub-pages-top-bar{
             height: 200px;
         }
     } 
     @media screen and (max-width: 900px){
-        .islands-text{
+        .islands-section-text-div{
             width: 540px;
             height: 700px;
         }
@@ -966,7 +963,7 @@ footer {
         }
     }    
     @media screen and (max-width: 860px){
-        #cover-text {
+        #index-cover-text-div{
             width: 350px;
             height: 140px;
             margin: 150px auto;
@@ -975,7 +972,7 @@ footer {
         }
     }
     @media screen and (max-width: 826px){
-        #block4{
+        #index-reviews-section{
             height: 1400px;
         }
     }  
@@ -986,12 +983,12 @@ footer {
         .types:hover{
             width: 120px;
         }
-        #photos {
+        #gallery-photos-section{
             column-count: 2;
         }    
     }  
     @media screen and (max-width: 750px){
-        #signup-block1{
+        #contact-page-section{
             background: url(../gallery/dominica4.jpg) no-repeat center center;
             background-attachment: fixed;
             height: 1200px;
@@ -1011,7 +1008,7 @@ footer {
         }
     }  
     @media screen and (max-width: 736px){
-        #map-links-container{
+        #islands-internal-nav-bar{
             height: 170px;
             line-height: 80px;
         }
@@ -1021,37 +1018,37 @@ footer {
         }
     }
     @media screen and (max-width: 735px){
-        #block4{
+        #index-reviews-section{
             height: 1450px;
         }
     }  
     @media screen and (max-width: 729px){
-        #block5{
+        #index-steps-section{
             height: 920px;
         }
-        #contact{
+        #index-steps-div{
             height: 800px
         }
-        .col{
+        .index-steps-col{
             width: 280px;
         }
-        .row-2{
+        .index-steps-row-2{
             width: 260px;
             font-size: 150%;
             line-height: 30px;
             height: 80px;
         }
-        .row-1, .row-3{
+        .index-steps-row-1, .index-steps-row-3{
             width: 270px;
         }
     }
     @media screen and (max-width: 710px){
-        #block4{
+        #index-reviews-section{
             height: 1500px;
         }
     }    
     @media screen and (max-width: 700px){
-        .islands-text{
+        .islands-section-text-div{
             width: 350px;
             padding: 15px;
         }
@@ -1061,20 +1058,20 @@ footer {
         }
     }
     @media screen and (max-width: 690px){
-        #block6 {
+        #turtle-banner{
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: auto 100%;
         }
-        #thanks {
+        #turtle-banner-thanks{
             width: 400px;
             height: 130px;
             padding-top: 30px;
             margin: 300px auto 70px;
         }
-        #thanks h1 {
+        #turtle-banner-thanks h1 {
             font-size: 200%;
         }
-        #turtlebutton {
+        #turtle-button {
             width: 330px;
             height: 70px;
             border-radius: 20px;
@@ -1088,12 +1085,12 @@ footer {
         }
     } 
     @media screen and (max-width: 674px){
-        #block4{
+        #index-reviews-section{
             height: 1600px;
         }
     }    
     @media screen and (max-width: 654px){
-        #block4{
+        #index-reviews-section{
             height: 1600px;
         }
         .review-left, .review-right {
@@ -1113,24 +1110,24 @@ footer {
         }
     }
     @media screen and (max-width: 623px){
-        .col{
+        .index-steps-col{
             width: 180px;
         }
-        .row-2{
+        .index-steps-row-2{
             width: 160px;
             font-size: 100%;
             line-height: 30px;
             height: 80px;
         }
-        .row-1, .row-3{
+        .index-steps-row-1, .index-steps-row-3{
             width: 170px;
         }
     }   
     @media screen and (max-width: 573px){ 
-        #block3{
+        #index-types-div{
             height: 690px;
         }
-        #types-div{
+        #index-types-container{
             height: 630px;
         }
         .types{
@@ -1149,49 +1146,49 @@ footer {
         #menu li{
             margin-right: 20px;
         }
-        #logo{
+        #index-logo{
             margin-top: 70px;
             font-size: 500%;
         }    
     } 
     @media screen and (max-width: 518px){
-        #block2 {
+        #index-capture-text-section{
             font-size: 100%;
             height: 220px;
         }
-        #block3-text {
+        #heading-bar{
             font-size: small;
         }
-        #block6 {
+        #turtle-banner{
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: auto 100%;
             background-position: right;
         }        
     }
     @media screen and (max-width: 476px){
-        #cover-text {
+        #index-cover-text-div{
             width: 200px;
             height: 140px;
             margin: 30px auto;
             font-size: 125%;
             line-height: 40px;
         }
-        #islands-header{
+        #islands-header-container{
             height: 980px;
         }   
-        #map-links-container{
+        #islands-internal-nav-bar{
             height: 250px;
             line-height: 55px;
         }
     }
     @media screen and (max-width: 470px){
-        .logo-page{
+        .sub-pages-logo{
             padding-right: 50px;
         }
-        #islands-header{
+        #islands-header-container{
             height: 1050px;
         } 
-        .islands-text{
+        .islands-section-text-div{
             width: 275px;
             margin-right: 10px;
             height: 900px;
@@ -1207,10 +1204,10 @@ footer {
         }
     }    
     @media screen and (max-width: 467px){
-        #block2 {
+        #index-capture-text-section{
             height: 260px;
         }
-        #block4{
+        #index-reviews-section{
             height: 1900px;
         }
         .review-left, .review-right {
@@ -1225,37 +1222,37 @@ footer {
         }
     }
     @media screen and (max-width: 423px){
-        #contact{
+        #index-steps-div{
             height: 500px
         }
-        #block5{
+        #index-steps-section{
             height: 650px;
         }
-        #contact-link{
+        #index-steps-contact-link{
             width: 200px;
             height: 50px;
             line-height: 25px;
             padding: 10px;
         }
-        .col{
+        .index-steps-col{
             width: 300px;
             height: 100px;
             margin: 10px auto;
             padding-right: 0;
         }
-        .row-1{
+        .index-steps-row-1{
             height: 70px;
             width: 70px;
             display: inline-block;
             margin: 0px;
         }
-        .row-1-child{
+        .index-steps-row-1-child{
             width: 60px;
             height: 60px;
             line-height: 60px;
             font-size: small;
         }
-        .row-2{
+        .index-steps-row-2{
             display: inline-block;
             width: 100px;
             height: 70px;
@@ -1264,14 +1261,14 @@ footer {
             margin-left: 5px;
             font-size: small;
         }
-        .row-3{
+        .index-steps-row-3{
             width: 70px;
             height: 70px;
             display: inline-block;
             margin: 0px;
             margin-left: 5px;
         }
-        .row-3-child{
+        .index-steps-row-3-child{
             width: 60px;
             height: 60px;
             line-height: 60px;
@@ -1286,18 +1283,18 @@ footer {
         #fname, #lname, #email{
              width: 200px;
         }
-        #signup-button{
+        #contact-form-button{
             margin-top: 30px;
         }
-        #caribbean-bg{
+        .sub-pages-top-bar{
             height: 240px;
         }
     }
     @media screen and (max-width: 417px){
-        #thanks {
+        #turtle-banner-thanks{
             width: 300px;
         }
-        #turtlebutton {
+        #turtle-button{
             width: 250px;
             height: 70px;
             border-radius: 20px;
@@ -1311,27 +1308,26 @@ footer {
         }
     }
     @media screen and (max-width: 406px){
-        #logo{
+        #index-logo{
             margin-top: 70px;
             font-size: 400%;
         }
-        #photos {
+        #gallery-photos-section{
             column-count: 1;
         }
     }
     @media screen and (max-width: 403px){
-        #types-div{
+        #index-types-container{
             height: 1050px;
         }
     }    
     @media screen and (max-width: 386px){
-        #block2{
-            height: 280px;
+        #index-capture-text-section{            height: 280px;
         }
-        #block3{
+        #index-types-div{
             height: 880px;
         }
-        #types-div{
+        #index-types-container{
             height: 800px;
         }
         .types{
@@ -1354,15 +1350,15 @@ footer {
         }
     } 
     @media screen and (max-width: 360px){
-        #block2 {
+        #index-capture-text-section{
             height: 320px;
         }
     }
     @media screen and (max-width: 352px){
-        #islands-header{
+        #islands-header-container{
             height: 1100px;
         }   
-        #map-links-container{
+        #islands-internal-nav-bar{
             height: 280px;
         }
     }
@@ -1372,20 +1368,20 @@ footer {
             float: none;
             padding-left: 71px;
         }
-        #logo{
+        #index-logo{
             font-size: 300%;
             text-align: center;
             padding-left: 10px;
             padding-right: 10px;
             margin-top: 100px;
         }
-        #cover-text {
+        #index-cover-text-div{
             width: 130px;
             height: 160px;
             line-height: 40px;
             font-size: 90%;
         }
-        #block4{
+        #index-reviews-section{
             height: 2350px;
         }
         .review-left, .review-right {
@@ -1395,48 +1391,48 @@ footer {
         .review-border{
             margin: 360px auto 5px;
         }
-        #caribbean-bg{
+        .sub-pages-top-bar{
             height: 280px;
             text-align: center;
         }
-        .logo-page{
+        .sub-pages-logo{
             padding-left: 20px;
         }
-        #islands-header{
+        #islands-header-container{
             height: 1150px;
         }
-        .map-section-link-container{
+        .islands-section-map-link-container{
             margin-right: 10px;
         } 
     }
     @media screen and (max-width: 319px){
-        #block2 {
+        #index-capture-text-section{
             height: 380px;
         }
     }
     @media screen and (max-width: 301px){
-        .col{
+        .index-steps-col{
             width: 200px;
             margin-bottom: 90px;
         }
-            .row-3-child{
+            .index-steps-row-3-child{
                 margin-left: 40px;
             }
-        #block5{
+        #index-steps-section{
             height: 950px;
         }
-        #contact{
+        #index-steps-div{
             height: 800px;
         }
     }    
     @media screen and (max-width: 295px){
-        #block3-text{
+        #heading-bar{            
             line-height: 40px;
         }
-        #block3{
+        #index-types-div{
             height: 1150px;
         }
-        #types-div{
+        #index-types-container{
             line-height: 90px;
             height: 1100px;
         }
@@ -1451,41 +1447,40 @@ footer {
             }
     }
     @media screen and (max-width: 261px){
-        .logo-page{
+        .sub-pages-logo{
             font-size: 280%;
         }
         #menu{
             padding-left: 0px;
         }
-        #islands-header{
+        #islands-header-container{
             height: 1120px;
         }
     }
     @media screen and (max-width: 249px){
-        #block2 {
+        #index-capture-text-section{
             height: 420px;
         }
-        #block3-text{
-            padding-left: 10px;
+        #heading-bar{            padding-left: 10px;
             padding-right: 10px;
         }
-        #contact-link{
+        #index-steps-contact-link{
             width: 150px;
             height: 65px;
             line-height: 20px;
         }
     }
     @media screen and (max-width: 231px){
-        #islands-header{
+        #islands-header-container{
             height: 1350px;
         }   
-        #map-links-container{
+        #islands-internal-nav-bar{
             height: 500px;
             line-height: 55px;
         }
     }
     @media screen and (max-width: 218px){
-        #block2 {
+        #index-capture-text-section{
             height: 490px;
         }
     }
