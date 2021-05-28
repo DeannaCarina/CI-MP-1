@@ -153,8 +153,6 @@ h1, h2, h3 {
         transition-duration: 0.5s;
     }
         .types:hover {
-            height:120px;
-            width:180px;
             background-color: rgba(57, 104, 116, 0.4);
             color: whitesmoke;
         }
@@ -753,9 +751,6 @@ footer {
             width: 130px;
             font-size: large;
         }
-        .types:hover{
-            width: 140px;
-        }
     }
     @media screen and (max-width: 1600px){
         .hov-map {
@@ -813,9 +808,6 @@ footer {
         .types{
             width: 110px;
         }
-        .types:hover{
-            width: 120px;
-        }
     }
     @media screen and (max-width: 1323px){
         #index-logo{
@@ -837,9 +829,6 @@ footer {
     @media screen and (max-width: 1234px){
         .types{
             width: 130px;
-        }
-        .types:hover{
-            width: 140px;
         }
         #index-types-container{
             height: 500px;
@@ -996,9 +985,6 @@ footer {
         .types{
             width: 110px;
         }
-        .types:hover{
-            width: 120px;
-        }
         #gallery-photos-section{
             column-count: 2;
         }    
@@ -1096,9 +1082,6 @@ footer {
             width: 90px;
             font-size: small;
         }
-        .types:hover{
-            width: 100px;
-        }
     } 
     @media screen and (max-width: 674px){
         #index-reviews-section{
@@ -1150,9 +1133,6 @@ footer {
             width: 110px;
             font-size: large;
         }
-            .types:hover{
-                width: 120px;
-            }
     }
     @media screen and (max-width: 531px){
         #menu{
@@ -1319,9 +1299,6 @@ footer {
         .types{
             width: 100px;
         }
-        .types:hover{
-            width: 110px;
-        }
     }
     @media screen and (max-width: 406px){
         #index-logo{
@@ -1352,11 +1329,7 @@ footer {
             height: 60px;
             line-height: 15px;
             padding-top: 20px;
-        }
-            .types:hover{
-                width: 120px;
-                height: 70px;
-            }    
+        }  
     }
     @media screen and (max-width: 368px){
         #menu{
@@ -1458,10 +1431,6 @@ footer {
             height: 50px;
             line-height: 2px;
         }
-            .types:hover{
-                width: 150px;
-                height: 55px;
-            }
     }
     @media screen and (max-width: 261px){
         .sub-pages-logo{
