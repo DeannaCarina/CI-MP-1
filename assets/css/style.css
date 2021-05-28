@@ -129,6 +129,7 @@ h1, h2, h3 {
     height: 300px;
     /* background-color: teal; */
     background: url(../bvi3.jpg) center no-repeat no-repeat;
+    background-size: cover;
 }
     #index-types-container{
         width: 100%;
@@ -163,6 +164,7 @@ h1, h2, h3 {
     height: 540px;
     background: url(../gallery/bvi4.jpg) no-repeat center center;
     background-attachment: fixed;
+    background-size: cover;
 }
     #index-steps-div{
         height: 400px;
@@ -258,7 +260,7 @@ h1, h2, h3 {
     background-color: lightgray;
     background: url(../antigua4.jpg) no-repeat center center;
     background-attachment: fixed;
-    width: 100%;
+    background-size: cover;
 }
     .review-left, .review-right {
         width: 60%;
@@ -323,6 +325,7 @@ h1, h2, h3 {
     height: 700px;
     border-top: 4px solid darkgrey;
     background: url(../barbados2.jpg) no-repeat center center;
+    background-size: cover;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -608,6 +611,7 @@ iframe{
     height: 660px;
     width: 100%;
     background: url(../stmaarten1.jpg) no-repeat center center;
+    background-size: cover;
     border-top: 8px solid darkgray;
 }
     .contact-brochure-page {
