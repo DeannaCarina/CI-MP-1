@@ -866,7 +866,7 @@ footer {
     }  
     @media screen and (max-width: 1142px){
         #index-reviews-section{
-            height: 1200px;
+            height: 1250px;
         }
     }   
     @media screen and (max-width: 1100px){ 
@@ -942,7 +942,7 @@ footer {
         }
         #turtle-banner{
             background: url(../gallery/barbados4.jpg) no-repeat center center;
-            background-size: 100% 100%;
+            background-size: cover;
         }
     }   
     @media screen and (max-width: 911px){
@@ -966,6 +966,9 @@ footer {
         .review-text {
             margin-left: 20px;
         }
+        #index-reviews-section{
+            height: 1450px;
+        }
     }    
     @media screen and (max-width: 860px){
         #index-cover-text-div{
@@ -976,9 +979,9 @@ footer {
             line-height: 55px;
         }
     }
-    @media screen and (max-width: 826px){
+    @media screen and (max-width: 801px){
         #index-reviews-section{
-            height: 1400px;
+            height: 1500px;
         }
     }  
     @media screen and (max-width: 772px){
@@ -1090,12 +1093,11 @@ footer {
     }    
     @media screen and (max-width: 654px){
         #index-reviews-section{
-            height: 1600px;
+            height: 1800px;
         }
         .review-left, .review-right {
             float: none;
             width: 400px;
-            height: 300px;
             margin: 20px auto;
         }
         .review-text{
@@ -1105,7 +1107,22 @@ footer {
         }
         .review-border{
             float: none;
-            margin: 160px auto 5px;
+            position: relative;
+            bottom: 130px;
+            right: 130px;
+            float: right;
+        }
+        #review-div-1{
+            height: 330px;
+        }
+        #review-div-2{
+            height: 370px;
+        }
+        #review-div-3{
+            height: 380px;
+        }
+        #review-div-4{
+            height: 330px;
         }
     }
     @media screen and (max-width: 623px){
@@ -1214,7 +1231,19 @@ footer {
             padding: 0px;
         }
         .review-border{
-            margin: 250px auto 5px;
+            right: 80px;
+        }
+        #review-div-1{
+            height: 370px;
+        }
+        #review-div-2{
+            height: 430px;
+        }
+        #review-div-3{
+            height: 420px;
+        }
+        #review-div-4{
+            height: 370px;
         }
     }
     @media screen and (max-width: 423px){
@@ -1372,14 +1401,26 @@ footer {
             font-size: 90%;
         }
         #index-reviews-section{
-            height: 2350px;
+            height: 2400px;
         }
         .review-left, .review-right {
             width: 200px;
             height: 520px;
         }
         .review-border{
-            margin: 360px auto 5px;
+            right: 30px;
+        }
+        #review-div-1{
+            height: 500px;
+        }
+        #review-div-2{
+            height: 580px;
+        }
+        #review-div-3{
+            height: 560px;
+        }
+        #review-div-4{
+            height: 490px;
         }
         .sub-pages-top-bar{
             height: 280px;
