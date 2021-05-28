@@ -809,7 +809,7 @@ footer {
             width: 110px;
         }
     }
-    @media screen and (max-width: 1323px){
+    @media screen and (max-width: 1350px){
         #index-logo{
             font-size: 500%;
         }
@@ -1139,19 +1139,7 @@ footer {
             width: 170px;
         }
     }   
-    @media screen and (max-width: 573px){ 
-        #index-types-div{
-            height: 690px;
-        }
-        #index-types-container{
-            height: 630px;
-        }
-        .types{
-            width: 110px;
-            font-size: large;
-        }
-    }
-    @media screen and (max-width: 531px){
+    @media screen and (max-width: 581px){
         #menu{
             font-size: 100%;
             padding-left: 60px;
@@ -1164,6 +1152,18 @@ footer {
             font-size: 500%;
         }    
     } 
+    @media screen and (max-width: 573px){ 
+        #index-types-div{
+            height: 690px;
+        }
+        #index-types-container{
+            height: 630px;
+        }
+        .types{
+            width: 110px;
+            font-size: large;
+        }
+    }
     @media screen and (max-width: 518px){
         #index-capture-text-section{
             font-size: 100%;
@@ -1314,6 +1314,24 @@ footer {
         .sub-pages-top-bar{
             height: 240px;
         }
+        #menu li{
+            text-align: right;
+            float: none;
+            padding-left: 143px;
+        }
+        #index-logo{
+            font-size: 300%;
+            text-align: center;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-top: 100px;
+        }
+        #index-cover-text-div{
+            width: 130px;
+            height: 160px;
+            line-height: 40px;
+            font-size: 90%;
+        }
     }
     @media screen and (max-width: 417px){
         #turtle-banner-thanks{
@@ -1382,24 +1400,6 @@ footer {
         }
     }
     @media screen and (max-width: 327px){
-        #menu li{
-            text-align: right;
-            float: none;
-            padding-left: 71px;
-        }
-        #index-logo{
-            font-size: 300%;
-            text-align: center;
-            padding-left: 10px;
-            padding-right: 10px;
-            margin-top: 100px;
-        }
-        #index-cover-text-div{
-            width: 130px;
-            height: 160px;
-            line-height: 40px;
-            font-size: 90%;
-        }
         #index-reviews-section{
             height: 2400px;
         }
