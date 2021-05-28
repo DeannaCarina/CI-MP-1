@@ -131,7 +131,7 @@ h1, h2, h3 {
     background: url(../bvi3.jpg) center no-repeat no-repeat;
     background-size: cover;
 }
-    #index-types-container{
+    #index-types-coverer{
         width: 100%;
         height: 300px;
     }
@@ -365,7 +365,7 @@ h1, h2, h3 {
 
 /*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-#islands-header-container{
+#islands-header-coverer{
     height: auto;
 }   
 iframe{
@@ -454,7 +454,7 @@ iframe{
 .fa-arrow-circle-up{
     color: transparent;
 }
-.islands-section-map-link-container{
+.islands-section-map-link-coverer{
     width: 316px;
     height: 385px;
     margin-left: 50px;
@@ -587,6 +587,61 @@ iframe{
     margin: auto auto;
     background-image: url(../small-maps/abc-big.png);
     background-size: cover;
+}
+/*In types.html---------------------------------------------------------------------------------------------------------------------------------------*/
+.types-page-section{
+    height: 970px;
+}
+#types-section-1{
+    background: url(../types-images/cruising.jpeg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#types-section-2{
+    background: url(../types-images/beach.jpeg) no-repeat center center;
+    background-size: cover;
+}
+#types-section-3{
+    background: url(../types-images/all-inclusive.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#types-section-4{
+    background: url(../types-images/activity.jpeg) no-repeat center center;
+    background-size: cover;
+}
+#types-section-5{
+    background: url(../types-images/hotel-only.jpeg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#types-section-6{
+    background: url(../types-images/flights-only.jpeg) no-repeat center center;
+    background-size: cover;
+}
+#types-section-7{
+    background: url(../types-images/singles.jpeg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#types-section-8{
+    background: url(../types-images/naturist.jpeg) no-repeat center center;
+    background-size: cover;
+}
+#types-section-9{
+    background: url(../types-images/group.jpeg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.type-div{
+    background-color: rgba(255, 255, 255, 0.877);
+    box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
+    border: 1px solid transparent;
+    border-radius: 40px;
+    padding: 50px;
+    width: 1000px;
+    height: auto;
+    margin: 100px auto;
 }
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
@@ -763,7 +818,7 @@ footer {
         }
     }    
     @media screen and (max-width: 1530px){
-        .islands-section-map-link-container{
+        .islands-section-map-link-coverer{
             width: 216px;
         }
         .islands-map{
@@ -805,7 +860,7 @@ footer {
         }
     }
     @media screen and (max-width: 1417px){
-        .islands-section-map-link-container{
+        .islands-section-map-link-coverer{
             width: 216px;
             height: 300px;
             float: right;
@@ -855,7 +910,7 @@ footer {
         .types{
             width: 130px;
         }
-        #index-types-container{
+        #index-types-coverer{
             height: 500px;
             line-height: 135px;
         }
@@ -870,7 +925,7 @@ footer {
         }
     }   
     @media screen and (max-width: 1100px){ 
-        .islands-section-map-link-container{
+        .islands-section-map-link-coverer{
             margin-right: 50px;
         }
         .islands-text{
@@ -1156,7 +1211,7 @@ footer {
         #index-types-div{
             height: 690px;
         }
-        #index-types-container{
+        #index-types-coverer{
             height: 630px;
         }
         .types{
@@ -1186,7 +1241,7 @@ footer {
             font-size: 125%;
             line-height: 40px;
         }
-        #islands-header-container{
+        #islands-header-coverer{
             height: 980px;
         }   
         #islands-internal-nav-bar{
@@ -1198,7 +1253,7 @@ footer {
         .sub-pages-logo{
             padding-right: 50px;
         }
-        #islands-header-container{
+        #islands-header-coverer{
             height: 1050px;
         } 
         .islands-text{
@@ -1268,7 +1323,7 @@ footer {
         .sub-pages-top-bar{
             height: 350px;
         }
-        #islands-header-container{
+        #islands-header-coverer{
             height: 1200px;
         }
     }
@@ -1362,7 +1417,7 @@ footer {
         }
     }
     @media screen and (max-width: 403px){
-        #index-types-container{
+        #index-types-coverer{
             height: 1050px;
         }
     }    
@@ -1373,7 +1428,7 @@ footer {
         #index-types-div{
             height: 880px;
         }
-        #index-types-container{
+        #index-types-coverer{
             height: 800px;
         }
         .types{
@@ -1397,7 +1452,7 @@ footer {
         }
     }
     @media screen and (max-width: 352px){
-        #islands-header-container{
+        #islands-header-coverer{
             height: 1230px;
         }   
         #islands-internal-nav-bar{
@@ -1434,10 +1489,10 @@ footer {
         .sub-pages-logo{
             padding-left: 20px;
         }
-        #islands-header-container{
+        #islands-header-coverer{
             height: 1150px;
         }
-        .islands-section-map-link-container{
+        .islands-section-map-link-coverer{
             margin-right: 10px;
         } 
     }
@@ -1468,7 +1523,7 @@ footer {
         #index-types-div{
             height: 1150px;
         }
-        #index-types-container{
+        #index-types-coverer{
             line-height: 90px;
             height: 1100px;
         }
@@ -1485,7 +1540,7 @@ footer {
         #menu{
             padding-left: 0px;
         }
-        #islands-header-container{
+        #islands-header-coverer{
             height: 1120px;
         }
     }
@@ -1503,7 +1558,7 @@ footer {
         }
     }
     @media screen and (max-width: 231px){
-        #islands-header-container{
+        #islands-header-coverer{
             height: 1350px;
         }   
         #islands-internal-nav-bar{
