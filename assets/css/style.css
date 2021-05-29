@@ -1165,6 +1165,48 @@ footer {
         #index-reviews-section{
             height: 1500px;
         }
+        #map1section{
+            height: 400px;
+            width: 400px;
+            margin: auto;
+        }
+        #map2section{
+            height: 400px;
+            width: 400px;
+        }
+        #map3section{
+            height: 400px;
+            width: 400px;
+        }
+        #map4section{
+            height: 400px;
+            width: 400px;
+        }
+        #map5section{
+            height: 400px;
+            width: 400px;
+        }
+        #map6section{
+            height: 400px;
+            width: 400px;
+        }
+        #map7section{
+            height: 400px;
+            width: 400px;
+        }
+        #map8section{
+            height: 400px;
+            width: 400px;
+        }
+        .island-page h1{
+            font-size: large;
+        }
+        #island-page-button{
+            width: 150px;
+        }
+        .island-page{
+            height: 600px;
+        }
     }    
     @media screen and (max-width: 700px){
         .islands-text{
