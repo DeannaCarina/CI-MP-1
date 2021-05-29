@@ -187,6 +187,7 @@ a{
         border: 5px solid rgb(226, 225, 225);
         border-style: ridge;
         border-radius: 20px;
+        color: white;
     }
         #index-steps-contact-link:hover{
             background-color: rgba(40, 85, 81, 0.637);
@@ -226,6 +227,9 @@ a{
                     border: 5px solid rgb(226, 225, 225);
                     border-style: ridge;
                 }
+                    .index-steps-row-1-child:hover{
+                        background-color: rgba(40, 85, 81, 0.637);
+                    }
             .index-steps-row-2{
                 font-size: 200%;
                 line-height: 40px;
