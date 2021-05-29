@@ -834,6 +834,23 @@ footer {
             font-size: large;
         }
     }
+    @media screen and (max-width: 1738px){
+        .type-div{
+            width: 500px;
+            margin-right: 10px;
+        }
+        .partnership-div {
+            width: 300px; 
+            height: 350px;
+            margin-left: 10px;
+        }
+        .logo{
+            height: 50px;
+        }
+        #logo1{
+            height: 30px;
+        }
+    }
     @media screen and (max-width: 1600px){
         .hov-map {
             font-size: small;
@@ -946,6 +963,18 @@ footer {
             background-size: auto 100%;
         }
     }  
+    @media screen and (max-width: 1227px){
+        .types-page-section{
+            height: 1400px;
+        }
+        .type-div{
+            margin-bottom: 10px;
+        }
+        .partnership-div {
+            margin-top: 10px;
+            margin-bottom: 0px;
+        }
+    }
     @media screen and (max-width: 1142px){
         #index-reviews-section{
             height: 1250px;
@@ -1128,6 +1157,9 @@ footer {
         .index-steps-row-1, .index-steps-row-3{
             width: 270px;
         }
+        .type-div{
+            margin-left: 10px;
+        }
     }
     @media screen and (max-width: 710px){
         #index-reviews-section{
@@ -1219,6 +1251,16 @@ footer {
         }
         .index-steps-row-1, .index-steps-row-3{
             width: 170px;
+        }
+        .types-page-section{
+            height: 1650px;
+        }
+        .type-div{
+            height: 800px;
+            width: 300px;
+        }
+        .partnership-div {
+            float: left;
         }
     }   
     @media screen and (max-width: 581px){
@@ -1332,7 +1374,7 @@ footer {
         #menu li{
             text-align: right;
             float: none;
-            padding-left: 143px;
+            padding-left: 177px;
         }
         #index-logo{
             font-size: 300%;
@@ -1418,6 +1460,26 @@ footer {
         }
         #contact-form-button{
             margin-top: 30px;
+        }
+        .types-page-section{
+
+        }
+        .type-div{
+            height: 900px;
+            width: 170px;
+        }
+        .partnership-div{
+            width: 200px;
+            padding: 20px;
+            height: 200px;
+        }
+        .logo{
+            margin: 20px;
+            height: 20px;
+        }
+        #logo1{
+            margin: 20px;
+            height: 20px;
         }
     }
     @media screen and (max-width: 417px){
@@ -1522,6 +1584,9 @@ footer {
         .islands-section-map-link-container{
             margin-right: 10px;
         } 
+        #menu li{
+            padding-left: 50px;
+        }
     }
     @media screen and (max-width: 319px){
         #index-capture-text-section{
