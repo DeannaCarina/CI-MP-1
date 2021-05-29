@@ -520,7 +520,7 @@ iframe{
     text-shadow: 8px 8px rgba(151, 150, 150, 0.46);
 }
 #island-page-button{
-    color: ivory;
+    color: white;
     width: 250px;
     height: 50px;
     border-radius: 100px;
@@ -795,6 +795,18 @@ footer {
             color:rgb(64, 131, 133);
             border-bottom: 1px solid rgb(64, 131, 133);
         }
+    /*In thanks.html----------------------------------------------------------------------------------------------------------*/
+    #thanks-button{
+        color: white;
+        width: 250px;
+        height: 50px;
+        border-radius: 100px;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+        #thanks-button:hover{
+            cursor: pointer;
+        }    
     /*Media responsiveness for all pages on the Travel Caribbean website-------------------------------------------------------------------------------------*/
     @media screen and (max-height: 1000px){
         #index-hero-video{
@@ -1359,6 +1371,11 @@ footer {
             height: 250px;
             line-height: 55px;
         }
+        #thanks-button{
+            width: 150px;
+            height: 30px;
+            font-size: small;
+        }
     }
     @media screen and (max-width: 470px){
         .sub-pages-logo{
@@ -1436,6 +1453,10 @@ footer {
         }
         #islands-header-container{
             height: 1200px;
+        }
+        #thanks-button{
+            width: 100px;
+            height: 50px;
         }
     }
     @media screen and (max-width: 423px){
