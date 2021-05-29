@@ -400,6 +400,7 @@ iframe{
     text-align: center;
     background-color: rgba(94, 94, 94, 0.781);
     transition-duration: 0.5s;
+    color: white;
 }
     .hov-map a {
         text-decoration: none;
