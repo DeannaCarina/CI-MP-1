@@ -653,7 +653,16 @@ iframe{
     float: right;
     margin: 100px;
     border: 3px solid rgb(43, 92, 104);
-    
+}
+.logo{
+    height: 20%;
+    width: auto;
+    margin: 25px;
+}
+#logo1{
+    height: 12%;
+    width: auto;
+    margin: 40px;
 }
 
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
