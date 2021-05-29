@@ -131,7 +131,7 @@ h1, h2, h3 {
     background: url(../bvi3.jpg) center no-repeat no-repeat;
     background-size: cover;
 }
-    #index-types-coverer{
+    #index-types-container{
         width: 100%;
         height: 300px;
     }
@@ -365,7 +365,7 @@ h1, h2, h3 {
 
 /*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-#islands-header-coverer{
+#islands-header-container{
     height: auto;
 }   
 iframe{
@@ -432,18 +432,6 @@ iframe{
     background-size: cover;
     background-attachment: fixed;
 }
-.islands-text{
-    width: 800px;
-    height: 500px;
-    background-color: rgba(255, 255, 255, 0.877);
-    box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
-    border: 1px solid transparent;
-    border-radius: 40px;
-    padding: 50px;
-    float: right;
-    margin-right: 150px;
-    margin-top: 100px;
-}
 .island-info{
     border: 2px solid rgb(58, 105, 128);
     margin-top: 10px;
@@ -454,7 +442,7 @@ iframe{
 .fa-arrow-circle-up{
     color: transparent;
 }
-.islands-section-map-link-coverer{
+.islands-section-map-link-container{
     width: 316px;
     height: 385px;
     margin-left: 50px;
@@ -832,7 +820,7 @@ footer {
         }
     }    
     @media screen and (max-width: 1530px){
-        .islands-section-map-link-coverer{
+        .islands-section-map-link-container{
             width: 216px;
         }
         .islands-map{
@@ -874,7 +862,7 @@ footer {
         }
     }
     @media screen and (max-width: 1417px){
-        .islands-section-map-link-coverer{
+        .islands-section-map-link-container{
             width: 216px;
             height: 300px;
             float: right;
@@ -924,7 +912,7 @@ footer {
         .types{
             width: 130px;
         }
-        #index-types-coverer{
+        #index-types-container{
             height: 500px;
             line-height: 135px;
         }
@@ -939,7 +927,7 @@ footer {
         }
     }   
     @media screen and (max-width: 1100px){ 
-        .islands-section-map-link-coverer{
+        .islands-section-map-link-container{
             margin-right: 50px;
         }
         .islands-text{
@@ -1225,7 +1213,7 @@ footer {
         #index-types-div{
             height: 690px;
         }
-        #index-types-coverer{
+        #index-types-container{
             height: 630px;
         }
         .types{
@@ -1255,7 +1243,7 @@ footer {
             font-size: 125%;
             line-height: 40px;
         }
-        #islands-header-coverer{
+        #islands-header-container{
             height: 980px;
         }   
         #islands-internal-nav-bar{
@@ -1267,7 +1255,7 @@ footer {
         .sub-pages-logo{
             padding-right: 50px;
         }
-        #islands-header-coverer{
+        #islands-header-container{
             height: 1050px;
         } 
         .islands-text{
@@ -1337,7 +1325,7 @@ footer {
         .sub-pages-top-bar{
             height: 350px;
         }
-        #islands-header-coverer{
+        #islands-header-container{
             height: 1200px;
         }
     }
@@ -1431,7 +1419,7 @@ footer {
         }
     }
     @media screen and (max-width: 403px){
-        #index-types-coverer{
+        #index-types-container{
             height: 1050px;
         }
     }    
@@ -1442,7 +1430,7 @@ footer {
         #index-types-div{
             height: 880px;
         }
-        #index-types-coverer{
+        #index-types-container{
             height: 800px;
         }
         .types{
@@ -1466,7 +1454,7 @@ footer {
         }
     }
     @media screen and (max-width: 352px){
-        #islands-header-coverer{
+        #islands-header-container{
             height: 1230px;
         }   
         #islands-internal-nav-bar{
@@ -1503,10 +1491,10 @@ footer {
         .sub-pages-logo{
             padding-left: 20px;
         }
-        #islands-header-coverer{
+        #islands-header-container{
             height: 1150px;
         }
-        .islands-section-map-link-coverer{
+        .islands-section-map-link-container{
             margin-right: 10px;
         } 
     }
@@ -1537,7 +1525,7 @@ footer {
         #index-types-div{
             height: 1150px;
         }
-        #index-types-coverer{
+        #index-types-container{
             line-height: 90px;
             height: 1100px;
         }
@@ -1554,7 +1542,7 @@ footer {
         #menu{
             padding-left: 0px;
         }
-        #islands-header-coverer{
+        #islands-header-container{
             height: 1120px;
         }
     }
@@ -1572,7 +1560,7 @@ footer {
         }
     }
     @media screen and (max-width: 231px){
-        #islands-header-coverer{
+        #islands-header-container{
             height: 1350px;
         }   
         #islands-internal-nav-bar{
