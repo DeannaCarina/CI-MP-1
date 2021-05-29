@@ -637,7 +637,7 @@ iframe{
     border: 1px solid transparent;
     border-radius: 40px;
     padding: 50px;
-    width: 600px;
+    width: 35%;
     height: 550px;
     float: left;
     margin: 100px;
@@ -648,7 +648,7 @@ iframe{
     border: 1px solid transparent;
     border-radius: 40px;
     padding: 50px;
-    width: 600px;
+    width: 30%;
     height: 550px;
     float: right;
     margin: 100px;
