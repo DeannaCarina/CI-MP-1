@@ -51,6 +51,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
                                 <ul>
                                     <li>index.html</li>
                                     <li>islands.html</li>
+                                    <li>types.html</li>
                                     <li>gallery.html</li>
                                     <li>contact.html</li>
                                 </ul>
@@ -139,6 +140,9 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 
 ##### islands.html
 <img src="assets/images-readme/wire-islands.png" alt="Wireframe plan of islands.html"><br><hr><br>
+
+##### types.html
+<img src="assets/images-readme/wire-types.png" alt="Wireframe plan of types.html"><br><hr><br>
 
 ##### gallery.html
 <img src="assets/images-readme/wire-gallery.png" alt="Wireframe plan of gallery.html"><br><hr><br>
