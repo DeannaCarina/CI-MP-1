@@ -48,7 +48,7 @@ a{
         text-shadow: 2px 2px rgba(128, 128, 128, 0.46);
     }
         #menu a:hover {
-            color: grey;
+            color:rgb(24, 70, 71);
         }
 
 
@@ -760,6 +760,7 @@ iframe{
         border-radius: 10px;
         float: right;
         border: 1px solid white;
+        color: white;
     }
     #contact-brochure-button {
         width: 250px;
@@ -767,6 +768,7 @@ iframe{
         height: 80px;
         border-radius: 20px;
         margin-top: 20px;
+        color: white;
     }
 /*Footer of all site pages---------------------------------------------------------------------------------------------------------------------------------*/
 footer {
@@ -789,6 +791,9 @@ footer {
     footer a {
         color: darkgray;
     }
+        footer a:hover{
+            color:rgb(24, 70, 71);
+        }
     /*Media responsiveness for all pages on the Travel Caribbean website-------------------------------------------------------------------------------------*/
     @media screen and (max-height: 1000px){
         #index-hero-video{
