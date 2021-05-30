@@ -806,8 +806,8 @@ footer {
             border-bottom: 1px solid rgb(64, 131, 133);
         }
     .protection-logo{
-        height: 100px;
-        width: auto;
+        height: auto;
+        width: 10%;
         padding: 10px;
     }    
     /*In thanks.html----------------------------------------------------------------------------------------------------------*/
@@ -1087,6 +1087,10 @@ footer {
             background: url(../gallery/barbados4.jpg) no-repeat center center;
             background-size: cover;
         }
+        .protection-logo{
+            height: 50px;
+            width: auto;
+        }   
     }   
     @media screen and (max-width: 900px){
         .islands-text{
