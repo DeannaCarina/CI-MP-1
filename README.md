@@ -56,6 +56,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
                                     <li>contact.html</li>
                                     <li>thanks.html</li>
                                     <li>Hidden Map Pages</li>
+                                    <li>404.html</li>
                                 </ul>
                             <li>Surface</li>
                         </ul>
@@ -156,7 +157,10 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <img src="assets/images-readme/wire-thanks.png" alt="Wireframe plan of contact.html"><br><hr><br>
 
 ##### Hidden Map Pages
-<img src="assets/images-readme/bigmap.png" alt="Wireframe plan of hidden large map pages"><br><br>
+<img src="assets/images-readme/bigmap.png" alt="Wireframe plan of hidden large map pages"><br><hr><br>
+
+##### 404.html
+<img src="assets/images-readme/wire-404.png" alt="Wireframe plan of Error 404 page"><br><br>
 
 #### Surface
 <a href="#Contents">Back to the top.</a>
