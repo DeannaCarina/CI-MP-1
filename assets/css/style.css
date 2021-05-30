@@ -1599,6 +1599,42 @@ footer {
         #index-types-container{
             height: 1050px;
         }
+        .island-page{
+            height: 350px;
+        }
+        #map1section{
+            height: 200px;
+            width: 200px;
+            margin: auto;
+        }
+        #map2section{
+            height: 200px;
+            width: 200px;
+        }
+        #map3section{
+            height: 200px;
+            width: 200px;
+        }
+        #map4section{
+            height: 200px;
+            width: 200px;
+        }
+        #map5section{
+            height: 200px;
+            width: 200px;
+        }
+        #map6section{
+            height: 200px;
+            width: 200px;
+        }
+        #map7section{
+            height: 200px;
+            width: 200px;
+        }
+        #map8section{
+            height: 200px;
+            width: 200px;
+        }
     }    
     @media screen and (max-width: 386px){
         #index-capture-text-section{            
