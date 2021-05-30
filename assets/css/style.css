@@ -24,6 +24,7 @@ a{
 #index-logo, .sub-pages-logo{
     font-size: 500%;
     padding-top: 10px;
+    padding-left: 30px;
     color: white;
     margin: 0;
     text-shadow: 8px 8px rgba(70, 70, 70, 0.46);
@@ -31,7 +32,7 @@ a{
 #logo-image{
     height: 100px;
     width: auto;
-    padding-right: 20px;
+    padding: 10px;
 }
 #menu {
     float: right;
@@ -1134,6 +1135,14 @@ footer {
             column-count: 2;
         }    
     }  
+    @media screen and (max-width: 754px){
+        #menu{
+            font-size: 100%;
+        }
+        #menu li{
+            margin-right: 20px;
+        }  
+    } 
     @media screen and (max-width: 750px){
         #contact-page-section{
             background: url(../gallery/dominica4.jpg) no-repeat center center;
@@ -1336,19 +1345,6 @@ footer {
             float: left;
         }
     }   
-    @media screen and (max-width: 581px){
-        #menu{
-            font-size: 100%;
-            padding-left: 60px;
-        }
-        #menu li{
-            margin-right: 20px;
-        }
-        #index-logo{
-            margin-top: 70px;
-            font-size: 500%;
-        }    
-    } 
     @media screen and (max-width: 573px){ 
         #index-types-div{
             height: 690px;
@@ -1359,6 +1355,27 @@ footer {
         .types{
             width: 110px;
             font-size: large;
+        }
+        #menu li{
+            text-align: right;
+            float: none;
+            padding-top: 5px;
+        }
+        #index-logo{
+            font-size: 300%;
+            text-align: center;
+            padding-right: 10px;
+        }
+        #logo-image{
+            height: 70px;
+            width: auto;
+            padding: 2px;
+        }
+        #index-cover-text-div{
+            width: 130px;
+            height: 160px;
+            line-height: 40px;
+            font-size: 90%;
         }
     }
     @media screen and (max-width: 518px){
@@ -1394,6 +1411,18 @@ footer {
             width: 150px;
             height: 30px;
             font-size: small;
+        }
+    }
+    @media screen and (max-width: 471px){
+        #index-logo{
+            font-size: 400%;
+            text-align: center;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        #menu li{
+            padding-left: 75px;
+            margin-left: 90px;
         }
     }
     @media screen and (max-width: 470px){
@@ -1449,24 +1478,6 @@ footer {
         }
     }
     @media screen and (max-width: 454px){
-        #menu li{
-            text-align: right;
-            float: none;
-            padding-left: 177px;
-        }
-        #index-logo{
-            font-size: 300%;
-            text-align: center;
-            padding-left: 10px;
-            padding-right: 10px;
-            margin-top: 100px;
-        }
-        #index-cover-text-div{
-            width: 130px;
-            height: 160px;
-            line-height: 40px;
-            font-size: 90%;
-        }
         .sub-pages-top-bar{
             height: 350px;
         }
@@ -1578,6 +1589,12 @@ footer {
             width: 100px;
         }
     }
+    @media screen and (max-width: 414px){
+        #menu li{
+            margin-left: 0px;
+            padding-left: 100px;
+        }
+    }
     @media screen and (max-width: 406px){
         #index-logo{
             margin-top: 70px;
@@ -1628,6 +1645,15 @@ footer {
         }   
         #islands-internal-nav-bar{
             height: 280px;
+        }
+    }
+    @media screen and (max-width: 342px){
+        #index-logo{
+            font-size: 300%;
+            text-align: center;
+        }
+        #menu li{
+            padding-left: 30px;
         }
     }
     @media screen and (max-width: 327px){
@@ -1705,6 +1731,9 @@ footer {
             width: 140px;
             height: 50px;
             line-height: 2px;
+        }
+        #menu li{
+            padding-left: 0px;
         }
     }
     @media screen and (max-width: 261px){
