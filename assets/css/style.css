@@ -782,7 +782,7 @@ iframe{
     }
 /*Footer of all site pages---------------------------------------------------------------------------------------------------------------------------------*/
 footer {
-    height: 170px;
+    height: auto;
     width: 100%;
     background-color: whitesmoke;
     position: static;
@@ -805,6 +805,11 @@ footer {
             color:rgb(64, 131, 133);
             border-bottom: 1px solid rgb(64, 131, 133);
         }
+    .protection-logo{
+        height: 100px;
+        width: auto;
+        padding: 10px;
+    }    
     /*In thanks.html----------------------------------------------------------------------------------------------------------*/
     #thanks-button{
         color: white;
