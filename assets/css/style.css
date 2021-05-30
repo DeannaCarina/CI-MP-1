@@ -22,12 +22,16 @@ a{
 
 /*In the header of all pages in Travel Caribbean--------------------------------------------------------------------------------------------------------------*/
 #index-logo, .sub-pages-logo{
-    font-size: 700%;
+    font-size: 500%;
     padding-top: 10px;
-    padding-left: 50px;
     color: white;
     margin: 0;
     text-shadow: 8px 8px rgba(70, 70, 70, 0.46);
+}
+#logo-image{
+    height: 100px;
+    width: auto;
+    padding-right: 20px;
 }
 #menu {
     float: right;
