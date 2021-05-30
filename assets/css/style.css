@@ -474,7 +474,12 @@ iframe{
     height: 50px;
     margin-top: 15px;
     border-radius: 150px;
-}
+    color: white;
+}    
+#islands-back-to-top:hover{
+    cursor: pointer;
+}    
+
 #map-1{
     background: url(../small-maps/lucayan.png);
     background-size: 100% 100%; 
