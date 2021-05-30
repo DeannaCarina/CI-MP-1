@@ -1400,9 +1400,6 @@ footer {
             font-size: 125%;
             line-height: 40px;
         }
-        #islands-header-container{
-            height: 980px;
-        }   
         #islands-internal-nav-bar{
             height: 250px;
             line-height: 55px;
@@ -1429,9 +1426,6 @@ footer {
         .sub-pages-logo{
             padding-right: 50px;
         }
-        #islands-header-container{
-            height: 1050px;
-        } 
         .islands-text{
             width: 275px;
             margin-right: 10px;
@@ -1480,9 +1474,6 @@ footer {
     @media screen and (max-width: 454px){
         .sub-pages-top-bar{
             height: 350px;
-        }
-        #islands-header-container{
-            height: 1200px;
         }
         #thanks-button{
             width: 100px;
@@ -1640,9 +1631,6 @@ footer {
         }
     }
     @media screen and (max-width: 352px){
-        #islands-header-container{
-            height: 1230px;
-        }   
         #islands-internal-nav-bar{
             height: 280px;
         }
@@ -1684,9 +1672,6 @@ footer {
         }
         .sub-pages-logo{
             padding-left: 20px;
-        }
-        #islands-header-container{
-            height: 1150px;
         }
         .islands-section-map-link-container{
             margin-right: 10px;
@@ -1742,9 +1727,6 @@ footer {
         #menu{
             padding-left: 0px;
         }
-        #islands-header-container{
-            height: 1120px;
-        }
     }
     @media screen and (max-width: 249px){
         #index-capture-text-section{
@@ -1760,9 +1742,6 @@ footer {
         }
     }
     @media screen and (max-width: 231px){
-        #islands-header-container{
-            height: 1350px;
-        }   
         #islands-internal-nav-bar{
             height: 500px;
             line-height: 55px;
