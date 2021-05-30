@@ -974,9 +974,9 @@ footer {
             font-size: 350%;
             padding-top: 20px;
         }
-        .sub-pages-top-bar{
-            height: 120px;
-        }
+        /* .sub-pages-top-bar{
+            height: 180px;
+        } */
     }     
     @media screen and (max-width: 1234px){
         .types{
@@ -1061,11 +1061,11 @@ footer {
             margin: 0.5%;
         }
     }
-    @media screen and (max-width: 985px){
+    /* @media screen and (max-width: 985px){
         .sub-pages-top-bar{
             height: 200px;
         }
-    } 
+    }  */
     @media screen and (max-width: 950px){
         #signup-form{
             transform: rotate(0deg);
@@ -1680,7 +1680,6 @@ footer {
             height: 490px;
         }
         .sub-pages-top-bar{
-            height: 280px;
             text-align: center;
         }
         .sub-pages-logo{
