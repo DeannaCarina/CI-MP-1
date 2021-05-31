@@ -859,6 +859,7 @@ footer a:hover{
 @media screen and (max-width: 1738px){
     .type-div{
         width: 500px;
+        font-size: 93%;
         margin-right: 10px;
     }
     .partnership-div{
@@ -1530,8 +1531,18 @@ footer a:hover{
         height: 1550px;
     }
     .type-div{
-        height: 900px;
-        width: 170px;
+        height: 1050px;
+        width: 220px;
+        padding: 10px;
+        text-align: justify;
+        margin-top: 60px;
+    }
+    .type-div h2{
+        font-size: large;
+        margin-left: 10px;
+    }
+    .type-div p{
+        margin: 5px;
     }
     .partnership-div{
         width: 200px;
