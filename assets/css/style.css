@@ -643,6 +643,12 @@ iframe{
     float: left;
     margin: 100px;
 }
+#type-links{
+    color: rgb(24, 70, 71);
+}
+#type-links:hover{
+    color: darkgrey;
+}
 .partnership-div{
     background-color: rgba(255, 255, 255, 0.466);
     box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
