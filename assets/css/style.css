@@ -442,6 +442,7 @@ iframe{
 #references{
     text-align: right;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 #references a{
     color:rgb(24, 70, 71);
