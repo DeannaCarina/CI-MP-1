@@ -424,7 +424,7 @@ iframe{
     background-color: rgba(255, 255, 255, 0.76);
     border-radius: 20px;
     width: 800px;
-    height: 500px;
+    height: auto;
     margin-right: 150px;
     margin-top: 100px;
     box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
@@ -961,7 +961,11 @@ footer {
         }
         .islands-text{
             width: 700px;
+            height: 450px;
             margin-top: 0px;
+        }
+        .island-info{
+            height: 370px;
         }
         .islands-section{
             height: 1300px;
@@ -1105,13 +1109,13 @@ footer {
     @media screen and (max-width: 900px){
         .islands-text{
             width: 540px;
-            height: 700px;
+            height: 480px;
         }
         .islands-section{
             height: 1400px;
         }
         .island-info{
-            height: 620px;
+            height: 400px;
         }
     }    
     @media screen and (max-width: 893px){
@@ -1261,6 +1265,10 @@ footer {
         .islands-text{
             width: 350px;
             padding: 15px;
+            height: auto;
+        }
+        .island-info{
+            height: auto;
         }
         .islands-text h2{
             font-family: 'lato';
@@ -1438,7 +1446,7 @@ footer {
         .islands-text{
             width: 275px;
             margin-right: 10px;
-            height: 900px;
+            height: auto;
         }
         .islands-text h2{
             text-align: center;
@@ -1447,7 +1455,7 @@ footer {
             height: 1550px;
         }
         .island-info{
-            height: 800px;
+            height: auto;
         }
     }    
     @media screen and (max-width: 467px){
