@@ -417,7 +417,7 @@ iframe{
         box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
     }
 .islands-section{
-    height: 900px;
+    height: 850px;
     width: 100%;
 }    
 .islands-text{
@@ -470,7 +470,7 @@ iframe{
     margin-top: 10px;
     padding: 15px;
     border-radius: 20px;
-    height: 400px;
+    height: auto;
 }
 .fa-arrow-circle-up{
     color: transparent;
@@ -961,14 +961,14 @@ footer {
         }
         .islands-text{
             width: 700px;
-            height: 450px;
+            /* height: 450px; */
             margin-top: 0px;
         }
         .island-info{
-            height: 370px;
+            /* height: 370px; */
         }
         .islands-section{
-            height: 1300px;
+            height: 1150px;
         }
         .fa-arrow-circle-left{
             color: transparent;
@@ -1109,13 +1109,13 @@ footer {
     @media screen and (max-width: 900px){
         .islands-text{
             width: 540px;
-            height: 480px;
+            /* height: 480px; */
         }
         .islands-section{
-            height: 1400px;
+            height: 1200px;
         }
         .island-info{
-            height: 400px;
+            /* height: 400px; */
         }
     }    
     @media screen and (max-width: 893px){
@@ -1262,13 +1262,16 @@ footer {
         }
     }    
     @media screen and (max-width: 700px){
+        .islands-section{
+            height: 1250px;
+        }
         .islands-text{
             width: 350px;
             padding: 15px;
-            height: auto;
+            /* height: auto; */
         }
         .island-info{
-            height: auto;
+            /* height: auto; */
         }
         .islands-text h2{
             font-family: 'lato';
@@ -1446,16 +1449,16 @@ footer {
         .islands-text{
             width: 275px;
             margin-right: 10px;
-            height: auto;
+            /* height: auto; */
         }
         .islands-text h2{
             text-align: center;
         }
         .islands-section{
-            height: 1550px;
+            height: 1400px;
         }
         .island-info{
-            height: auto;
+            /* height: auto; */
         }
     }    
     @media screen and (max-width: 467px){
