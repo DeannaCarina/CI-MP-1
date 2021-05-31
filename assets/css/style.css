@@ -433,6 +433,22 @@ iframe{
     padding: 50px;
     float: right;
 }
+.islands-text a{
+    color: rgb(24, 70, 71);
+}
+.islands-text a:hover{
+    color: white;
+}
+#references{
+    text-align: right;
+    margin-top: 0px;
+}
+#references a{
+    color:rgb(24, 70, 71);
+}
+#references a:hover{
+    color: white;
+}
 #map-link-1, #map-link-5{
     background-color: rgba(54, 54, 54, 0.575);
     background-image: url(../islands-backgrounds/thanks.jpg);
@@ -974,9 +990,6 @@ footer {
             font-size: 350%;
             padding-top: 20px;
         }
-        /* .sub-pages-top-bar{
-            height: 180px;
-        } */
     }     
     @media screen and (max-width: 1234px){
         .types{
@@ -1061,11 +1074,6 @@ footer {
             margin: 0.5%;
         }
     }
-    /* @media screen and (max-width: 985px){
-        .sub-pages-top-bar{
-            height: 200px;
-        }
-    }  */
     @media screen and (max-width: 950px){
         #signup-form{
             transform: rotate(0deg);
