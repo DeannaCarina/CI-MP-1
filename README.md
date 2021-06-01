@@ -157,7 +157,7 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <img src="assets/images-readme/wire-thanks.png" alt="Wireframe plan of contact.html"><br><hr><br>
 
 ##### Hidden Map Pages
-<img src="assets/images-readme/bigmap.png" alt="Wireframe plan of hidden large map pages"><br><hr><br>
+<img src="assets/images-readme/wire-bigmap.png" alt="Wireframe plan of hidden large map pages"><br><hr><br>
 
 ##### 404.html
 <img src="assets/images-readme/wire-404.png" alt="Wireframe plan of Error 404 page"><br><br>
@@ -193,6 +193,11 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 
 # Screenshots
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
+<img src="assets/images-readme/screen-islands.png" alt="Screenshot of islands.html"><br><hr><br>
+<img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages"><br><hr><br>
+<img src="assets/images-readme/screen-types.png" alt="Screenshot of types.html"><br><hr><br>
 <img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
 <img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
+<img src="assets/images-readme/screen-thanks.png" alt="Screenshot of thanks.html"><br><hr><br>
+<img src="assets/images-readme/screen-404.png" alt="Screenshot of 404.html"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
