@@ -753,8 +753,9 @@ iframe{
 }
 #budget{
     line-height: 20px;
-    width: 100px;
+    width: 80px;
     background: whitesmoke;
+    margin-top: 10px;
 }
 .form-white-text{
     color: rgb(85, 85, 85);
