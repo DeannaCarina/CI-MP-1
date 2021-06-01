@@ -192,12 +192,27 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
+## index.html - Home/Landing page
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
+
+## islands.html - Page for learning about the different island groups
 <img src="assets/images-readme/screen-islands.png" alt="Screenshot of islands.html"><br><hr><br>
+
+## Hidden pages linked via islands.html to view thumbnail maps at larger size
 <img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages"><br><hr><br>
+
+## types.html - Page for learning about the different types of holidays on offer
 <img src="assets/images-readme/screen-types.png" alt="Screenshot of types.html"><br><hr><br>
+
+## gallery.html - Page for viewing images of different holiday types and islands
 <img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
+
+## contact.html - Page for customer to place their details and say what they're interested in, link to downloadable brochure here
 <img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
+
+## thanks.html - Page directed to via submit button in form of contact.html
 <img src="assets/images-readme/screen-thanks.png" alt="Screenshot of thanks.html"><br><hr><br>
+
+## 404.html - Page for when errors occur with web address
 <img src="assets/images-readme/screen-404.png" alt="Screenshot of 404.html"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
