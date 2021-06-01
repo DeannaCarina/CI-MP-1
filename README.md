@@ -148,28 +148,28 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 #### Structure
 #### Skeleton (wireframes)
 ##### index.html
-<img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html"><br><hr><br>
+<img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br><hr><br>
 
 ##### islands.html
-<img src="assets/images-readme/wire-islands.png" alt="Wireframe plan of islands.html"><br><hr><br>
+<img src="assets/images-readme/wire-islands.png" alt="Wireframe plan of islands.html" width="45%"><br><hr><br>
 
 ##### types.html
-<img src="assets/images-readme/wire-types.png" alt="Wireframe plan of types.html"><br><hr><br>
+<img src="assets/images-readme/wire-types.png" alt="Wireframe plan of types.html" width="45%"><br><hr><br>
 
 ##### gallery.html
-<img src="assets/images-readme/wire-gallery.png" alt="Wireframe plan of gallery.html"><br><hr><br>
+<img src="assets/images-readme/wire-gallery.png" alt="Wireframe plan of gallery.html" width="45%"><br><hr><br>
 
 ##### contact.html
-<img src="assets/images-readme/wire-contact.png" alt="Wireframe plan of contact.html"><br><hr><br>
+<img src="assets/images-readme/wire-contact.png" alt="Wireframe plan of contact.html" width="45%"><br><hr><br>
 
 ##### thanks.html
-<img src="assets/images-readme/wire-thanks.png" alt="Wireframe plan of contact.html"><br><hr><br>
+<img src="assets/images-readme/wire-thanks.png" alt="Wireframe plan of contact.html" width="45%"><br><hr><br>
 
 ##### Hidden Map Pages
-<img src="assets/images-readme/wire-bigmap.png" alt="Wireframe plan of hidden large map pages"><br><hr><br>
+<img src="assets/images-readme/wire-bigmap.png" alt="Wireframe plan of hidden large map pages" width="45%"><br><hr><br>
 
 ##### 404.html
-<img src="assets/images-readme/wire-404.png" alt="Wireframe plan of Error 404 page"><br><br>
+<img src="assets/images-readme/wire-404.png" alt="Wireframe plan of Error 404 page" width="45%"><br><br>
 
 #### Surface
 <a href="#Contents">Back to the top.</a>
@@ -202,34 +202,34 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 
 # Screenshots
 ##### index.html
-Home/Landing page
-<img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
+Home/Landing page<br>
+<img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="45%"><br><hr><br>
 
 ##### islands.html
-Page for learning about the different island groups
-<img src="assets/images-readme/screen-islands.png" alt="Screenshot of islands.html"><br><hr><br>
+Page for learning about the different island groups<br>
+<img src="assets/images-readme/screen-islands.png" alt="Screenshot of islands.html" width="45%"><br><hr><br>
 
 ##### types.html
-Page for learning about the different types of holidays on offer
-<img src="assets/images-readme/screen-types.png" alt="Screenshot of types.html"><br><hr><br>
+Page for learning about the different types of holidays on offer<br>
+<img src="assets/images-readme/screen-types.png" alt="Screenshot of types.html" width="45%"><br><hr><br>
 
 ##### gallery.html
-Page for viewing images of different holiday types and islands
-<img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
+Page for viewing images of different holiday types and islands<br>
+<img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html" width="45%"><br><hr><br>
 
 ##### contact.html
-Page for customer to place their details and say what they're interested in, link to downloadable brochure here
-<img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
+Page for customer to place their details and say what they're interested in, link to downloadable brochure here<br>
+<img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html" width="45%"><br><hr><br>
 
 ##### thanks.html
-Page directed to via submit button in form of contact.html
-<img src="assets/images-readme/screen-thanks.png" alt="Screenshot of thanks.html"><br><hr><br>
+Page directed to via submit button in form of contact.html<br>
+<img src="assets/images-readme/screen-thanks.png" alt="Screenshot of thanks.html" width="45%"><br><hr><br>
 
 ##### 404.html
-Page for when errors occur with web address
-<img src="assets/images-readme/screen-404.png" alt="Screenshot of 404.html"><br><hr><br>
+Page for when errors occur with web address<br>
+<img src="assets/images-readme/screen-404.png" alt="Screenshot of 404.html" width="45%"><br><hr><br>
 
 ##### Hidden Map Pages 
-Linked via islands.html to view thumbnail maps at larger size
-<img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages"><br><hr><br>
+Linked via islands.html to view thumbnail maps at larger size<br>
+<img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages" width="45%"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
