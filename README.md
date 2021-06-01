@@ -49,13 +49,13 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
                             <li>Structure</li>
                             <li>Skeleton</li>
                                 <ul>
-                                    <li>index.html</li>
-                                    <li>islands.html</li>
-                                    <li>types.html</li>
-                                    <li>gallery.html</li>
-                                    <li>contact.html</li>
-                                    <li>thanks.html</li>
-                                    <li>Hidden Map Pages</li>
+                                    <li>index.html - Wireframe</li>
+                                    <li>islands.html - Wireframe</li>
+                                    <li>types.html - Wireframe</li>
+                                    <li>gallery.html - Wireframe</li>
+                                    <li>contact.html - Wireframe</li>
+                                    <li>thanks.html - Wireframe</li>
+                                    <li>Hidden Map Pages - Wireframe</li>
                                     <li>404.html</li>
                                 </ul>
                             <li>Surface</li>
@@ -102,6 +102,16 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     </li>
     <li>
         <a href="#Screenshots"><strong>Screenshots</strong></a>
+        <ul>
+            <li>index.html - Screenshot</li>
+            <li>islands.html - Screenshot</li>
+            <li>types.html - Screenshot</li>
+            <li>gallery.html - Screenshot</li>
+            <li>contact.html - Screenshot</li>
+            <li>thanks.html - Screenshot</li>
+            <li>404.html - Screenshot</li>
+            <li>Hidden Map Pages - Screenshot</li>
+        </ul>
     </li>
 </ul>
 
@@ -192,27 +202,35 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
-## index.html - Home/Landing page
+## index.html
+Home/Landing page
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html"><br><hr><br>
 
-## islands.html - Page for learning about the different island groups
+## islands.html
+Page for learning about the different island groups
 <img src="assets/images-readme/screen-islands.png" alt="Screenshot of islands.html"><br><hr><br>
 
-## Hidden pages linked via islands.html to view thumbnail maps at larger size
-<img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages"><br><hr><br>
-
-## types.html - Page for learning about the different types of holidays on offer
+## types.html
+Page for learning about the different types of holidays on offer
 <img src="assets/images-readme/screen-types.png" alt="Screenshot of types.html"><br><hr><br>
 
-## gallery.html - Page for viewing images of different holiday types and islands
+## gallery.html
+Page for viewing images of different holiday types and islands
 <img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html"><br><hr><br>
 
-## contact.html - Page for customer to place their details and say what they're interested in, link to downloadable brochure here
+## contact.html
+Page for customer to place their details and say what they're interested in, link to downloadable brochure here
 <img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html"><br><hr><br>
 
-## thanks.html - Page directed to via submit button in form of contact.html
+## thanks.html
+Page directed to via submit button in form of contact.html
 <img src="assets/images-readme/screen-thanks.png" alt="Screenshot of thanks.html"><br><hr><br>
 
-## 404.html - Page for when errors occur with web address
+## 404.html
+Page for when errors occur with web address
 <img src="assets/images-readme/screen-404.png" alt="Screenshot of 404.html"><br><hr><br>
+
+## Hidden Map Pages 
+Linked via islands.html to view thumbnail maps at larger size
+<img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
