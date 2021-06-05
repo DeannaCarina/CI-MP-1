@@ -128,7 +128,10 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 
 ## Goals
 ### Vision
-Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [1][2].
+Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [1][2]. As a frequent traveller to the Caribbean, I felt there was a gap in the market to provide potential travellers to the Caribbean with a straightforward and easy means of learning about the 
+potential locations to travel to, and the different types of holiday they can go on, as well as the different activites and excursions customers can go on once they are in
+the Caribbean to experience the best the Caribbean has to offer. Much like an online travel-agent, I hope the website can provide confidence to customers to take the 
+leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. 
 
 ### Aim
 The business aims for this site are:
