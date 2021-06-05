@@ -112,7 +112,9 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
             <li>Hidden Map Pages - Screenshot</li>
         </ul>
     </li>
-    <li><strong>References</strong></li>
+    <li>
+        <a href="#References"><strong>References</strong></a>
+    </li>
 </ul>
 
 <hr>
