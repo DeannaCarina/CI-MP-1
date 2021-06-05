@@ -112,6 +112,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
             <li>Hidden Map Pages - Screenshot</li>
         </ul>
     </li>
+    <li><strong>References</strong></li>
 </ul>
 
 <hr>
@@ -126,7 +127,11 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 # UX
 
 ## Goals
-The business goals for this site are:
+### Vision
+Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [1][2].
+
+### Aim
+The business aims for this site are:
 <ol>
     <li>To earn commision from partner companies that are advertised via the website</li>
     <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
@@ -134,7 +139,7 @@ The business goals for this site are:
     <li>To be easily findable via search engines</li>
     <li>To be shareable between current customers and potential customers for potential future revenue</li>
 </ol>
-The user goals for this site are:
+The user aims for this site are:
 <ol>
     <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
     <li>To help customers decide on what type of holiday they would like for their Caribbean Holiday</li>
@@ -144,8 +149,6 @@ The user goals for this site are:
     <li>To provide customers with a downloadable brochure to advertise the type of package holidays they can have in the Caribbean</li>
 </ol>
 
-### Vision
-### Aim
 ### Target Audience
 <a href="#Contents">Back to the top.</a>
 
@@ -251,3 +254,9 @@ Page for when errors occur with web address<br>
 Linked via islands.html to view thumbnail maps at larger size<br>
 <img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages" width="45%"><br><hr><br>
 <a href="#Contents">Back to the top.</a>
+
+# References
+<ol>
+    <li>Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available at: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed 5 June 2021].</li>
+    <li>Caribbean Currency, Thomas Cook, 2021. [Online]. Available at: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed e5 June 2021].</li>
+</ol>
