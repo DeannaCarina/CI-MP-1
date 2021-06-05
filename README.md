@@ -133,6 +133,15 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 ## Goals
+The business goals for this site are:
+<ol>
+    <li>To earn commision from partner companies that are advertised via the website</li>
+    <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
+    <li>To build a database of customers that have used the services of the website for future holidays</li>
+    <li>To be easily findable via search engines</li>
+    <li>To be shareable between current customers and potential customers for potential future revenue</li>
+</ol>
+The user goals for this site are:
 <ol>
     <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
     <li>To help customers decide on what type of holiday they would like for their Caribbean Holiday</li>
@@ -140,11 +149,6 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
     <li>To visually help customers by providing a gallery page of images taken in the Caribbean</li>
     <li>To provide customers with an easy to use and intuitive contact form to be able to request extra information</li>
     <li>To provide customers with a downloadable brochure to advertise the type of package holidays they can have in the Caribbean</li>
-    <li>To earn commision from partner companies that are advertised via the website</li>
-    <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
-    <li>To build a database of customers that have used the services of the website for future holidays</li>
-    <li>To be easily findable via search engines</li>
-    <li>To be shareable between current customers and potential customers for potential future revenue</li>
 </ol>
 ### Vision
 ### Aim
