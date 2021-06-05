@@ -120,7 +120,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
 # Demo
 A live demo of the website can be found <a href="https://deannacarina.github.io/CI-MP-1/index.html" target="_blank">**HERE**</a>
 
-<img src="assets/images-readme/Responsive.gif" alt="Demo of Travel Caribbean site" width="100%">
+<img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
 
 # UX
 <a href="#Contents">Back to the top.</a>
