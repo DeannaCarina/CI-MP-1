@@ -153,6 +153,18 @@ The user aims for this site are:
 </ol>
 
 ### Target Audience
+There are a number of target audiences for this website due to the range and number of different locations and holiday types on offer.<br>
+The theory of potential target audiences are as follows:
+<ul>
+    <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience the 'rustic' travel [3] </li>
+    <li><strong>Age 30-60</strong> - This is the group of potential customers that are more likly to want family holidays, as well as the age group of those that are most
+    likely to be able to afford a holiday in the Caribbean</li>
+    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement</li>
+    <li><strong>Naturists</strong> - as clothing optional holidays are very niche, it is important for this group of individuals to have a place to go to cater to their more specialist wants and needs</li>
+    <li><strong>Adventurous People</strong> - This is the group of people more likely to use the services of the website to plan and book excursions in the Caribbean</li>
+    <li><strong>Newly engaged couples</strong> - This is the group of people more likely to want to organise group holidays for hen and stag parties</li>
+    <li><strong>Newly married couples</strong> - This is the group of people more likely to want to use the services of the website to plan a honeymoon</li>
+</ul>
 <a href="#Contents">Back to the top.</a>
 
 ## User stories
@@ -260,6 +272,7 @@ Linked via islands.html to view thumbnail maps at larger size<br>
 
 # References
 <ol>
-    <li>Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available at: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed 5 June 2021].</li>
-    <li>Caribbean Currency, Thomas Cook, 2021. [Online]. Available at: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed e5 June 2021].</li>
+    <li>[1]Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed: 05- June- 2021].</li>
+    <li>[2]Caribbean Currency, Thomas Cook, 2021. [Online]. Available: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed: 05- Jun- 2021].</li>
+    <li>[3]"10 Backpacking Myths That Shouldn't Stop You Travelling - Backpacker Advice", Backpacker Advice, 2021. [Online]. Available: https://backpackeradvice.com/blog/backpacking-myths.html. [Accessed: 05- Jun- 2021].</li>
 </ol>
