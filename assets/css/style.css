@@ -357,29 +357,33 @@ a{
     height: auto;
 }   
 iframe{
-    height: 600px;
+    height: 500px;
 }
 #islands-internal-nav-bar{
     width: 100%;
-    height: 170px;
-    line-height: 160px;
+    height: 220px;
+    line-height: auto;
     background-color: whitesmoke;
-    text-align: center; 
-    background-image: linear-gradient(0.25turn, #468088, #ecf0e9, #467ca0);
+    text-align: center;
+    background: url(../bvi3.jpg) center no-repeat no-repeat;
+    background-size: cover;
     box-shadow: 0 60px 75px 0 rgba(103, 170, 170, 0.4), 0 57px 100px 0 rgba(143, 151, 230, 0.3);
 }
 .hov-map{
-    border: 1px solid whitesmoke;
-    border-radius: 10px;
-    font-size: small;
-    width: 12%;
-    height: 60px;
-    line-height: 60px;
+    border-radius: 0px 0px 100px 100px;
+    border-bottom: 10px solid white;
+    font-size: medium;
+    font-weight: 1000;
+    width: 200px;
+    padding-top: 30px;
+    height: 90px;
+    line-height: 20px;
     display: inline-block;
     text-align: center;
     background-color: rgba(94, 94, 94, 0.781);
     transition-duration: 0.5s;
     color: white;
+    margin: 0px;
 }
 .hov-map a{
     text-decoration: none;
@@ -880,14 +884,9 @@ footer a:hover{
         height: 30px;
     }
 }
-@media screen and (max-width: 1600px){
+@media screen and (max-width: 1621px){
     .hov-map{
-        font-size: small;
-        width: 6%;
-        height: auto;
-        padding: 10px;
-        line-height: 15px;
-        margin: 2%;
+        width: 150px;
     }
 }    
 @media screen and (max-width: 1530px){
@@ -1001,6 +1000,12 @@ footer a:hover{
         margin-bottom: 0px;
     }
 }
+@media screen and (max-width: 1221px){
+    .hov-map{
+        width: 100px;
+        font-size: small;
+    }
+}    
 @media screen and (max-width: 1142px){
     #index-reviews-section{
         height: 1250px;
@@ -1052,12 +1057,6 @@ footer a:hover{
     #gallery-photos-section{
         column-count: 3;
     }  
-}    
-@media screen and (max-width: 987px){
-    .hov-map{
-        width: 60px;
-        margin: 0.5%;
-    }
 }
 @media screen and (max-width: 950px){
     #signup-form{
@@ -1111,6 +1110,17 @@ footer a:hover{
         line-height: 55px;
     }
 }
+@media screen and (max-width: 821px){
+    .hov-map{
+        border-bottom: 0px solid transparent;
+        border-radius: 20px;
+        margin: 2px;
+        border: 2px solid whitesmoke;
+    }
+    #islands-internal-nav-bar{
+        height: 253px;
+    }
+}    
 @media screen and (max-width: 801px){
     #index-reviews-section{
         height: 1500px;
@@ -1151,17 +1161,7 @@ footer a:hover{
     .form-white-text{
         color: black;
     }
-}  
-@media screen and (max-width: 736px){
-    #islands-internal-nav-bar{
-        height: 170px;
-        line-height: 80px;
-    }
-    .hov-map {
-        width: 90px;
-        margin: 0.5%;
-    }
-}
+} 
 @media screen and (max-width: 735px){
     #index-reviews-section{
         height: 1450px;
@@ -1469,6 +1469,11 @@ footer a:hover{
         height: 50px;
     }
 }
+@media screen and (max-width: 441px){
+    #islands-internal-nav-bar{
+        height: 383px;
+    }
+}  
 @media screen and (max-width: 423px){
     #index-steps-div{
         height: 500px
@@ -1667,11 +1672,6 @@ footer a:hover{
         height: 320px;
     }
 }
-@media screen and (max-width: 352px){
-    #islands-internal-nav-bar{
-        height: 280px;
-    }
-}
 @media screen and (max-width: 342px){
     #index-logo{
         font-size: 300%;
@@ -1679,6 +1679,11 @@ footer a:hover{
     }
     #menu li{
         padding-left: 30px;
+    }
+}
+@media screen and (max-width: 330px){
+    #islands-internal-nav-bar{
+        height: 510px;
     }
 }
 @media screen and (max-width: 327px){
