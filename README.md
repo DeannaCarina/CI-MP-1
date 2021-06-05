@@ -121,9 +121,9 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
 A live demo of the website can be found <a href="https://deannacarina.github.io/CI-MP-1/index.html" target="_blank">**HERE**</a>
 
 <img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
+<a href="#Contents">Back to the top.</a>
 
 # UX
-<a href="#Contents">Back to the top.</a>
 
 ## Goals
 The business goals for this site are:
@@ -143,6 +143,7 @@ The user goals for this site are:
     <li>To provide customers with an easy to use and intuitive contact form to be able to request extra information</li>
     <li>To provide customers with a downloadable brochure to advertise the type of package holidays they can have in the Caribbean</li>
 </ol>
+
 ### Vision
 ### Aim
 ### Target Audience
