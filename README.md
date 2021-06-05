@@ -7,7 +7,7 @@
 
 Milestone One Project: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
 
-This is my submission for Code Institute's Milestone One Project. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with **ONLY** HTML5 and CSS3. The website covers the most basic function of the company: "The new way to plan your Caribbean getaway", the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month. There are also contact links at the bottom of the page with personal links to my own Instagram acount as all static images have come from my own photography portfolio.
+This is my submission for Code Institute's Milestone One Project. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with **ONLY** HTML5 and CSS3. The website covers the most basic function of the company: "The new way to plan your Caribbean getaway", the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
 
 # Contents
 
@@ -133,6 +133,19 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 ## Goals
+<ol>
+    <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
+    <li>To help customers decide on what type of holiday they would like for their Caribbean Holiday</li>
+    <li>To help customers decide what they would like to do on their Caribbean Holiday for excursions and activities</li>
+    <li>To visually help customers by providing a gallery page of images taken in the Caribbean</li>
+    <li>To provide customers with an easy to use and intuitive contact form to be able to request extra information</li>
+    <li>To provide customers with a downloadable brochure to advertise the type of package holidays they can have in the Caribbean</li>
+    <li>To earn commision from partner companies that are advertised via the website</li>
+    <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
+    <li>To build a database of customers that have used the services of the website for future holidays</li>
+    <li>To be easily findable via search engines</li>
+    <li>To be shareable between current customers and potential customers for potential future revenue</li>
+</ol>
 ### Vision
 ### Aim
 ### Target Audience
