@@ -18,7 +18,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     <li>
         <a href="#UX"><strong>UX</strong></a>
         <ul>
-            <li><a href="#Goals">Goals</a>
+            <li><a href="#Goals">Strategy</a>
                 <ul>
                     <li>Vision</li>
                     <li>Aims</li>
@@ -128,13 +128,13 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a>
 
 # UX
-
-## Goals
+As more people rely on accessing services online the role of UX design has become increasingly important in our digitized world. The five planes provide a conceptual framework for breaking down the task of designing experiences into component elements so that we can understand the problem as a whole [1]. As this framework is structured, regularly used and consistently reliable, I have chosen to use the Five Planes method to design and implement my own website.
+## Strategy
 ### Vision
-Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [1][2]. As a frequent traveller to the Caribbean, I felt there was a gap in the market to provide potential travellers to the Caribbean with a straightforward and easy means of learning about the 
+Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [2][3]. As a frequent traveller to the Caribbean, I felt there was a gap in the market to provide potential travellers to the Caribbean with a straightforward and easy means of learning about the 
 potential locations to travel to, and the different types of holiday they can go on, as well as the different activites and excursions customers can go on once they are in
 the Caribbean to experience the best the Caribbean has to offer. Much like an online travel-agent, I hope the website can provide confidence to customers to take the 
-leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. 
+leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. From personal experience however, I have found that many online travel agent websites are confusing to navigate and have an overabundance of information, it is my aim to make my own website easily navigatable and provide customers with a structured and logical devlivery of information. By doing this, it will encourage customers to stay on the site and want to use the company's services rather than navigate away from the page due to information overload. <em>Travel Caribbean</em> is a specialist travel website focusing on travel to the Caribbean.
 
 ### Aims
 <ol>
@@ -156,19 +156,18 @@ leap and book their holiday to the Caribbean as there are so many amazing things
 There are a number of target audiences for this website due to the range and number of different locations and holiday types on offer.<br>
 The theory of potential target audiences are as follows:
 <ul>
-    <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience 'rustic' travel [3] </li>
+    <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience 'rustic' travel [4] </li>
     <li><strong>Age 30-60</strong> - This is the group of potential customers that are more likly to want family holidays</li>
-    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises. This demographic also has a likelihood of having a large proportion of solo travellers [4]</li>
+    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises. This demographic also has a likelihood of having a large proportion of solo travellers [5]</li>
     <li><strong>Naturists</strong> - as clothing optional holidays are very niche, it is important for this group of individuals to have a place to go to cater to their more specialist wants and needs</li>
     <li><strong>Adventurous People</strong> - This is the group of people more likely to use the services of the website to plan and book excursions in the Caribbean</li>
     <li><strong>Newly engaged couples</strong> - This is the group of people more likely to want to organise group holidays for hen and stag parties</li>
     <li><strong>Newly married couples</strong> - This is the group of people more likely to want to use the services of the website to plan a honeymoon</li>
-    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [5], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland, especially due to the direct flights from international airports such as Manchester and Heathrow.</li>
+    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [6], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland, especially due to the direct flights from international airports such as Manchester and Heathrow.</li>
 </ul>
-<a href="#Contents">Back to the top.</a>
 
-## User stories
-### Customer
+### User stories
+#### Customer
 <strong>As a new <em>AND</em> returning customer I want to...</strong>
 <ol>
     <li>Know the purpose of the website as soon as I navigate to the home/landing page</li>
@@ -190,7 +189,7 @@ The theory of potential target audiences are as follows:
     <li>Have easy navigation to external sources to further knowledge of different locations to aid in decision making</li>
 </ol>
 
-### Business Operator
+#### Business Operator
 <strong>As the business operator I want to...</strong>
 <ol>
     <li>Create and maintain a database of clients and customers that have organised travel to the Caribbean via the website</li>
@@ -208,7 +207,7 @@ The theory of potential target audiences are as follows:
     <li>To provide customers with links to associated social media sites</li>
 </ol>
 
-### Partnership Company
+#### Partnership Company
 <strong>As a company in partnership with <em>Travel Caribbean</em> I want to...</strong>
 <ol>
     <li>Ensure that <em>Travel Caribbean</em> is a company with good reputation that I can affiliate my own company with</li>
@@ -218,7 +217,6 @@ The theory of potential target audiences are as follows:
     <li>Have any advertising via <em>Travel Caribbean</em> to be positive and promotional</li>
     <li>Have a fast and easy way for customers to be able to navigate to my own company's website via <em>Travel Caribbean</em></li>
 </ol>
-
 <a href="#Contents">Back to the top.</a>
 
 ## Structure
@@ -227,11 +225,8 @@ The theory of potential target audiences are as follows:
 #### Color Scheme
 #### Design - Images
 #### Design - Video
-### Five Planea
-#### Strategy
-#### Scope
-#### Structure
-#### Skeleton (wireframes)
+## Scope
+## Skeleton (wireframes)
 ##### index.html
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br><hr><br>
 
@@ -256,7 +251,7 @@ The theory of potential target audiences are as follows:
 ##### 404.html
 <img src="assets/images-readme/wire-404.png" alt="Wireframe plan of Error 404 page" width="45%"><br><br>
 
-#### Surface
+## Surface
 <a href="#Contents">Back to the top.</a>
 
 # Technologies
@@ -321,9 +316,10 @@ Linked via islands.html to view thumbnail maps at larger size<br>
 
 # References
 <ol>
-    <li>[1]Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed: 05- June- 2021].</li>
-    <li>[2]Caribbean Currency, Thomas Cook, 2021. [Online]. Available: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed: 05- Jun- 2021].</li>
-    <li>[3]"10 Backpacking Myths That Shouldn't Stop You Travelling - Backpacker Advice", Backpacker Advice, 2021. [Online]. Available: https://backpackeradvice.com/blog/backpacking-myths.html. [Accessed: 05- Jun- 2021].</li>
-    <li>[4]D. Horscroft and D. Horscroft, "Population estimates by marital status and living arrangements, England and Wales - Office for National Statistics", Ons.gov.uk, 2021. [Online]. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesbymaritalstatusandlivingarrangements/2002to2017. [Accessed: 06- Jun- 2021].</li>
-    <li>[5]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
+    <li>[1]U. Qureshi, "UX Design using the Five Planes Method", Medium, 2021. [Online]. Available: https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05. [Accessed: 06- Jun- 2021].</li>
+    <li>[2]Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed: 05- June- 2021].</li>
+    <li>[3]Caribbean Currency, Thomas Cook, 2021. [Online]. Available: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed: 05- Jun- 2021].</li>
+    <li>[4]"10 Backpacking Myths That Shouldn't Stop You Travelling - Backpacker Advice", Backpacker Advice, 2021. [Online]. Available: https://backpackeradvice.com/blog/backpacking-myths.html. [Accessed: 05- Jun- 2021].</li>
+    <li>[5]D. Horscroft and D. Horscroft, "Population estimates by marital status and living arrangements, England and Wales - Office for National Statistics", Ons.gov.uk, 2021. [Online]. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesbymaritalstatusandlivingarrangements/2002to2017. [Accessed: 06- Jun- 2021].</li>
+    <li>[6]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
 </ol>
