@@ -159,14 +159,14 @@ The user aims for this site are:
 There are a number of target audiences for this website due to the range and number of different locations and holiday types on offer.<br>
 The theory of potential target audiences are as follows:
 <ul>
-    <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience the 'rustic' travel [3] </li>
+    <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience 'rustic' travel [3] </li>
     <li><strong>Age 30-60</strong> - This is the group of potential customers that are more likly to want family holidays</li>
     <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises. This demographic also has a likelihood of having a large proportion of solo travellers [4]</li>
     <li><strong>Naturists</strong> - as clothing optional holidays are very niche, it is important for this group of individuals to have a place to go to cater to their more specialist wants and needs</li>
     <li><strong>Adventurous People</strong> - This is the group of people more likely to use the services of the website to plan and book excursions in the Caribbean</li>
     <li><strong>Newly engaged couples</strong> - This is the group of people more likely to want to organise group holidays for hen and stag parties</li>
     <li><strong>Newly married couples</strong> - This is the group of people more likely to want to use the services of the website to plan a honeymoon</li>
-    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [5], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland.</li>
+    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [5], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland, especially due to the direct flights from international airports such as Manchester and Heathrow.</li>
 </ul>
 <a href="#Contents">Back to the top.</a>
 
