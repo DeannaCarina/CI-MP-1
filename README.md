@@ -136,7 +136,7 @@ the Caribbean to experience the best the Caribbean has to offer. Much like an on
 leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. 
 
 ### Aim
-The business aims for this site are:
+<strong>The business aims for this site are:</strong>
 <ol>
     <li>To earn commision from partner companies that are advertised via the website</li>
     <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
@@ -144,7 +144,7 @@ The business aims for this site are:
     <li>To be easily findable via search engines</li>
     <li>To be shareable between current customers and potential customers for potential future revenue</li>
 </ol>
-The user aims for this site are:
+<strong>The user aims for this site are:</strong>
 <ol>
     <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
     <li>To help customers decide on what type of holiday they would like for their Caribbean getaway</li>
