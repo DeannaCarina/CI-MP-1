@@ -27,8 +27,9 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
             </li>
             <li><a href="#User-Stories">User Stories</a>
                 <ul>
-                    <li>New Customer</li>
-                    <li>Returning Customer</li>
+                    <li>Customer</li>
+                    <li>Business Operator</li>
+                    <li>Partnership Company</li>
                 </ul>
             </li>
             <li><a href="#Structure">Structure</a>
@@ -171,8 +172,57 @@ The theory of potential target audiences are as follows:
 <a href="#Contents">Back to the top.</a>
 
 ## User stories
-### New customer
-### Returning Customer
+### Customer
+<strong>As a new <em>AND</em> returning customer I want to...</strong>
+<ol>
+    <li>Know the purpose of the website as soon as I navigate to the home/landing page</li>
+    <li>Navigate the website quickly and effectively</li>
+    <li>Find everything in the website that I need to find with ease</li>
+    <li>Learn about the different locations that are available to me as a holiday destination in the Caribbean</li>
+    <li>Learn about the different holiday types that are available to me</li>
+    <li>Have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean</li>
+    <li>Have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean</li>
+    <li>Know what other customers have said about the company to ensure the company is genuine and good at what they do</li>
+    <li>Have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure</li>
+    <li>Have a quick and easy way to contact the company/for the company to contact me</li>
+    <li>Have updated deals and offers from the company for potential Caribbean holidays</li>
+    <li>Have updated information about locations in the Caribbean that may or may not be suitable for travel at that time</li>
+    <li>Have links to social media platforms related to the company to view further customer testomonies</li>
+    <li>Have links to social media platforms related to the company to view further images of potential locations and excusrions</li>
+    <li>Be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company</li>
+    <li>Browse the website and get information from the company without an obligation to book a holiday</li>
+    <li>Have easy navigation to external sources to further knowledge of different locations to aid in decision making</li>
+</ol>
+
+### Business Operator
+<strong>As the business operator I want to...</strong>
+<ol>
+    <li>Create and maintain a database of clients and customers that have organised travel to the Caribbean via the website</li>
+    <li>Create and maintain a database of clients and customers that have expressed interest in travel to the Caribbean via the website</li>
+    <li>Ensure the website is easily maintainable by software developers by having intutitive and neat code</li>
+    <li>Have any media content displayed in the website accessible at all times via a linked file system</li>
+    <li>Ensure all navigation links (internal or external) are always fully functional for ease of use</li>
+    <li>Ensure the website is fully accessible to users that may have visual imparement</li>
+    <li>Ensure the website is intuitive for all age groups and abilities</li>
+    <li>Gain comission from external companies advertised via the website and in partnership with the company</li>
+    <li>Gain income from customers via a fee placed within the total price of the booked holiday to the Caribbean</li>
+    <li>Create a visually stimulating environment for customers to see what is available to them during a Caribbean holiday and increase the 
+    liklihood of booking and future potential revenue</li>
+    <li>Stand out from other forms of online travel agent to reduce the chance of customers booking Caribbean holidays via competitors</li>
+    <li>To provide customers with links to associated social media sites</li>
+</ol>
+
+### Partnership Company
+<strong>As a company in partnership with <em>Travel Caribbean</em> I want to...</strong>
+<ol>
+    <li>Ensure that <em>Travel Caribbean</em> is a company with good reputation that I can affiliate my own company with</li>
+    <li>Ensure that any comission paid to <em>Travel Caribbean</em> will result in a guarenteed flow of customers to my own company for guaranteed future revenue</li>
+    <li>Have an fast and easy way to contact <em>Travel Caribbean</em> to discuss partnership terms and comission fees</li>
+    <li>To have little competition with other external companies that offer similar products to my own commpany</li>
+    <li>Have any advertising via <em>Travel Caribbean</em> to be positive and promotional</li>
+    <li>Have a fast and easy way for customers to be able to navigate to my own company's website via <em>Travel Caribbean</em></li>
+</ol>
+
 <a href="#Contents">Back to the top.</a>
 
 ## Structure
