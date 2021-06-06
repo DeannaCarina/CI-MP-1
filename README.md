@@ -147,11 +147,12 @@ The business aims for this site are:
 The user aims for this site are:
 <ol>
     <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
-    <li>To help customers decide on what type of holiday they would like for their Caribbean Holiday</li>
+    <li>To help customers decide on what type of holiday they would like for their Caribbean getaway</li>
     <li>To help customers decide what they would like to do on their Caribbean Holiday for excursions and activities</li>
     <li>To visually help customers by providing a gallery page of images taken in the Caribbean</li>
     <li>To provide customers with an easy to use and intuitive contact form to be able to request extra information</li>
-    <li>To provide customers with a downloadable brochure to advertise the type of package holidays they can have in the Caribbean</li>
+    <li>To make the site intuative and easily usable to enable customers learn about the Caribbean</li>
+    <li>To provide customers with a downloadable brochure to advertise examples of package holidays they can have in the Caribbean</li>
 </ol>
 
 ### Target Audience
@@ -159,14 +160,13 @@ There are a number of target audiences for this website due to the range and num
 The theory of potential target audiences are as follows:
 <ul>
     <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience the 'rustic' travel [3] </li>
-    <li><strong>Age 30-60</strong> - This is the group of potential customers that are more likly to want family holidays, as well as the age group of those that are most
-    likely to be able to afford a holiday in the Caribbean</li>
-    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises</li>
+    <li><strong>Age 30-60</strong> - This is the group of potential customers that are more likly to want family holidays</li>
+    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises. This demographic also has a likelihood of having a large proportion of solo travellers [4]</li>
     <li><strong>Naturists</strong> - as clothing optional holidays are very niche, it is important for this group of individuals to have a place to go to cater to their more specialist wants and needs</li>
     <li><strong>Adventurous People</strong> - This is the group of people more likely to use the services of the website to plan and book excursions in the Caribbean</li>
     <li><strong>Newly engaged couples</strong> - This is the group of people more likely to want to organise group holidays for hen and stag parties</li>
     <li><strong>Newly married couples</strong> - This is the group of people more likely to want to use the services of the website to plan a honeymoon</li>
-    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [4], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland.</li>
+    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [5], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland.</li>
 </ul>
 <a href="#Contents">Back to the top.</a>
 
@@ -278,5 +278,6 @@ Linked via islands.html to view thumbnail maps at larger size<br>
     <li>[1]Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed: 05- June- 2021].</li>
     <li>[2]Caribbean Currency, Thomas Cook, 2021. [Online]. Available: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed: 05- Jun- 2021].</li>
     <li>[3]"10 Backpacking Myths That Shouldn't Stop You Travelling - Backpacker Advice", Backpacker Advice, 2021. [Online]. Available: https://backpackeradvice.com/blog/backpacking-myths.html. [Accessed: 05- Jun- 2021].</li>
-    <li>[4]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
+    <li>[4]D. Horscroft and D. Horscroft, "Population estimates by marital status and living arrangements, England and Wales - Office for National Statistics", Ons.gov.uk, 2021. [Online]. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesbymaritalstatusandlivingarrangements/2002to2017. [Accessed: 06- Jun- 2021].</li>
+    <li>[5]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
 </ol>
