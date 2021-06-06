@@ -21,7 +21,7 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
             <li><a href="#Goals">Goals</a>
                 <ul>
                     <li>Vision</li>
-                    <li>Aim</li>
+                    <li>Aims</li>
                     <li>Target Audience</li>
                 </ul>
             </li>
@@ -136,17 +136,13 @@ potential locations to travel to, and the different types of holiday they can go
 the Caribbean to experience the best the Caribbean has to offer. Much like an online travel-agent, I hope the website can provide confidence to customers to take the 
 leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. 
 
-### Aim
-<strong>The business aims for this site are:</strong>
+### Aims
 <ol>
     <li>To earn commision from partner companies that are advertised via the website</li>
     <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
     <li>To build a database of customers that have used the services of the website for future holidays</li>
     <li>To be easily findable via search engines</li>
     <li>To be shareable between current customers and potential customers for potential future revenue</li>
-</ol>
-<strong>The user aims for this site are:</strong>
-<ol>
     <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
     <li>To help customers decide on what type of holiday they would like for their Caribbean getaway</li>
     <li>To help customers decide what they would like to do on their Caribbean Holiday for excursions and activities</li>
@@ -217,7 +213,7 @@ The theory of potential target audiences are as follows:
 <ol>
     <li>Ensure that <em>Travel Caribbean</em> is a company with good reputation that I can affiliate my own company with</li>
     <li>Ensure that any comission paid to <em>Travel Caribbean</em> will result in a guarenteed flow of customers to my own company for guaranteed future revenue</li>
-    <li>Have an fast and easy way to contact <em>Travel Caribbean</em> to discuss partnership terms and comission fees</li>
+    <li>Have a fast and easy way to contact <em>Travel Caribbean</em> to discuss partnership terms and comission fees</li>
     <li>To have little competition with other external companies that offer similar products to my own commpany</li>
     <li>Have any advertising via <em>Travel Caribbean</em> to be positive and promotional</li>
     <li>Have a fast and easy way for customers to be able to navigate to my own company's website via <em>Travel Caribbean</em></li>
