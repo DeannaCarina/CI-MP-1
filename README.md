@@ -18,52 +18,47 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     <li>
         <a href="#UX"><strong>UX</strong></a>
         <ul>
-            <li><a href="#Goals">Strategy</a>
+            <li><a href="#Strategy">Strategy</a>
                 <ul>
                     <li>Vision</li>
                     <li>Aims</li>
                     <li>Target Audience</li>
-                </ul>
-            </li>
-            <li><a href="#User-Stories">User Stories</a>
-                <ul>
-                    <li>Customer</li>
-                    <li>Business Operator</li>
-                    <li>Partnership Company</li>
-                </ul>
-            </li>
-            <li><a href="#Structure">Structure</a>
-                <ul>
-                    <li>Design
+                    <li>User Stories
                         <ul>
-                            <li>Typography</li>
-                            <li>Color Scheme</li>
-                            <li>Design - Images</li>
-                            <li>Design - Video</li>
-                        </ul>
-                    </li>    
-                    <li>Five Planes
-                        <ul>
-                            <li>Strategy</li>
-                            <li>Scope</li>
-                            <li>Structure</li>
-                            <li>Skeleton</li>
-                                <ul>
-                                    <li>index.html - Wireframe</li>
-                                    <li>islands.html - Wireframe</li>
-                                    <li>types.html - Wireframe</li>
-                                    <li>gallery.html - Wireframe</li>
-                                    <li>contact.html - Wireframe</li>
-                                    <li>thanks.html - Wireframe</li>
-                                    <li>Hidden Map Pages - Wireframe</li>
-                                    <li>404.html</li>
-                                </ul>
-                            <li>Surface</li>
+                            <li>Customer</li>
+                            <li>Business Operator</li>
+                            <li>Partnership Company</li>
                         </ul>
                     </li>
                 </ul>
             </li>
-        </ul>
+            <li><a href="#Scope">Scope</a>
+            </li>  
+            <li><a href="#Structure">Structure</a>
+            </li>    
+            <li><a href="#Skeleton">Skeleton</a>
+                <ul>
+                    <li>index.html - Wireframe</li>
+                    <li>islands.html - Wireframe</li>
+                    <li>types.html - Wireframe</li>
+                    <li>gallery.html - Wireframe</li>
+                    <li>contact.html - Wireframe</li>
+                    <li>thanks.html - Wireframe</li>
+                    <li>Hidden Map Pages - Wireframe</li>
+                    <li>404.html - Wireframe</li>
+                </ul>
+            </li>        
+            <li><a href="#Surface">Surface</a>
+                <ul>
+                    <li>Design</li>
+                    <li>Typography</li>
+                    <li>Icons</li>
+                    <li>Color Scheme</li>
+                    <li>Design - Images</li>
+                    <li>Design - Video</li>
+                </ul>
+            </li>
+        </ul>                
     </li>
     <li>
         <a href="#Technologies"><strong>Technologies</strong></a>
