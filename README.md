@@ -233,7 +233,7 @@ While following the MMP model, to meet the user and business goals, my website w
 #### Design - Video
 
 ## Skeleton
-<img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br>
+<img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="90%"><br>
 <ul>
     <li>Click <a href="assets/images-readme/wire-islands.png" target="_blank">HERE</a> for islands.html Wireframe</li>
     <li>Click <a href="assets/images-readme/wire-types.png" target="_blank">HERE</a> for types.html Wireframe</li>
@@ -243,7 +243,7 @@ While following the MMP model, to meet the user and business goals, my website w
     <li>Click <a href="assets/images-readme/wire-404.png" target="_blank">HERE</a> for 404.html Wireframe</li>
     <li>Click <a href="assets/images-readme/wire-bigmap.png" target="_blank">HERE</a> for large map page linked via islands.html Wireframe</li>
 </ul>
-<hr>
+<br>
 <a href="#Contents">Back to the top.</a>
 
 
@@ -278,7 +278,7 @@ While following the MMP model, to meet the user and business goals, my website w
 
 # Screenshots
 
-<img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="45%"><br>
+<img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="90%"><br>
 <ul>
     <li>CLICK<a href="assets/images-readme/screen-types.png" target="_blank">HERE</a> for types.html Screenshot</li>
     <li>CLICK<a href="assets/images-readme/screen-gallery.png" target="_blank">HERE</a> for gallery.html Screenshot</li>
@@ -287,7 +287,7 @@ While following the MMP model, to meet the user and business goals, my website w
     <li>CLICK<a href="assets/images-readme/screen-404.png" target="_blank">HERE</a> for 404.html Screenshot</li>
     <li>CLICK<a href="assets/images-readme/screen-map.png" target="_blank">HERE</a> for large map page linked via islands.html Screenshot</li>
 </ul>
-<hr>
+<br>
 <a href="#Contents">Back to the top.</a>
 
 # References
