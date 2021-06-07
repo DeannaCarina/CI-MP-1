@@ -112,18 +112,25 @@ The theory of potential target audiences are as follows:
 <ol>
     <li>Know the purpose of the website as soon as I navigate to the home/landing page</li>
     <li>Navigate the website quickly and effectively</li>
-    <li>Find everything in the website that I need to find with ease</li>
-    <li>Learn about the different locations that are available to me as a holiday destination in the Caribbean</li>
-    <li>Learn about the different holiday types that are available to me</li>
+    <li>Find everything in the website that I need to find with ease<br>
+    <img src="assets/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"></li>
+    <li>Learn about the different locations that are available to me as a holiday destination in the Caribbean<br>
+    <img src="assets/images-readme/image-islands.png" alt="Screenshot of top of islands page" width="100%"></li>
+    <li>Learn about the different holiday types that are available to me<br>
+    <img src="assets/images-readme/image-types.png" alt="Screenshot of top of types page" width="100%"></li>
     <li>Have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean</li>
     <li>Have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean</li>
-    <li>Know what other customers have said about the company to ensure the company is genuine and good at what they do</li>
+    <li>Know what other customers have said about the company to ensure the company is genuine and good at what they do<br>
+    <img src="assets/images-readme/image-reviews.png" alt="Screenshot of top of reviews section" width="100%"></li>
     <li>Have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure</li>
-    <li>Have a quick and easy way to contact the company/for the company to contact me</li>
-    <li>Have updated deals and offers from the company for potential Caribbean holidays</li>
+    <li>Have updated deals and offers from the company for potential Caribbean holidays<br>
+    <img src="assets/images-readme/image-brochure.jpeg" alt="Screenshot of top of downloadable brochure" width="100%"></li>
+    <li>Have a quick and easy way to contact the company/for the company to contact me<br>
+    <img src="assets/images-readme/image-contact.png" alt="Screenshot of top of contact page" width="100%"></li>
     <li>Have updated information about locations in the Caribbean that may or may not be suitable for travel at that time</li>
     <li>Have links to social media platforms related to the company to view further customer testomonies</li>
-    <li>Have links to social media platforms related to the company to view further images of potential locations and excusrions</li>
+    <li>Have links to social media platforms related to the company to view further images of potential locations and excusrions<br>
+    <img src="assets/images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"></li>
     <li>Be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company</li>
     <li>Browse the website and get information from the company without an obligation to book a holiday</li>
     <li>Have easy navigation to external sources to further knowledge of different locations to aid in decision making</li>
