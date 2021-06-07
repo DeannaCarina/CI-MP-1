@@ -189,6 +189,7 @@ The theory of potential target audiences are as follows:
 <ol>
     <li>Create and maintain a database of clients and customers that have organised travel to the Caribbean via the website</li>
     <li>Create and maintain a database of clients and customers that have expressed interest in travel to the Caribbean via the website</li>
+    <li>Create and maintain a database of external companies that do (and would like to) work in partnership with <em>Travel Caribbean</em></li>
     <li>Ensure the website is easily maintainable by software developers by having intutitive and neat code</li>
     <li>Have any media content displayed in the website accessible at all times via a linked file system</li>
     <li>Ensure all navigation links (internal or external) are always fully functional for ease of use</li>
@@ -208,7 +209,7 @@ The theory of potential target audiences are as follows:
     <li>Ensure that <em>Travel Caribbean</em> is a company with good reputation that I can affiliate my own company with</li>
     <li>Ensure that any comission paid to <em>Travel Caribbean</em> will result in a guarenteed flow of customers to my own company for guaranteed future revenue</li>
     <li>Have a fast and easy way to contact <em>Travel Caribbean</em> to discuss partnership terms and comission fees</li>
-    <li>To have little competition with other external companies that offer similar products to my own commpany</li>
+    <li>To have little competition with other external companies affiliated with <em>Travel Caribbean</em> that offer similar products to my own commpany</li>
     <li>Have any advertising via <em>Travel Caribbean</em> to be positive and promotional</li>
     <li>Have a fast and easy way for customers to be able to navigate to my own company's website via <em>Travel Caribbean</em></li>
 </ol>
