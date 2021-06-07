@@ -238,6 +238,7 @@ While following the MMP model, to meet the user and business goals, my website w
     <li>A large gallery (including videos) to allow customers to visualise their potential holiday destinations</li>
     <li>Contact forms to allow customers to contact the company and book holidays</li>
 </ul>
+<a href="#Contents">Back to the top.</a>
 
 ## Structure
 ### Design
