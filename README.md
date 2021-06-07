@@ -234,13 +234,15 @@ While following the MMP model, to meet the user and business goals, my website w
 
 ## Skeleton
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br><hr><br>
-<a href="assets/images-readme/wire-islands.png" target="_blank"><br>
-<a href="assets/images-readme/wire-types.png" target="_blank"><br>
-<a href="assets/images-readme/wire-gallery.png" target="_blank"><br>
-<a href="assets/images-readme/wire-contact.png" target="_blank"><br>
-<a href="assets/images-readme/wire-thanks.png" target="_blank"><br>
-<a href="assets/images-readme/wire-bigmap.png" target="_blank"><br>
-<a href="assets/images-readme/wire-404.png" target="_blank"><br>
+<a href="assets/images-readme/wire-islands.png" target="_blank">Click here for islands.html Wireframe</a><br><br>
+<a href="assets/images-readme/wire-types.png" target="_blank">Click here for types.html Wireframe</a><br><br>
+<a href="assets/images-readme/wire-gallery.png" target="_blank">Click here for gallery.html Wireframe</a><br><br>
+<a href="assets/images-readme/wire-contact.png" target="_blank">Click here for contact.html Wireframe</a><br><br>
+<a href="assets/images-readme/wire-thanks.png" target="_blank">Click here for thanks.html Wireframe</a><br><br>
+<a href="assets/images-readme/wire-404.png" target="_blank">Click here for 404.html Wireframe</a><br><br>
+<a href="assets/images-readme/wire-bigmap.png" target="_blank">Click here for large map page linked via islands.html Wireframe</a><br><br>
+<a href="#Contents">Back to the top.</a>
+
 
 ## Surface
 <a href="#Contents">Back to the top.</a>
@@ -272,36 +274,15 @@ While following the MMP model, to meet the user and business goals, my website w
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
-##### Home/Landing page
+
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="45%"><br><hr><br>
-
-##### Page for learning about the different island groups
-<a href="assets/images-readme/screen-islands.png" target="_blank">
-<br><br>
-
-##### Page for learning about the different types of holidays on offer
-<a href="assets/images-readme/screen-types.png" target="_blank">
-<br><br>
-
-##### Page for viewing images of different holiday types and islands
-<a href="assets/images-readme/screen-gallery.png" target="_blank">
-<br><br>
-
-##### Page for customer to place their details and say what they're interested in, link to downloadable brochure here
-<a href="assets/images-readme/screen-contact.png" target="_blank">
-<br><br>
-
-##### Page directed to via submit button in form of contact.html
-<a href="assets/images-readme/screen-thanks.png" target="_blank">
-<br><br>
-
-##### Page for when errors occur with web address
-<a href="assets/images-readme/screen-404.png" target="_blank">
-<br><br>
-
-##### Linked via islands.html to view thumbnail maps at larger size
-<a href="assets/images-readme/screen-map.png" target="_blank">
-<br><br>
+<a href="assets/images-readme/screen-islands.png" target="_blank">Click here for islands.html Screenshot</a><br><br>
+<a href="assets/images-readme/screen-types.png" target="_blank">Click here for types.html Screenshot</a><br><br>
+<a href="assets/images-readme/screen-gallery.png" target="_blank">Click here for gallery.html Screenshot</a><br><br>
+<a href="assets/images-readme/screen-contact.png" target="_blank">Click here for contact.html Screenshot</a><br><br>
+<a href="assets/images-readme/screen-thanks.png" target="_blank">Click here for thanks.html Screenshot</a><br><br>
+<a href="assets/images-readme/screen-404.png" target="_blank">Click here for 404.html Screenshot</a><br><br>
+<a href="assets/images-readme/screen-map.png" target="_blank">Click here for large map page linked via islands.html Screenshot</a><br><br>
 <a href="#Contents">Back to the top.</a>
 
 # References
