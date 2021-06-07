@@ -280,12 +280,12 @@ While following the MMP model, to meet the user and business goals, my website w
 
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="90%"><br>
 <ul>
-    <li>CLICK<a href="assets/images-readme/screen-types.png" target="_blank">HERE</a> for types.html Screenshot</li>
-    <li>CLICK<a href="assets/images-readme/screen-gallery.png" target="_blank">HERE</a> for gallery.html Screenshot</li>
-    <li>CLICK<a href="assets/images-readme/screen-contact.png" target="_blank">HERE</a> for contact.html Screenshot</li>
-    <li>CLICK<a href="assets/images-readme/screen-thanks.png" target="_blank">HERE</a> for thanks.html Screenshot</li>
-    <li>CLICK<a href="assets/images-readme/screen-404.png" target="_blank">HERE</a> for 404.html Screenshot</li>
-    <li>CLICK<a href="assets/images-readme/screen-map.png" target="_blank">HERE</a> for large map page linked via islands.html Screenshot</li>
+    <li>Click <a href="assets/images-readme/screen-types.png" target="_blank">HERE</a> for types.html Screenshot</li>
+    <li>Click <a href="assets/images-readme/screen-gallery.png" target="_blank">HERE</a> for gallery.html Screenshot</li>
+    <li>Click <a href="assets/images-readme/screen-contact.png" target="_blank">HERE</a> for contact.html Screenshot</li>
+    <li>Click <a href="assets/images-readme/screen-thanks.png" target="_blank">HERE</a> for thanks.html Screenshot</li>
+    <li>Click <a href="assets/images-readme/screen-404.png" target="_blank">HERE</a> for 404.html Screenshot</li>
+    <li>Click <a href="assets/images-readme/screen-map.png" target="_blank">HERE</a> for large map page linked via islands.html Screenshot</li>
 </ul>
 <br>
 <a href="#Contents">Back to the top.</a>
