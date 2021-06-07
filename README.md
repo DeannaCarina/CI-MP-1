@@ -221,7 +221,7 @@ I have been able to confidently use the MMP model due to my own history of trave
 The MMP model will:
 <ul>
     <li>Create a clear website with enough content for the customers wants and needs to be fulfilled</li>
-    <li>Allow me to work within the scope of my abilitiy</li>
+    <li>Allow me to work within the scope of my abilitiy while also allowing me to challenge myself in areas that I may need to adapt for the needs of the business and website</li>
     <li>Result in a website with high levels of UX</li>
     <li>Show the consumer the level of knowledge the company has in this area of tourism by having adequate amount of content as well as customer testomonials</li>
     <li>Meet the needs of the business and user</li>
@@ -232,7 +232,7 @@ While following the MMP model, to meet the user and business goals, my website w
     <li>A nav-bar on all pages to be able to navigate to separate pages on the website</li>
     <li>Links to associalted social media on all pages within the footer</li>
     <li>A large amount of visual content as booking holidays is a very visual experience - would you book a holiday without seeing where you're going?</li>
-    <li>Information for customers of different locations for their holidays and the different types of holidays they can go on</li>
+    <li>Information for customers of different locations for their holidays and the different types of holidays they can go on including excursions and experiences</li>
     <li>Customer testimonials from previous clients</li>
     <li>Downloadable brochure from website for customers to see what's on offer</li>
     <li>A large gallery (including videos) to allow customers to visualise their potential holiday destinations</li>
