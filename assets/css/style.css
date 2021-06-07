@@ -686,12 +686,50 @@ iframe{
     column-count: 4;
     column-gap: 20px;
     background-color: rgb(71, 71, 71);
-    padding-right: 20px;
+    padding: 20px
 }
-#gallery-photos-section > img{
+#image-container{
     width: 100%;
-    margin: 10px;
+    border: 20px;
+    position: relative;
+    margin-bottom: 20px;
+}
+#image-container > img{
+    width: 100%;
     border-radius: 20px;
+}
+#text-container{
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    color: transparent;
+    text-align: center;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#text-container:hover{
+    background-color: rgba(0, 0, 0, 0.75);
+    color: white;
+    transition-duration: 1s;
+}
+#gallery-videos{
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 20px;
+    background-color: rgb(71, 71, 71);
+    padding: 20px
+}
+#video-container{
+    width: 100%;
+    height: auto;  
+}
+#video-container > iframe{
+    border-radius: 20px;
+    margin-bottom: 20px;
 }
 /*In Signup.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #contact-page-section{
@@ -901,6 +939,11 @@ footer a:hover{
         width: 600px;
     }
 }    
+@media screen and (max-width: 1500px){
+    #gallery-videos{
+        column-count: 2;
+    }
+}
 @media screen and (max-width: 1476px){
     .index-steps-col{
         width: 230px;
@@ -1092,7 +1135,10 @@ footer a:hover{
     .islands-section{
         height: 900px;
     }
-}    
+    #gallery-videos{
+        column-count: 1;
+    }
+}
 @media screen and (max-width: 893px){
     .review-text {
         margin-left: 20px;
