@@ -215,13 +215,37 @@ The theory of potential target audiences are as follows:
 </ol>
 <a href="#Contents">Back to the top.</a>
 
+## Scope
+Due to the pitfalls of deploying a website based on the MVP (Minimum Viable Product) model such as lack of user experience and enjoyment due to a lack of content, I have chosen instead to base the deployment of my product using the MMP (Minimum Marketable Product) as this allows a fully functional application to be used by the customer and can solve user problems with the minimum amount of features while still being completely usable [7] - this however does mean that more time must be spent developing and deploying the application without the guarantee of user satisfaction and possibly result in some 'rough edges' that need to be rectified and de-bugged at a later date. By using this method, any feedback from customers will be based on a fully working web-app and result in fully qualitative data due to the product being in a finished state; rather than feedback based on a web-app that has intentionally been left incomplete resulting in feedback from customers who may believe the site to be inadaquate due to lack of content and intuitiveness.
+I have been able to confidently use the MMP model due to my own history of travel to the Caribbean and booking holidays in this area of the world. As a customer myself, I can base the functions needed for the website on my own needs and wants from the past, as well as for the future. By incorporating into the website features that I would want to see on websites that I book my own holidays on, I hope that my wants and needs will translate to the wants and needs of the customers visiting the <em>Travel Caribbean</em> website.
+The MMP model will:
+<ul>
+    <li>Create a clear website with enough content for the customers wants and needs to be fulfilled</li>
+    <li>Allow me to work within the scope of my abilitiy</li>
+    <li>Result in a website with high levels of UX</li>
+    <li>Show the consumer the level of knowledge the company has in this area of tourism by having adequate amount of content as well as customer testomonials</li>
+    <li>Meet the needs of the business and user</li>
+</ul>
+While following the MMP model, to meet the user and business goals, my website will include:
+<ul>
+    <li>A self-designed logo on all pages as assurance to the customer we are a trusted-business with our own identity</li>
+    <li>A nav-bar on all pages to be able to navigate to separate pages on the website</li>
+    <li>Links to associalted social media on all pages within the footer</li>
+    <li>A large amount of visual content as booking holidays is a very visual experience - would you book a holiday without seeing where you're going?</li>
+    <li>Information for customers of different locations for their holidays and the different types of holidays they can go on</li>
+    <li>Customer testimonials from previous clients</li>
+    <li>Downloadable brochure from website for customers to see what's on offer</li>
+    <li>A large gallery (including videos) to allow customers to visualise their potential holiday destinations</li>
+    <li>Contact forms to allow customers to contact the company and book holidays</li>
+</ul>
+
 ## Structure
 ### Design
 #### Typography
 #### Color Scheme
 #### Design - Images
 #### Design - Video
-## Scope
+
 ## Skeleton (wireframes)
 ##### index.html
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br><hr><br>
@@ -318,4 +342,5 @@ Linked via islands.html to view thumbnail maps at larger size<br>
     <li>[4]"10 Backpacking Myths That Shouldn't Stop You Travelling - Backpacker Advice", Backpacker Advice, 2021. [Online]. Available: https://backpackeradvice.com/blog/backpacking-myths.html. [Accessed: 05- Jun- 2021].</li>
     <li>[5]D. Horscroft and D. Horscroft, "Population estimates by marital status and living arrangements, England and Wales - Office for National Statistics", Ons.gov.uk, 2021. [Online]. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesbymaritalstatusandlivingarrangements/2002to2017. [Accessed: 06- Jun- 2021].</li>
     <li>[6]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
+    <li>[7]Django Stars Blog. 2021. Your Guide to MVP, MMP, MLP, MDP and MAP Startup Stages. [online] Available at: <https://djangostars.com/blog/guide-mvp-mmp-mlp-mdp-map-startup-stages/> [Accessed 7 June 2021].</li>
 </ol>
