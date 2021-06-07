@@ -20,18 +20,6 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
         <ul>
             <li>
                 <a href="#Strategy">Strategy</a>
-                <ul>
-                    <li>Vision</li>
-                    <li>Aims</li>
-                    <li>Target Audience</li>
-                    <li>User Stories
-                        <ul>
-                            <li>Customer</li>
-                            <li>Business Operator</li>
-                            <li>Partnership Company</li>
-                        </ul>
-                    </li>
-                </ul>
             </li>
             <li>
                 <a href="#Scope">Scope</a>
@@ -44,14 +32,6 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
             </li>        
             <li>
                 <a href="#Surface">Surface</a>
-                <ul>
-                    <li>Design</li>
-                    <li>Typography</li>
-                    <li>Icons</li>
-                    <li>Color Scheme</li>
-                    <li>Design - Images</li>
-                    <li>Design - Video</li>
-                </ul>
             </li>
         </ul>                
     </li>
@@ -60,35 +40,15 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     </li>
     <li>
         <a href="#Features"><strong>Features</strong></a>
-        <ul>
-            <li>
-                Features Left to Implement
-            </li>
-        </ul>
     </li>
     <li>
-        <a href="#Testing"><strong>Testing</strong></a>
-        <ul>
-            <li>Fuctionality</li>
-            <li>Compatibility</li>
-            <li>User Testing Stories</li>
-            <li>Code Validation</li>
-            <li>Issues found during development</li>
-            <li>Issues found during deployment</li>
-            <li>Performance testing (lighthouse)</li>
-        </ul>    
+        <a href="#Testing"><strong>Testing</strong></a>   
     </li>
     <li>
         <a href="#Deployment"><strong>Deployment</strong></a>
     </li>
     <li>
        <a href="#Credits"><strong>Credits</strong></a> 
-        <ul>
-            <li>Content</li>
-            <li>Credits - Images</li>
-            <li>Credits - Video</li>
-            <li>Acknowledgements</li>
-        </ul>
     </li>
     <li>
         <a href="#Screenshots"><strong>Screenshots</strong></a>
