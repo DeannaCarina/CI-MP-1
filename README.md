@@ -18,7 +18,8 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     <li>
         <a href="#UX"><strong>UX</strong></a>
         <ul>
-            <li><a href="#Strategy">Strategy</a>
+            <li>
+                <a href="#Strategy">Strategy</a>
                 <ul>
                     <li>Vision</li>
                     <li>Aims</li>
@@ -32,23 +33,17 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
                     </li>
                 </ul>
             </li>
-            <li><a href="#Scope">Scope</a>
+            <li>
+                <a href="#Scope">Scope</a>
             </li>  
-            <li><a href="#Structure">Structure</a>
+            <li>
+                <a href="#Structure">Structure</a>
             </li>    
-            <li><a href="#Skeleton">Skeleton</a>
-                <ul>
-                    <li>index.html - Wireframe</li>
-                    <li>islands.html - Wireframe</li>
-                    <li>types.html - Wireframe</li>
-                    <li>gallery.html - Wireframe</li>
-                    <li>contact.html - Wireframe</li>
-                    <li>thanks.html - Wireframe</li>
-                    <li>Hidden Map Pages - Wireframe</li>
-                    <li>404.html - Wireframe</li>
-                </ul>
+            <li>
+                <a href="#Skeleton">Skeleton</a>
             </li>        
-            <li><a href="#Surface">Surface</a>
+            <li>
+                <a href="#Surface">Surface</a>
                 <ul>
                     <li>Design</li>
                     <li>Typography</li>
@@ -97,16 +92,6 @@ This is my submission for Code Institute's Milestone One Project. It is a fictit
     </li>
     <li>
         <a href="#Screenshots"><strong>Screenshots</strong></a>
-        <ul>
-            <li>index.html - Screenshot</li>
-            <li>islands.html - Screenshot</li>
-            <li>types.html - Screenshot</li>
-            <li>gallery.html - Screenshot</li>
-            <li>contact.html - Screenshot</li>
-            <li>thanks.html - Screenshot</li>
-            <li>404.html - Screenshot</li>
-            <li>Hidden Map Pages - Screenshot</li>
-        </ul>
     </li>
     <li>
         <a href="#References"><strong>References</strong></a>
@@ -247,30 +232,15 @@ While following the MMP model, to meet the user and business goals, my website w
 #### Design - Images
 #### Design - Video
 
-## Skeleton (wireframes)
-##### index.html
+## Skeleton
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br><hr><br>
-
-##### islands.html
-<img src="assets/images-readme/wire-islands.png" alt="Wireframe plan of islands.html" width="45%"><br><hr><br>
-
-##### types.html
-<img src="assets/images-readme/wire-types.png" alt="Wireframe plan of types.html" width="45%"><br><hr><br>
-
-##### gallery.html
-<img src="assets/images-readme/wire-gallery.png" alt="Wireframe plan of gallery.html" width="45%"><br><hr><br>
-
-##### contact.html
-<img src="assets/images-readme/wire-contact.png" alt="Wireframe plan of contact.html" width="45%"><br><hr><br>
-
-##### thanks.html
-<img src="assets/images-readme/wire-thanks.png" alt="Wireframe plan of contact.html" width="45%"><br><hr><br>
-
-##### Hidden Map Pages
-<img src="assets/images-readme/wire-bigmap.png" alt="Wireframe plan of hidden large map pages" width="45%"><br><hr><br>
-
-##### 404.html
-<img src="assets/images-readme/wire-404.png" alt="Wireframe plan of Error 404 page" width="45%"><br><br>
+<a href="assets/images-readme/wire-islands.png" target="_blank"><br>
+<a href="assets/images-readme/wire-types.png" target="_blank"><br>
+<a href="assets/images-readme/wire-gallery.png" target="_blank"><br>
+<a href="assets/images-readme/wire-contact.png" target="_blank"><br>
+<a href="assets/images-readme/wire-thanks.png" target="_blank"><br>
+<a href="assets/images-readme/wire-bigmap.png" target="_blank"><br>
+<a href="assets/images-readme/wire-404.png" target="_blank"><br>
 
 ## Surface
 <a href="#Contents">Back to the top.</a>
@@ -302,37 +272,36 @@ While following the MMP model, to meet the user and business goals, my website w
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
-##### index.html
-Home/Landing page<br>
+##### Home/Landing page
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="45%"><br><hr><br>
 
-##### islands.html
-Page for learning about the different island groups<br>
-<img src="assets/images-readme/screen-islands.png" alt="Screenshot of islands.html" width="45%"><br><hr><br>
+##### Page for learning about the different island groups
+<a href="assets/images-readme/screen-islands.png" target="_blank">
+<br><br>
 
-##### types.html
-Page for learning about the different types of holidays on offer<br>
-<img src="assets/images-readme/screen-types.png" alt="Screenshot of types.html" width="45%"><br><hr><br>
+##### Page for learning about the different types of holidays on offer
+<a href="assets/images-readme/screen-types.png" target="_blank">
+<br><br>
 
-##### gallery.html
-Page for viewing images of different holiday types and islands<br>
-<img src="assets/images-readme/screen-gallery.png" alt="Screenshot of gallery.html" width="45%"><br><hr><br>
+##### Page for viewing images of different holiday types and islands
+<a href="assets/images-readme/screen-gallery.png" target="_blank">
+<br><br>
 
-##### contact.html
-Page for customer to place their details and say what they're interested in, link to downloadable brochure here<br>
-<img src="assets/images-readme/screen-contact.png" alt="Screenshot of contact.html" width="45%"><br><hr><br>
+##### Page for customer to place their details and say what they're interested in, link to downloadable brochure here
+<a href="assets/images-readme/screen-contact.png" target="_blank">
+<br><br>
 
-##### thanks.html
-Page directed to via submit button in form of contact.html<br>
-<img src="assets/images-readme/screen-thanks.png" alt="Screenshot of thanks.html" width="45%"><br><hr><br>
+##### Page directed to via submit button in form of contact.html
+<a href="assets/images-readme/screen-thanks.png" target="_blank">
+<br><br>
 
-##### 404.html
-Page for when errors occur with web address<br>
-<img src="assets/images-readme/screen-404.png" alt="Screenshot of 404.html" width="45%"><br><hr><br>
+##### Page for when errors occur with web address
+<a href="assets/images-readme/screen-404.png" target="_blank">
+<br><br>
 
-##### Hidden Map Pages 
-Linked via islands.html to view thumbnail maps at larger size<br>
-<img src="assets/images-readme/screen-map.png" alt="Screenshot of hidden enlarged map pages" width="45%"><br><hr><br>
+##### Linked via islands.html to view thumbnail maps at larger size
+<a href="assets/images-readme/screen-map.png" target="_blank">
+<br><br>
 <a href="#Contents">Back to the top.</a>
 
 # References
