@@ -234,13 +234,16 @@ While following the MMP model, to meet the user and business goals, my website w
 
 ## Skeleton
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="45%"><br>
-<a href="assets/images-readme/wire-islands.png" target="_blank">Click here for islands.html Wireframe</a><br>
-<a href="assets/images-readme/wire-types.png" target="_blank">Click here for types.html Wireframe</a><br>
-<a href="assets/images-readme/wire-gallery.png" target="_blank">Click here for gallery.html Wireframe</a><br>
-<a href="assets/images-readme/wire-contact.png" target="_blank">Click here for contact.html Wireframe</a><br>
-<a href="assets/images-readme/wire-thanks.png" target="_blank">Click here for thanks.html Wireframe</a><br>
-<a href="assets/images-readme/wire-404.png" target="_blank">Click here for 404.html Wireframe</a><br>
-<a href="assets/images-readme/wire-bigmap.png" target="_blank">Click here for large map page linked via islands.html Wireframe</a><br>
+<ul>
+    <li>Click <a href="assets/images-readme/wire-islands.png" target="_blank">HERE</a> for islands.html Wireframe</li>
+    <li>Click <a href="assets/images-readme/wire-types.png" target="_blank">HERE</a> for types.html Wireframe</li>
+    <li>Click <a href="assets/images-readme/wire-gallery.png" target="_blank">HERE</a> for gallery.html Wireframe</li>
+    <li>Click <a href="assets/images-readme/wire-contact.png" target="_blank">HERE</a> for contact.html Wireframe</li>
+    <li>Click <a href="assets/images-readme/wire-thanks.png" target="_blank">HERE</a> for thanks.html Wireframe</li>
+    <li>Click <a href="assets/images-readme/wire-404.png" target="_blank">HERE</a> for 404.html Wireframe</li>
+    <li>Click <a href="assets/images-readme/wire-bigmap.png" target="_blank">HERE</a> for large map page linked via islands.html Wireframe</li>
+</ul>
+<hr>
 <a href="#Contents">Back to the top.</a>
 
 
@@ -276,13 +279,15 @@ While following the MMP model, to meet the user and business goals, my website w
 # Screenshots
 
 <img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="45%"><br>
-<a href="assets/images-readme/screen-islands.png" target="_blank">Click here for islands.html Screenshot</a>
-<a href="assets/images-readme/screen-types.png" target="_blank">Click here for types.html Screenshot</a><br>
-<a href="assets/images-readme/screen-gallery.png" target="_blank">Click here for gallery.html Screenshot</a><br>
-<a href="assets/images-readme/screen-contact.png" target="_blank">Click here for contact.html Screenshot</a><br>
-<a href="assets/images-readme/screen-thanks.png" target="_blank">Click here for thanks.html Screenshot</a><br>
-<a href="assets/images-readme/screen-404.png" target="_blank">Click here for 404.html Screenshot</a><br>
-<a href="assets/images-readme/screen-map.png" target="_blank">Click here for large map page linked via islands.html Screenshot</a><br>
+<ul>
+    <li>CLICK<a href="assets/images-readme/screen-types.png" target="_blank">HERE</a> for types.html Screenshot</li>
+    <li>CLICK<a href="assets/images-readme/screen-gallery.png" target="_blank">HERE</a> for gallery.html Screenshot</li>
+    <li>CLICK<a href="assets/images-readme/screen-contact.png" target="_blank">HERE</a> for contact.html Screenshot</li>
+    <li>CLICK<a href="assets/images-readme/screen-thanks.png" target="_blank">HERE</a> for thanks.html Screenshot</li>
+    <li>CLICK<a href="assets/images-readme/screen-404.png" target="_blank">HERE</a> for 404.html Screenshot</li>
+    <li>CLICK<a href="assets/images-readme/screen-map.png" target="_blank">HERE</a> for large map page linked via islands.html Screenshot</li>
+</ul>
+<hr>
 <a href="#Contents">Back to the top.</a>
 
 # References
