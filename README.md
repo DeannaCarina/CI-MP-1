@@ -226,10 +226,10 @@ As I want the website to be visual, it made more sense to me to choose a colour 
 <img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="70%"><br>
 I then used the services of the website "colormind.io" as this allows the creation of a colour pallette from an image rather than a single colour choice. The colour pallette below is the pallette generated from the turtle image. I really love the range of blues and will use these throughout my website as background colours and decoration colours. The majority of the pages on the website will have image backgrounds to aid in the visual appeal of the website, however I still want some continuity of colour throughout. As the majority of backgrounds are images, many of the text overlays will have to have a neutral background to have the text be more readable without clashing with the background image, therefore I have chosen the majority of text boxes to have the neutral colour of grey - ranging from darker greys on backgrounds that have a more toned down overall colour (such as the hero video in index.html and the background of the review text boxes), to lighter and less transparent grey on backgrounds that are more vibrant and could cause problems with reading text (such as those in idlands.html and types.html). 
 <img src="assets/images-readme/colour-pallette.png" alt="Generated colour pallette" width="70%">
-<img src="assets/images-readme/colour-hero-box.png" alt="Image showing background colour of text box over the hero video" width="100%">
-<img src="assets/images-readme/colour-review-box.png" alt="Image showing background colour of text box in the reviews section" width="100%">
-<img src="assets/images-readme/colour-island-box.png" alt="Image showing background colour of text box in islands.html" width="40%">
-<img src="assets/images-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html" width="40%">
+<img src="assets/images-readme/colour-hero-box.png" alt="Image showing background colour of text box over the hero video">
+<img src="assets/images-readme/colour-review-box.png" alt="Image showing background colour of text box in the reviews section">
+<img src="assets/images-readme/colour-island-box.png" alt="Image showing background colour of text box in islands.html">
+<img src="assets/images-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html">
 
 #### Design - Images
 #### Design - Video
