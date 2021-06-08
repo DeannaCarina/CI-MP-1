@@ -219,11 +219,11 @@ This website consists of multiple pages. By having multiple page we can separate
 ## Surface
 ### Design
 #### Typography
-<img src="assets/images-readme/satisfy.png" alt="Font used for headings">
+<img src="assets/images-readme/satisfy.png" alt="Font used for headings" width="70%">
 
 #### Color Scheme
-<img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="40%"><br>
-<img src="assets/images-readme/colour-pallette.png" alt="Generated colour pallette" width="40%">
+<img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="70%"><br>
+<img src="assets/images-readme/colour-pallette.png" alt="Generated colour pallette" width="70%">
 
 #### Design - Images
 #### Design - Video
