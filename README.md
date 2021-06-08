@@ -222,8 +222,14 @@ This website consists of multiple pages. By having multiple page we can separate
 <img src="assets/images-readme/satisfy.png" alt="Font used for headings" width="70%">
 
 #### Color Scheme
+As I want the website to be visual, it made more sense to me to choose a colour scheme based on an image that is regularly used throughout the site. When I think of the Caribbean, I think of the blue and turquoise waters of the sea, so want to have the colour scheme pulled from an image that has these colours within it. I chose the image that is repeated at the bottom of the main pages of the turtle as this has the blues that remind me of the Caribbean. 
 <img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="70%"><br>
+I then used the services of the website "colormind.io" as this allows the creation of a colour pallette from an image rather than a single colour choice. The colour pallette below is the pallette generated from the turtle image. I really love the range of blues and will use these throughout my website as background colours and decoration colours. The majority of the pages on the website will have image backgrounds to aid in the visual appeal of the website, however I still want some continuity of colour throughout. As the majority of backgrounds are images, many of the text overlays will have to have a neutral background to have the text be more readable without clashing with the background image, therefore I have chosen the majority of text boxes to have the neutral colour of grey - ranging from darker greys on backgrounds that have a more toned down overall colour (such as the hero video in index.html and the background of the review text boxes), to lighter and less transparent grey on backgrounds that are more vibrant and could cause problems with reading text (such as those in idlands.html and types.html). 
 <img src="assets/images-readme/colour-pallette.png" alt="Generated colour pallette" width="70%">
+<img src="assets/image-readme/colour-hero-box.png" alt="Image showing background colour of text box over the hero video" width="100%">
+<img src="assets/image-readme/colour-review-box.png" alt="Image showing background colour of text box in the reviews section" width="100%">
+<img src="assets/image-readme/colour-island-box.png" alt="Image showing background colour of text box in islands.html" width="40%">
+<img src="assets/image-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html" width="40%">
 
 #### Design - Images
 #### Design - Video
