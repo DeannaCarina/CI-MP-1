@@ -218,10 +218,10 @@ This website consists of multiple pages. By having multiple page we can separate
 
 ## Surface
 ### Typography
-I used <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> to find the typography that I wanted to use for my website. I always wanted a completely different font for the main title and the headers to the main text body of the website. I chose to use the font 'Satisfy' (seen below) as the cursive writing and free-flow design of it makes it feel more relaxed and whimsical - which is remeniscent of the Caribbean. 
+I used <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> to find the typography that I wanted to use for my website. I always wanted a completely different font for the main title and the headers to the main text body of the website. I chose to use the font 'Satisfy' (seen below) as the cursive writing and free-flow design of it makes it feel more relaxed and whimsical - which is remeniscent of the Caribbean. I initially used an alternative cursive font however this wasn't as easy to read and could have been difficult to understand for those that do not have english as a first language.<br>
 <img src="assets/images-readme/satisfy.png" alt="Font used for headings" width="70%"><br>
 I did however have some minor problems with this font such as certain letters in lower case looking like other letters (see example below), however this only occured once in the website and was rectified by putting the word in uppercase.
-<img src="assets/images-readme/font-problem.png" alt="Problem with using the satify font"><br>
+<img src="assets/images-readme/font-problem.png" alt="Problem with using the satify font" height="100px"><br>
 The font I used for the main text body of the website was 'Lato' as this font is easy to read which is very much needed when there is large amounts of information to be read and absorbed by customers, it is a modern-feel font and is a popular font for many websites. The back-up font is 'Sans-Serif' just in case the font import link fails.
 
 ### Color Scheme
