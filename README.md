@@ -219,8 +219,11 @@ This website consists of multiple pages. By having multiple page we can separate
 ## Surface
 ### Design
 #### Typography
+<img src="assets/images-readme/satisfy.png" alt="Font used for headings">
+
 #### Color Scheme
-<img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="40%"><img src="assets/images-readme/colour-pallette.png" alt="Generated colour pallette" width="20%">
+<img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="40%"><br>
+<img src="assets/images-readme/colour-pallette.png" alt="Generated colour pallette" width="40%">
 
 #### Design - Images
 #### Design - Video
