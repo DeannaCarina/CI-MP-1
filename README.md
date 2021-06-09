@@ -279,6 +279,9 @@ Throughout the planning, design, testing and deployment of the website, I have u
     <li><a href="https://visualstudio.microsoft.com/" target="_balnk">Visual Studio</a>
         <ul><li>For testing out ideas without interfering with code for website</li></ul>
     </li>
+    <li><a href="https://www.microsoft.com/en-gb/microsoft-365/publisher?ms.officeurl=publisher&rtc=1" target="_balnk">Microsoft Publisher</a>
+        <ul><li>For creating the downloadable brochure</li></ul>
+    </li>
 </ol>
     
 ### Frameworks, Libraries and Programs
