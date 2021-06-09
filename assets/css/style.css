@@ -189,7 +189,6 @@ a{
     color: white;
     text-shadow: 2px 2px rgba(128, 128, 128, 0.46);
     text-decoration: none;
-    font-weight: 1000;
 }
 #index-steps-contact-link a:hover{
     color: grey;
@@ -367,7 +366,6 @@ iframe{
 #islands-internal-nav-bar{
     width: 100%;
     height: 220px;
-    line-height: auto;
     background-color: whitesmoke;
     text-align: center;
     background: url(../bvi3.jpg) center no-repeat no-repeat;
@@ -378,7 +376,6 @@ iframe{
     border-radius: 0px 0px 100px 100px;
     border-bottom: 10px solid white;
     font-size: medium;
-    font-weight: 1000;
     width: 200px;
     padding-top: 30px;
     height: 90px;
