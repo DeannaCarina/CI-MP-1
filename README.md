@@ -446,55 +446,31 @@ I tested the website using different focus groups divided by age:
 ## Compatibility
 ## User Testing Stories
 
-<em>"I want to know the purpose of the website as soon as I navigate to the home/landing page"</em><br>
+<em>"I want to know the purpose of the website as soon as I navigate to the home/landing page" & "I want to navigate the website quickly and effectively" & "I want to find everything in the website that I need to find with ease"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
-<em>"I want to navigate the website quickly and effectively"</em><br>
+<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean" & "I want to learn about the different holiday types that are available to me" & "I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time" & "I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
-<em>"I want to find everything in the website that I need to find with ease"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to learn about the different holiday types that are available to me"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean"</em><br>
+<em>"I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean" & "I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to know what other customers have said about the company to ensure the company is genuine and good at what they do"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
-<em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have updated deals and offers from the company for potential Caribbean holidays"</em><br>
+<em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure" & "I want to have updated deals and offers from the company for potential Caribbean holidays"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to have a quick and easy way to contact the company/for the company to contact me"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
-<em>"I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have links to social media platforms related to the company to view further customer testomonies"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have links to social media platforms related to the company to view further images of potential locations and excusrions"</em><br>
+<em>"I want to have links to social media platforms related to the company to view further customer testomonies" & "I want to have links to social media platforms related to the company to view further images of potential locations and excusrions"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to browse the website and get information from the company without an obligation to book a holiday"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making"</em><br>
 >Text here about how we have achieved this goal<br><br>
 
 ## Code Validation
