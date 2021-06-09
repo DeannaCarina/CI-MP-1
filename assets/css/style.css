@@ -1049,6 +1049,9 @@ footer a:hover{
     #index-cover-text-div{
         margin: 150px auto;
     }
+    #error-text-div{
+        margin: 150px auto;
+    }
 }    
 @media screen and (max-width: 1310px){
     .sub-pages-logo{
@@ -1186,6 +1189,13 @@ footer a:hover{
 }    
 @media screen and (max-width: 860px){
     #index-cover-text-div{
+        width: 350px;
+        height: 140px;
+        margin: 150px auto;
+        font-size: 150%;
+        line-height: 55px;
+    }
+    #error-text-div{
         width: 350px;
         height: 140px;
         margin: 150px auto;
@@ -1454,6 +1464,12 @@ footer a:hover{
         line-height: 40px;
         font-size: 90%;
     }
+    #error-text-div{
+        width: 130px;
+        height: 160px;
+        line-height: 40px;
+        font-size: 90%;
+    }
 }
 @media screen and (max-width: 518px){
     #index-capture-text-section{
@@ -1471,6 +1487,13 @@ footer a:hover{
 }
 @media screen and (max-width: 476px){
     #index-cover-text-div{
+        width: 200px;
+        height: 140px;
+        margin: 30px auto;
+        font-size: 125%;
+        line-height: 40px;
+    }
+    #error-text-div{
         width: 200px;
         height: 140px;
         margin: 30px auto;
