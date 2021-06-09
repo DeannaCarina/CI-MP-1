@@ -55,7 +55,7 @@
 # Introduction
 Portfolio Project One: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
 
-This is my submission for Code Institute's Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with **ONLY** HTML5 and CSS3. The website covers the most basic function of the company: "The new way to plan your Caribbean getaway", the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
+This is my submission for Code Institute's (5P) Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with HTML5 and CSS3 as well as with the use of many other <a href="#Technologies">technologies</a>. The website covers the most basic function of the company: <em>"The new way to plan your Caribbean getaway"</em>, the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
 
 ## Demo
 A live demo of the website can be found <a href="https://deannacarina.github.io/CI-MP-1/index.html" target="_blank">**HERE**</a>
@@ -445,6 +445,42 @@ I tested the website using different focus groups divided by age:
 
 ## Compatibility
 ## User Testing Stories
+
+<em>"I want to know the purpose of the website as soon as I navigate to the home/landing page"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to navigate the website quickly and effectively"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to find everything in the website that I need to find with ease"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to learn about the different holiday types that are available to me"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to know what other customers have said about the company to ensure the company is genuine and good at what they do"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have updated deals and offers from the company for potential Caribbean holidays"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have a quick and easy way to contact the company/for the company to contact me"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have links to social media platforms related to the company to view further customer testomonies"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have links to social media platforms related to the company to view further images of potential locations and excusrions"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to browse the website and get information from the company without an obligation to book a holiday"</em><br>
+>Text here about how we have achieved this goal<br><br>
+<em>"I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making"</em><br>
+>Text here about how we have achieved this goal<br><br>
+
 ## Code Validation
 #### HTML Code Validation
 <img src="assets/images-readme/html-validator.png" alt="HTML validation report from W3C">
