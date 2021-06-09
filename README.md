@@ -254,7 +254,98 @@ The icons used in the website were taken from <a href="https://fontawesome.com/"
 <a href="#Contents">Back to the top.</a>
 
 # Testing
+- Are user stories fulfilled?
+- Is form fully functional with required attributes?
+- Do all external links open in new tabs inc downloadable brochure?
+- Different browsers and devices?
+
 ## Functionality
+I tested the website using different focus groups divided by age, : 
+<table>
+    <tr>
+        <th>Age Group</th>
+        <th>Quantity</th>
+        <th>Comments</th>
+    </tr>
+    <tr>
+        <td><strong>16-25</strong></td>
+        <td>2</td>
+        <td>
+            <ul>
+                <li>All participants knew the function of the website at first glance</li>
+                <li>All participants found the website easy to navigate</li>
+                <li>All participants found the website to be highly visual and appealing in terms of design</li>
+                <li>Both Participants viewed the website on their phones</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>26-35</strong></td>
+        <td>6</td>
+        <td>
+            <ul>
+                <li>All participants knew the function of the website at first glance</li>
+                <li>5/6 participants found the website easy to navigate, the 6th participant needed prompting on where to go from Home page</li>
+                <li>All participants found the website to be highly visual and appealing in terms of design</li>
+                <li>3 Participants viewed the website on their phones</li>
+                <li>1 Participant viewed the website on their iPad</li>
+                <li>1 Participant viewed the website on their Android tablet</li>
+                <li>1 Participant viewed the website on their Desktop PC</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>36-45</strong></td>
+        <td>5</td>
+        <td>
+            <ul>
+                <li>All participants knew the function of the website at first glance</li>
+                <li>All participants found the website easy to navigate</li>
+                <li>All participants found the website to be highly visual and appealing in terms of design</li>
+                <li>3 Participants viewed the website on their phones</li>
+                <li>2 Participant viewed the website on their Android tablet</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>46-55</strong></td>
+        <td>6</td>
+        <td>
+            <ul>
+                <li>All participants knew the function of the website at first glance</li>
+                <li>5/6 participants found the website easy to navigate, the 6th participant needed prompting on where to find the contact page</li>
+                <li>All participants found the website to be highly visual and appealing in terms of design</li>
+                <li>3 Participants viewed the website on their phones</li>
+                <li>3 Participants viewed the website on their iPads</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>56-65</strong></td>
+        <td>4</td>
+        <td>
+            <ul>
+                <li>All participants knew the function of the website at first glance</li>
+                <li>All participants found the website easy to navigate, however all needed some minimal prompting throughout via leading statements such as "You can learn about different islands" and "There's a downloadable brochure"</li>
+                <li>All participants found the website to be highly visual and appealing in terms of design</li>
+                <li>All Participants viewed the website on their phones</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>66+</strong></td>
+        <td>2</td>
+        <td>
+            <ul>
+                <li>All participants knew the function of the website at first glance</li>
+                <li>All participants found the website to be easy once there was an 'introduction' of sorts by the developer explaining the functions of the site</li>
+                <li>All participants found the website to be highly visual and appealing in terms of design</li>
+                <li>Both Participants viewed the website on their Laptops</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
 ## Compatibility
 ## User Testing Stories
 ## Code Validation
