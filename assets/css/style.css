@@ -419,15 +419,15 @@ iframe{
 .islands-text a:hover{
     color: white;
 }
-#references{
+.references{
     text-align: right;
     margin-top: 0px;
     margin-bottom: 0px;
 }
-#references a{
+.references a{
     color:rgb(24, 70, 71);
 }
-#references a:hover{
+.references a:hover{
     color: white;
 }
 #map-link-1, #map-link-5{
@@ -472,7 +472,7 @@ iframe{
     border-radius: 40px;
     border-style: ridge;
 }
-#islands-back-to-top{
+.islands-back-to-top{
     width: 200px;
     height: 50px;
     line-height: 50px;
@@ -481,7 +481,7 @@ iframe{
     border-radius: 150px;
     color: white;
 }    
-#islands-back-to-top:hover{
+.islands-back-to-top:hover{
     cursor: pointer;
 }    
 
@@ -942,7 +942,7 @@ footer a:hover{
     .islands-text{
         width: 600px;
     }
-    #islands-back-to-top{
+    .islands-back-to-top{
         margin-left: 5px;
     }
 }    
