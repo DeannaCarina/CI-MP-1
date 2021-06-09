@@ -1,8 +1,3 @@
-** Things to do before submission **
-1. Run code through validators.
-2. Clean up code.
-3. Finish README.md
-
 # Travel Caribbean
 
 Milestone One Project: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
