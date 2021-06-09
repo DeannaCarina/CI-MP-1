@@ -271,12 +271,22 @@ Throughout the planning, design, testing and deployment of the website, I have u
     </li>
 </ol>   
 
+### Version Control
+<ol>
+    <li><a href="https://github.com/" target="_balnk">Git & Github</a>
+        <ul><li>For the hosting and version control of the website as well as storage for media content on the website</li></ul>
+    </li>
+    <li><a href="https://www.gitpod.io/" target="_balnk">Gitpod</a>
+        <ul><li>The development environment used for writing the code for the website</li></ul>
+    </li>
+</ol>
+
 ### Applications    
 <ol>
-   <li><a href="https://balsamiq.com/" target="_balnk">Balsamiq</a>
+   <li><a href="https://balsamiq.com/" target="_balnk">Balsamiq (Desktop)</a>
         <ul><li>For the creation of wireframes</li></ul>
     </li>
-    <li><a href="https://visualstudio.microsoft.com/" target="_balnk">Visual Studio</a>
+    <li><a href="https://visualstudio.microsoft.com/" target="_balnk">Visual Studio (Desktop)</a>
         <ul><li>For testing out ideas without interfering with code for website</li></ul>
     </li>
     <li><a href="https://www.microsoft.com/en-gb/microsoft-365/publisher?ms.officeurl=publisher&rtc=1" target="_balnk">Microsoft Publisher</a>
@@ -285,13 +295,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
 </ol>
     
 ### Frameworks, Libraries and Programs
-<ol>
-   <li><a href="https://www.gitpod.io/" target="_balnk">Gitpod</a>
-        <ul><li>The development environment used for writing the code for the website</li></ul>
-    </li>
-    <li><a href="https://github.com/" target="_balnk">Git & Github</a>
-        <ul><li>For the hosting and version control of the website as well as storage for media content on the website</li></ul>
-    </li>
+<ol>  
     <li><a href="https://developer.chrome.com/docs/devtools/" target="_balnk">Chrome Developer Tools</a>
         <ul><li>To test the responsiveness of the website at varying screen sizes</li></ul>
     </li>
@@ -323,7 +327,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
         <ul><li>Used to increase the resolution of background images to ensure the quality is high no matter the screen size</li></ul>
     </li>
     <li><a href="https://wave.webaim.org/" target="_balnk">WAVE Web Accessibility Evaluation Tool</a>
-        <ul><li>TO ensure compliance with accessibility</li></ul>
+        <ul><li>To ensure compliance with accessibility</li></ul>
     </li>
 </ol><br>  
 <a href="#Contents">Back to the top.</a>
