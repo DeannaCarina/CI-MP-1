@@ -202,6 +202,7 @@ This website consists of multiple pages. By having multiple page we can separate
 <a href="#Contents">Back to the top.</a>
 
 ## Skeleton
+The wireframes for the <em>Travel Caribbean</em> website were made with the <a href="https://balsamiq.com/">Balsamiq</a> Desktop Applictaion, they can be found by viewing the image below and following the links below the image. As there is a number of pages within the website all containing a fairly large amount of content, I chose to create the wireframes based on a desktop layout as this is how I intend for the website to be viewed most frequently, however I have also created a wireframe for the contact page in mobile version, as the layout of this page will change drastically from being in deskoptop version to mobile version.
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="90%"><br>
 <ul>
     <li>Click <a href="assets/images-readme/wire-islands.png" target="_blank">HERE</a> for islands.html Wireframe</li>
@@ -212,6 +213,7 @@ This website consists of multiple pages. By having multiple page we can separate
     <li>Click <a href="assets/images-readme/wire-404.png" target="_blank">HERE</a> for 404.html Wireframe</li>
     <li>Click <a href="assets/images-readme/wire-bigmap.png" target="_blank">HERE</a> for large map page linked via islands.html Wireframe</li>
 </ul>
+The wireframes were created during the website's initial desgin process, as such there are small changes between the layout of the wireframes and the final layout/design of the finished website. The website as designed via Balsamiq is divided into five main sections (Home, Islands, Types, Gallery and Contact), however there are also eight 'hidden' pages which are navigated to via the Islands page (these are to view the small thumbnail map images in a larger way and all have identical layouts), as well as the page which is navigated to via the submit button (the 'Thanks' page) in the contact form and the 404 error page. The 'Thanks' and 404 pages have almost identical layouts as it didn't make sense to have a completely different layout for these pages due to the low frequency of visits these pages may recieve - these pages are identical to the first section of the index page; I felt this added continuity and design flow to the website, the only differences between them is the video used in the background. Due to the website being heavily visual, I chose to focus mostly on which images I would use as backgrounds in the wireframe process to ensure that the images complimented each other, and the images sizes worked with the design of the web page that it was situated within.
 <br>
 <a href="#Contents">Back to the top.</a>
 
