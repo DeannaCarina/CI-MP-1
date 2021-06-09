@@ -693,17 +693,17 @@ iframe{
     background-color: rgb(71, 71, 71);
     padding: 20px
 }
-#image-container{
+.image-container{
     width: 100%;
     border: 20px;
     position: relative;
     margin-bottom: 20px;
 }
-#image-container > img{
+.image-container > img{
     width: 100%;
     border-radius: 20px;
 }
-#text-container{
+.text-container{
     position: absolute;
     top: 0;
     height: 100%;
@@ -715,7 +715,7 @@ iframe{
     flex-direction: column;
     justify-content: center;
 }
-#text-container:hover{
+.text-container:hover{
     background-color: rgba(0, 0, 0, 0.75);
     color: white;
     transition-duration: 1s;
