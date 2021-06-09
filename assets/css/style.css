@@ -875,12 +875,30 @@ footer a:hover{
     width: 250px;
     height: 50px;
     border-radius: 100px;
-    margin-top: 10px;
-    margin-bottom: 40px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    line-height: 50px;
 }
 #thanks-button:hover{
     cursor: pointer;
 }    
+#error-text-div{
+    color:  rgba(235, 235, 235, 0.9);
+    text-shadow: 3px 3px rgb(102, 102, 102);
+    font-size: 250%;
+    text-align: center;
+    background-color: rgba(58, 57, 57, 0.514);
+    box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
+    width: 800px;
+    line-height: 120px;
+    letter-spacing: 2px;
+    height: 220px;
+    padding: 10px 10px 40px 10px;
+    position: relative;
+    margin: 70px auto;
+}
+
 /*Media responsiveness for all pages on the Travel Caribbean website-------------------------------------------------------------------------------------*/
 @media screen and (max-height: 1000px){
     #index-hero-video{
