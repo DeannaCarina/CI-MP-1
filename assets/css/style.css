@@ -477,9 +477,10 @@ iframe{
     height: 50px;
     line-height: 50px;
     margin-top: 15px;
-    margin-left: 50px;
     border-radius: 150px;
     color: white;
+    display: inline-block;
+    text-align: center;
 }    
 .islands-back-to-top:hover{
     cursor: pointer;
@@ -654,10 +655,10 @@ iframe{
     margin-top: 70px;
     margin-left: 100px;
 }
-#type-links{
+.type-links{
     color: rgb(24, 70, 71);
 }
-#type-links:hover{
+.type-links:hover{
     color: darkgrey;
 }
 .partnership-div{
@@ -678,7 +679,7 @@ iframe{
     width: auto;
     margin: 25px;
 }
-#logo1{
+.logo1{
     height: 12%;
     width: auto;
     margin: 40px;
@@ -922,7 +923,7 @@ footer a:hover{
     .logo{
         height: 50px;
     }
-    #logo1{
+    .logo1{
         height: 30px;
     }
 }
@@ -1621,7 +1622,7 @@ footer a:hover{
         margin: 20px;
         height: 20px;
     }
-    #logo1{
+    .logo1{
         margin: 20px;
         height: 20px;
     }
