@@ -150,7 +150,7 @@ The theory of potential target audiences are as follows:
     <li>Gain comission from external companies advertised via the website and in partnership with the company</li>
     <li>Gain income from customers via a fee placed within the total price of the booked holiday to the Caribbean</li>
     <li>Create a visually stimulating environment for customers to see what is available to them during a Caribbean holiday and increase the 
-    liklihood of booking and future potential revenue</li>
+    likelihood of booking and future potential revenue</li>
     <li>Stand out from other forms of online travel agent to reduce the chance of customers booking Caribbean holidays via competitors</li>
     <li>To provide customers with links to associated social media sites</li>
 </ol>
@@ -260,6 +260,7 @@ The icons used in the website were taken from <a href="https://fontawesome.com/"
 ## Code Validation
 ## Issues found during development
 ## Performance Testing (lighthouse)
+<img src="assets/images-readme/lighthouse.png" alt="Performance report from lighthouse">
 <a href="#Contents">Back to the top.</a>
     
 # Deployment
