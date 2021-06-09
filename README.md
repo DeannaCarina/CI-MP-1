@@ -224,7 +224,7 @@ I used <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> to f
 <img src="assets/images-readme/satisfy.png" alt="Font used for headings" width="70%"><br>
 I did however have some minor problems with this font such as certain letters in lower case looking like other letters (see example below where the word 'or' actually looked like the word 'on'), however this only occured once in the website and was rectified by putting the word in uppercase.<br>
 <img src="assets/images-readme/font-problem.png" alt="Problem with using the satify font" height="100px"><br>
-The font I used for the main text body of the website was 'Lato' as this font is easy to read which is needed when there is large amounts of information to be read and absorbed by customers, it has a modern-feel font and is a popular font for many websites. The back-up font is 'Sans-Serif' just in case the font import link fails.
+The font I used for the main text body of the website was 'Lato' as this font is easy to read which is needed when there is large amounts of information to be read and absorbed by customers, it has a modern feel, and is a popular font for many websites. The back-up font is 'Sans-Serif' just in case the font import link fails.
 
 ### Color Scheme
 As I want the website to be very visual, it made most sense to me to choose a colour scheme based on an image that is regularly used throughout the site. When I think of the Caribbean, I think of the blue and turquoise waters of the sea, so wanted to have the colour scheme pulled from an image that has these colours within it. I chose the image that is repeated at the bottom of the main pages of the turtle, as this has the blues that remind me of the Caribbean. <br>
@@ -239,6 +239,8 @@ To lighter and less transparent grey on backgrounds that are more vibrant and co
 <img src="assets/images-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html" height="300px">
 
 ### Icons
+The icons used in the website were taken from <a href="https://fontawesome.com/">Font Awesome</a>, they can be seen throughout the site, are used on all pages for the social media links, and are used as calls to action in the Islands and Types pages to aid in navigation.
+
 ### Design - Images
 ### Design - Video
 
