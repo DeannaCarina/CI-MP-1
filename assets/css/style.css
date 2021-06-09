@@ -351,6 +351,8 @@ a{
     height: 80px;
     border-radius: 20px;
     color: white;
+    margin: 0 auto;
+    line-height: 70px;
 }
 /*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
 #islands-header-container{
@@ -1314,6 +1316,7 @@ footer a:hover{
         width: 330px;
         height: 70px;
         border-radius: 20px;
+        font-size: small;
     }
     .types{
         width: 90px;
@@ -1624,7 +1627,9 @@ footer a:hover{
     }
     #turtle-button{
         width: 250px;
-        height: 70px;
+        height: 50px;
+        padding: 15px;
+        line-height: 20px;
         border-radius: 20px;
         font-size: 90%;
     }
