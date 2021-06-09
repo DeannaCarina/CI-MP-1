@@ -258,9 +258,15 @@ The icons used in the website were taken from <a href="https://fontawesome.com/"
 ## Compatibility
 ## User Testing Stories
 ## Code Validation
+#### HTML Code Validation
+<img src="assets/images-readme/html-validator.png" alt="HTML validation report from W3C">
+
+#### CSS Code Validation
+<img src="assets/images-readme/css-validator.png" alt="CSS validation report from W3C">
+
 ## Issues found during development
 ## Performance Testing (lighthouse)
-<img src="assets/images-readme/lighthouse.png" alt="Performance report from lighthouse">
+<img src="assets/images-readme/lighthouse.png" alt="Performance report from lighthouse"><br><br>
 <a href="#Contents">Back to the top.</a>
     
 # Deployment
