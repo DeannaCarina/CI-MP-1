@@ -242,7 +242,20 @@ To lighter and less transparent grey on backgrounds that are more vibrant and co
 The icons used in the website were taken from <a href="https://fontawesome.com/">Font Awesome</a>, they can be seen throughout the site, are used on all pages for the social media links, and are used as calls to action in the Islands and Types pages to aid in navigation. Font Awesome is also the source of the icon used in the tab of the browser for <em>Travel Caribbean</em>.
 
 ### Design - Images
+All stationary images on the Home, Galler and Contact pages, as well as the background images in the downloadable brochure were taken from my personal photography portfolio, I felt that as I have a personal connection to the majority of the photographs on the website, I would have a better understanding of how the images interact with everything else on the page, I also had the advantage of knowing where each photograph was taken, so the labels on the images in the Gallery are all true and accurate.<br><br>
+The stationary images on the Islands and Types pages are aquired from <a href="https://www.pexels.com/" target="_black">Pexels</a>, as these sectional areas are quite large and need to have backgrounds of good quality no matter the screen size, I felt it was important to have images of high resolution, many of the images in my portfolio were not the correct orientation or of high enough quality, so pexels was a great resource for aquiring images to fit the needs of the website.<br><br>
+The images in the downloadable brochure of the hotels were taken from the hotel sites themselves:
+<ul>
+    <li><a href="https://sebastiansbvi.com/" target="_blank">Sebastian's on the Beach</a></li>
+    <li><a href="https://www.marriott.co.uk/hotels/travel/curbr-renaissance-curacao-resort-and-casino/" target="_blank">Renaissance Curacao Resort</a></li>
+    <li><a href="https://www.fortyounghotel.com/" target="_blank">Fort Young Hotel, Roseau</a></li>
+    <li><a href="https://www.oasismarigot.com/" target="_blank">Oasis Marigot, St. Lucia Villas</a></li>
+    <li><a href="https://www.tripadvisor.co.uk/Hotel_Review-g147380-d148233-Reviews-Young_Island_Resort-St_Vincent_St_Vincent_and_the_Grenadines.html" target="_blank">Young Island Resort</a></li>
+</ul>
+
 ### Design - Video
+All background videos on the website were also aquired from <a href="https://www.pexels.com/" target="_black">Pexels</a>, I was limited a little in terms of which videos I was able to use due to the limitations on file sizes that can be pushed to and stored on GitHub. It is not best practice to store files of this size on GitHub, however for this particular project (being educational), I chose to use the video compression software <a href="https://www.freeconvert.com/video-compressor" target="_balnk">Free Convert Video Compressor</a> to reduce the file size so all videos had a file size of around 5MB (GitHub limit is 10MB). I wanted to use videos that were of a 'slow-motion' nature to reflect the relaxation and calmness that can come with holidays to the Caribbean. I also wanted to use videos that don't have a lot of variation in colour to ensure continuation of accessibility thoughout the videos duration of text that is overlayed (such as the cover text in the Home page, 404 page and thanks page).<br><br>
+The videos embedded at the bottom of the gallery page were all taken from Youtube, these are generic videos of different places in the Caribbean to inspire the customer and give them ideas about what they might like from their holiday to the Caribbean.
 
 <a href="#Contents">Back to the top.</a>
 
@@ -329,6 +342,9 @@ Throughout the planning, design, testing and deployment of the website, I have u
     <li><a href="https://wave.webaim.org/" target="_balnk">WAVE Web Accessibility Evaluation Tool</a>
         <ul><li>To ensure compliance with accessibility</li></ul>
     </li>
+    <li><a href="https://www.freeconvert.com/video-compressor" target="_balnk">Free Convert Video Compressor</a>
+        <ul><li>To reduce the file size of the background videos used on the website</li></ul>
+    </li>
 </ol><br>  
 <a href="#Contents">Back to the top.</a>
 
@@ -344,7 +360,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
 - Different browsers and devices?
 
 ## Functionality
-I tested the website using different focus groups divided by age, : 
+I tested the website using different focus groups divided by age: 
 <table>
     <tr>
         <th>Age Group</th>
