@@ -475,7 +475,9 @@ iframe{
 #islands-back-to-top{
     width: 200px;
     height: 50px;
+    line-height: 50px;
     margin-top: 15px;
+    margin-left: 50px;
     border-radius: 150px;
     color: white;
 }    
@@ -939,6 +941,9 @@ footer a:hover{
     }
     .islands-text{
         width: 600px;
+    }
+    #islands-back-to-top{
+        margin-left: 5px;
     }
 }    
 @media screen and (max-width: 1500px){
