@@ -86,6 +86,9 @@ a{
     border-bottom-style: ridge;
     background-image: linear-gradient(0.25turn, #468088, #ecf0e9, #467ca0);
 } 
+.sub-pages-top-bar > h6{
+    display: none;
+}    
 #index-cover-text-div{
     color:  rgba(235, 235, 235, 0.9);
     text-shadow: 3px 3px rgb(102, 102, 102);
