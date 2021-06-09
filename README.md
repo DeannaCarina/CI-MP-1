@@ -1,14 +1,12 @@
 # Travel Caribbean
 
-Milestone One Project: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
-
-This is my submission for Code Institute's Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with **ONLY** HTML5 and CSS3. The website covers the most basic function of the company: "The new way to plan your Caribbean getaway", the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
-
-# Contents
-
+## Contents
 <ul>
     <li>
-        <a href="#demo"><strong>Demo</strong></a>
+        <a href="#Introduction"><strong>Introduction</strong></a>
+        <ul>
+            <li><a href="#Demo">Demo</a></li>
+        </ul>
     </li>
     <li>
         <a href="#UX"><strong>UX</strong></a>
@@ -52,11 +50,14 @@ This is my submission for Code Institute's Portfolio Project One. It is a fictit
         <a href="#References"><strong>References</strong></a>
     </li>
 </ul>
-
 <hr>
 
+# Introduction
+Portfolio Project One: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
 
-# Demo
+This is my submission for Code Institute's Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with **ONLY** HTML5 and CSS3. The website covers the most basic function of the company: "The new way to plan your Caribbean getaway", the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
+
+## Demo
 A live demo of the website can be found <a href="https://deannacarina.github.io/CI-MP-1/index.html" target="_blank">**HERE**</a>
 
 <img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
