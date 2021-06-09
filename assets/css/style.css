@@ -691,8 +691,11 @@ iframe{
     column-count: 4;
     column-gap: 20px;
     background-color: rgb(71, 71, 71);
-    padding: 20px
+    padding: 20px;
 }
+#gallery-photos-section > h1{
+    display: none;
+}    
 .image-container{
     width: 100%;
     border: 20px;
@@ -728,11 +731,14 @@ iframe{
     background-color: rgb(71, 71, 71);
     padding: 20px
 }
-#video-container{
+#gallery-videos > h1{
+    display: none;
+}    
+.video-container{
     width: 100%;
     height: auto;  
 }
-#video-container > iframe{
+.video-container > iframe{
     border-radius: 20px;
     margin-bottom: 20px;
 }
