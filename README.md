@@ -266,7 +266,7 @@ The icons used in the website were taken from <a href="https://fontawesome.com/"
 
 ## Issues found during development
 ## Performance Testing (lighthouse)
-<img src="assets/images-readme/lighthouse.png" alt="Performance report from lighthouse"><br><br>
+<img src="assets/images-readme/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
 <a href="#Contents">Back to the top.</a>
     
 # Deployment
