@@ -477,7 +477,34 @@ Throughout the development process, the website was tested on a number of device
 
 ## Code Validation
 #### HTML Code Validation
-<img src="assets/images-readme/html-validator.png" alt="HTML validation report from W3C">
+
+##### index.html
+The below code validation report is from index.html. There were miniman errors found on this page. The main 'errors' were repeated id attributes, this was rectified by replacing the id attributes with classes instead.
+<img src="assets/images-readme/html-validator.png" alt="HTML validation report from W3C"><br><br>
+
+##### islands.html
+The below code validation report is from islands.html. There were a few validation errors on this page concerning the iframe found at the top of the page containing the interactive caribbean map. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Once the iframe errors has been rectified, a clean validation report was returned.<br>
+<img src="assets/images-readme/html-validator2.png" alt="HTML validation report from W3C"><br><br>
+
+##### types.html
+The below code validation report is from types.html. There were minimal errors for this page, the only reported errors were that one or two sections did not contain a heading. To fix this problem, I added heading elements to the sections, but styled the text as transparent and nil display.<br>
+<img src="assets/images-readme/html-validator3.png" alt="HTML validation report from W3C"><br><br>
+
+##### gallery.html
+The below code validation report is from gallery.html. There were a few validation errors on this page concerning the iframes found in the video section of the page. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Once the iframe errors has been rectified, a clean validation report was returned. The error report from before code cleanup can be found <a href="assets/images-readme/errors-gallery.pdf" target="_blank"><strong>HERE</strong></a>.<br>
+<img src="assets/images-readme/html-validator4.png" alt="HTML validation report from W3C"><br><br>
+
+##### contact.html
+The below code validation report is from contact.html - the page website visitors are directed to when the form on contact.html is submitted. It needed a slight alteration to change the back 'button' from a button element to a div element as the code validator showed an error when the button was wrapped in an anchor element.<br>
+<img src="assets/images-readme/html-validator5.png" alt="HTML validation report from W3C"><br><br>
+
+##### 404.html
+The below code validation report is from 404.html - the page website visitors are directed to when an invalid web address is used. It needed a slight alteration to change the back 'button' from a button element to a div element as the code validator showed an error when the button was wrapped in an anchor element.<br>
+<img src="assets/images-readme/html-validator6.png" alt="HTML validation report from W3C"><br><br>
+
+##### Large map page linked via islands.html Wireframe
+The below code validation report is from one of the pages used to magnify the map thumbnails from islands.html. All of the validation reports were identical for these pages as they are almost identical (the only difference is the map image and the heading text). All of these needed a slight alteration to change the back 'button' from a button element to a div element as the code validator showed an error when the button was wrapped in an anchor element.<br>
+<img src="assets/images-readme/html-validator7.png" alt="HTML validation report from W3C"><br><br>
 
 #### CSS Code Validation
 <img src="assets/images-readme/css-validator.png" alt="CSS validation report from W3C">
