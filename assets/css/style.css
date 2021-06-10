@@ -810,7 +810,7 @@ iframe{
     width: 400px;
     background: whitesmoke;
 }
-#budget{
+#gbp-budget, #eur-budget{
     line-height: 20px;
     width: 80px;
     background: whitesmoke;
@@ -1234,10 +1234,11 @@ footer a:hover{
         margin-right: 20px;
     }  
 } 
-@media screen and (max-width: 750px){
+@media screen and (max-width: 739px){
     #contact-page-section{
         background: url(../gallery/dominica4.jpg) no-repeat center center;
         background-attachment: fixed;
+        background-size: cover;
         height: 1200px;
     }
     #signup-form h1{
