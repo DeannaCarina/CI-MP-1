@@ -731,18 +731,24 @@ iframe{
     column-count: 3;
     column-gap: 20px;
     background-color: rgb(71, 71, 71);
-    padding: 20px
+    padding-right: 40px;
 }
 #gallery-videos > h1{
     display: none;
 }    
 .video-container{
     width: 100%;
-    height: auto;  
+    height: 400px; 
+    margin: 20px; 
+}
+#first-video, #second-video{
+    margin-top: -20px;
 }
 .video-container > iframe{
     border-radius: 20px;
-    margin-bottom: 20px;
+    height: 100%;
+    width: 100%;
+    border: 0px solid transparent;
 }
 /*In Signup.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #contact-page-section{
