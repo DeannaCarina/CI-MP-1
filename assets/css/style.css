@@ -360,8 +360,9 @@ a{
 #islands-header-container{
     height: auto;
 }   
-iframe{
+#islands-iframe{
     height: 500px;
+    width: 100%;
 }
 #islands-internal-nav-bar{
     width: 100%;
