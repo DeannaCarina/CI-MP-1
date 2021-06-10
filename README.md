@@ -55,16 +55,16 @@
 # Introduction
 Portfolio Project One: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
 
-This is my submission for Code Institute's (5P) Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with HTML5 and CSS3 as well as with the use of many other <a href="#Technologies">technologies</a>. The website covers the most basic function of the company: <em>"The new way to plan your Caribbean getaway"</em>, the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to sign up to the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
+This is my submission for Code Institute's (5P) Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with HTML and CSS as well as with the use of many other <a href="#Technologies">technologies</a>. The website covers the most basic function of the company: <em>"The new way to plan your Caribbean getaway"</em>, the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to download the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
 
 ## Demo
-A live demo of the website can be found <a href="https://deannacarina.github.io/CI-MP-1/index.html" target="_blank">**HERE**</a>
+A live demo of the website can be found <a href="https://deannacarina.github.io/travelcaribbean/" target="_blank">**HERE**</a>
 
 <img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
 <a href="#Contents">Back to the top.</a>
 
 # UX
-As more people rely on accessing services online the role of UX design has become increasingly important in our digitized world. The five planes provide a conceptual framework for breaking down the task of designing experiences into component elements so that we can understand the problem as a whole [1]. As this framework is structured, regularly used and consistently reliable, I have chosen to use the Five Planes method to design and implement my own website.
+As more people rely on accessing services online the role of UX design has become increasingly important in our digitized world. The five planes provide a conceptual framework for breaking down the task of designing experiences into component elements so that we can understand the problem as a whole [1]. As this framework is structured, extensively used and consistently reliable, I have chosen to use the Five Planes method to design and implement my own website.
 ## Strategy
 ### Vision
 <em>Travel Caribbean</em> is a specialist travel website focusing on travel to the Caribbean. Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [2][3]. As a frequent traveller to the Caribbean, I felt there was a gap in the market to provide potential travellers to the Caribbean with a straightforward and easy means of learning about the 
@@ -198,7 +198,7 @@ This website consists of multiple pages. By having multiple page we can separate
 <a href="#Contents">Back to the top.</a>
 
 ## Skeleton
-The wireframes for the <em>Travel Caribbean</em> website were made with the <a href="https://balsamiq.com/">Balsamiq</a> Desktop Applictaion, they can be found by viewing the image below and following the links below the image. As there is a number of pages within the website all containing a fairly large amount of content, I chose to create the wireframes based on a desktop layout as this is how I intend for the website to be viewed most frequently, however I have also created a wireframe for the contact page in mobile version, as the layout of this page will change drastically from being in deskoptop version to mobile version.<br><br>
+The wireframes for the <em>Travel Caribbean</em> website were made with the <a href="https://balsamiq.com/">Balsamiq</a> Desktop Applictaion, they can be found by viewing the image below and following the links below the image. As there is a number of pages within the website all containing a fairly large amount of content, I chose to create the wireframes based on a desktop layout as this is how I intend for the website to be viewed most frequently, however I have also created a wireframe for the contact page in mobile version, as the layout of this page will change a lot from being in desktop version to mobile version.<br><br>
 <img src="assets/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="90%"><br>
 <ul>
     <li>Click <a href="assets/images-readme/wire-islands.png" target="_blank">HERE</a> for islands.html Wireframe</li>
@@ -222,7 +222,7 @@ I did however have some minor problems with this font such as certain letters in
 <img src="assets/images-readme/font-problem.png" alt="Problem with using the satify font" height="100px"><br>
 The font I used for the main text body of the website was 'Lato' as this font is easy to read which is needed when there is large amounts of information to be read and absorbed by customers, it has a modern feel, and is a popular font for many websites. The back-up font is 'Sans-Serif' just in case the font import link fails.
 
-### Color Scheme
+### Colour Scheme
 As I want the website to be very visual, it made most sense to me to choose a colour scheme based on an image that is regularly used throughout the site. When I think of the Caribbean, I think of the blue and turquoise waters of the sea, so wanted to have the colour scheme pulled from an image that has these colours within it. I chose the image that is repeated at the bottom of the main pages of the turtle, as this has the blues that remind me of the Caribbean. <br>
 <img src="assets/barbados2.jpg" alt="Image used to generate colour pallette" width="70%"><br>
 I then used the website <a href="http://colormind.io/" target="_blank">colormind.io</a> as this allows the creation of a colour pallette from an image rather than a single colour choice. The colour pallette below is the pallette generated from the turtle image. 
@@ -318,7 +318,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
     <li><a href="https://fontawesome.com/" target="_balnk">Font Awesome</a>
         <ul><li>Used on all pages throughout the website to enhance UX and design, also for the tab icon</li></ul>
     </li>
-    <li><a href="https://ezgif.com/" target="_balnk">Ezgif</a>
+    <li><a href="https://ezgif.com/" target="_blank">Ezgif</a>
         <ul><li>Used to create the Demo gif in the readme file</li></ul>
     </li>
     <li><a href="https://favicon.io/" target="_balnk">Favicon.io</a>
@@ -444,7 +444,7 @@ I tested the usability and intuitiveness of the website using different focus gr
 </table>
 
 ## Compatibility
-Throughout the development process, the website was tested on a number of devices: A 17.3 inch windows laptop, a 15.3 inch windows laptop, a 16 inch MacBook Pro, an 8 inch Samsung Galaxy Tab A, a 10.2 inch iPad, A Samsung Galaxy S20 Ultra and A Huawei P30 Pro. It was also tested in Chrome, Firefox, Internet Explorer and Safari as well as Samsung's own internet browser. By also using Chrome Dev Tools, I was able to manually change the screen size to see when elements within the web pages 'break', by using this method, I could pin point the exact screen widths and heights to be defined in the CSS media screen queries and alter the stylings to fit accordingly. As I chose not to have a query for phone sizes, another for tablets and another for PCs and instead chose to base the queries on when things start to look 'broken' this did mean a lot of media queries in the stylesheet, however I found it was the best way to ensure responsiveness and to make sure that all elements within the web page were correctly layed out in relation to other elements.
+Throughout the development process, the website was tested on a number of devices: A 17.3 inch windows laptop, a 15.3 inch windows laptop, a 16 inch MacBook Pro, an 8 inch Samsung Galaxy Tab A, a 10.2 inch iPad, A Samsung Galaxy S20 Ultra and A Huawei P30 Pro. It was also tested in Chrome, Firefox, Internet Explorer and Safari as well as Samsung's own internet browser. By also using Chrome Dev Tools, I was able to manually change the screen size to see when elements within the web pages 'break', by using this method, I could pinpoint the exact screen widths and heights to be defined in the CSS media screen queries and alter the stylings to fit accordingly. As I chose not to have a query for phone sizes, another for tablets and another for PCs and instead chose to base the queries on when things start to look 'broken' this did mean a lot of media queries in the stylesheet, however I found it was the best way to ensure responsiveness and to make sure that all elements within the web page were correctly layed out in relation to other elements.
 
 ## User Testing Stories
 
