@@ -477,9 +477,10 @@ Throughout the development process, the website was tested on a number of device
 
 ## Code Validation
 #### HTML Code Validation
+Below is a run-through off the code validation process of all pages on the website, all of the pages did come back with errors - some very small, some larger! However all errors and warnings were rectified and all pages now pass through validation with no errors or warnings.
 
 ##### index.html
-The below code validation report is from index.html. There were miniman errors found on this page. The main 'errors' were repeated id attributes, this was rectified by replacing the id attributes with classes instead.
+The below code validation report is from index.html. There were minimal errors found on this page. The main 'errors' were repeated id attributes, this was rectified by replacing the id attributes with class attributes instead.
 <img src="assets/images-readme/html-validator.png" alt="HTML validation report from W3C"><br><br>
 
 ##### islands.html
