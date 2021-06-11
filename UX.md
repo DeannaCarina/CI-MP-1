@@ -22,6 +22,9 @@
     <li>
         <a href="#Surface">Peer Review</a>
     </li>
+    <li>
+        <a href="#References"><strong>References</strong></a>
+    </li>
 </ul>
 <hr>
 
@@ -212,3 +215,14 @@ All background videos on the website were also aquired from <a href="https://www
 The videos embedded at the bottom of the gallery page were all taken from Youtube, these are generic videos of different places in the Caribbean to inspire the customer and give them ideas about what they might like from their holiday to the Caribbean.
 
 <a href="#Contents">Back to the top.</a>
+
+# References
+<ol>
+    <li>[1]U. Qureshi, "UX Design using the Five Planes Method", Medium, 2021. [Online]. Available: https://medium.com/designcentered/ux-design-5-planes-method-b1b1d6587c05. [Accessed: 06- Jun- 2021].</li>
+    <li>[2]Lonely Planet, 2021. How to choose a Caribbean island – [online]. Available: https://www.lonelyplanet.com/articles/how-to-choose-caribbean-island [Accessed: 05- June- 2021].</li>
+    <li>[3]Caribbean Currency, Thomas Cook, 2021. [Online]. Available: https://www.thomascook.com/holidays/caribbean/travel-money. [Accessed: 05- Jun- 2021].</li>
+    <li>[4]"10 Backpacking Myths That Shouldn't Stop You Travelling - Backpacker Advice", Backpacker Advice, 2021. [Online]. Available: https://backpackeradvice.com/blog/backpacking-myths.html. [Accessed: 05- Jun- 2021].</li>
+    <li>[5]D. Horscroft and D. Horscroft, "Population estimates by marital status and living arrangements, England and Wales - Office for National Statistics", Ons.gov.uk, 2021. [Online]. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesbymaritalstatusandlivingarrangements/2002to2017. [Accessed: 06- Jun- 2021].</li>
+    <li>[6]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
+    <li>[7]Django Stars Blog. 2021. Your Guide to MVP, MMP, MLP, MDP and MAP Startup Stages. [online] Available at: https://djangostars.com/blog/guide-mvp-mmp-mlp-mdp-map-startup-stages [Accessed 7 June 2021].</li>
+</ol>
