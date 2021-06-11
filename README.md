@@ -228,7 +228,8 @@ To lighter and less transparent grey on backgrounds that are more vibrant and co
 <img src="assets/images-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html" height="300px">
 
 ### Icons
-The icons used in the website were taken from <a href="https://fontawesome.com/">Font Awesome</a>, they can be seen throughout the site, are used on all pages for the social media links, and are used as calls to action in the Islands and Types pages to aid in navigation. Font Awesome is also the source of the icon used in the tab of the browser for <em>Travel Caribbean</em>.
+The icons used in the website were taken from <a href="https://fontawesome.com/">Font Awesome</a>, they can be seen throughout the site, are used on all pages for the social media links, and are used as calls to action in the Islands and Types pages to aid in navigation. Font Awesome is also the source of the icon used in the tab of the browser for <em>Travel Caribbean</em>.<br><br>
+The icon used in the header section of the website on all pages was designed in Microsoft Powerpoint. It is made up of a generic png image of some palm trees and incorporated with a border, shadows and light blue eliptical shape (to signify the sea).
 
 ### Design - Images
 All stationary images on the Home, Gallery and Contact pages, as well as the background images in the downloadable brochure were taken from my personal photography portfolio, I felt that as I have a personal connection to the majority of the photographs on the website, I would have a better understanding of how the images interact with everything else on the page, I also had the advantage of knowing where each photograph was taken, so the labels on the images in the Gallery are all true and accurate.<br><br>
@@ -344,13 +345,48 @@ Throughout the planning, design, testing and deployment of the website, I have u
 <a href="#Contents">Back to the top.</a>
 
 # Testing
-- Are user stories fulfilled?
-- Is form fully functional with required attributes?
-- Do all external links open in new tabs inc downloadable brochure?
-- Different browsers and devices?
+The first phase of my testing regime was to ensure that the interactive aspects of the website all worked with no problems.
+<ul>
+    <li>The form in contact.html:
+        <ul>
+            <li>Before the form can be subitted, those inputs with required attributes must be completed (First Name, Last Name and Email Address). </li>
+            <li>The Budget and Island group sections are optional as the customer may not know this information yet or may want to discuss these aspects with the company first. </li>
+            <li>Once required attributed are completed, the submit button will then allow interaction. </li>
+            <li>On selection of the submit button, the form will then direct the customer (via 'action' attribute with a link to thanks.html). </li>
+        </ul>    
+    </li> 
+    <li>All internal links on the website need to be usable, and open in the same window.
+        <ul>
+            <li>All links in the menu bar at the top of all pages will direct the customer to the relevant page: 'Home' - to index.html, 'Islands' - to islands.html, 'Types' - to types.html, 'Gallery' - to gallery.html and 'Contact Us' - to contact.html</li>
+            <li>The button in the 'steps' section of index.html will direct the customer to the contact form</li>
+            <li>The 'step' numbers in index.html will direct the customer to the relevant page - step 2 will direct to islands.html, step 3 will direct to types.html and step 4 will direct to contact.html. Step 1 does not direct anywhere as there wasn't much to say for 'budget', however it made sense in terms of styling continuity for this div to have the same psuedo class stylings as the other step divs.</li>
+            <li>All small thumbnail maps on the islands.html page need to open the page with the larger version of the map. </li>
+            <li>All 'back to top' buttons in islands.html need to direct the customer to the top of islands.html to allowe the customer to select a new island group without having to scroll back to the top of the page. </li>
+            <li>All divs in the 'nav bar' below the interactive map iframe in islands.html need to direct the customer to the related section within the page. </li>
+            <li>All 'go back' buttons on the large island map pages that are navigated to via the thumbnail images need to direct the customer back to the related island section in the islands.html page. </li>
+            <li>All divs in the 'nav bar' in the 'types of holiday section' in the index.html and types.html pages need to direct the customer to the relevant types section within the types.html page.</li>
+            <li>All 'back to home' buttons in the types sections will direct the customer back to the types of holiday section in index.html. </li>
+            <li>All 'back to the top' buttons in the types sections will direct the customer to the top of the types.html page to allow the customer easy navigation to different types without having to scroll to the top of the page. </li>
+            <li>The button in the bottom section of index.html, islands.html and types.html with the turtle background image will direct the customer to contact.html to be able to submit the form and download the brochure. </li>
+        </ul>    
+    </li>       
+    <li>All external links on the website need to be usable, and open in a new window.
+        <ul>
+            <li>The social media links in the footer of all pages will direct the customer to the relevant social media platform.</li>
+            <li>The 'reference' links in the islands.html sections will direct the customer to the related Wikipedia pages.</li>
+            <li>The partnership logos in the types.html sections will direct the customer to the related website for that external company.</li>
+            <li>The downloadable brochure in contact.html will direct the customer to the pdf file stored in GitHub.</li>
+        </ul>    
+    </li>  
+    <li>All elements with an associated psuedo class work when the action is carried out (e.g. Hover).
+        <ul>
+            <li>All internal link buttons will change colour and gain a shadow styling when the customer hovers over them</li>
+        </ul>    
+    </li>     
+</ul>
 
 ## Functionality
-I tested the usability and intuitiveness of the website using different focus groups divided by age: 
+The second phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels. I tested the usability and intuitiveness of the website using different focus groups divided by age: 
 <table>
     <tr>
         <th>Age Group</th>
