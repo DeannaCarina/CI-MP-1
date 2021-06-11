@@ -345,7 +345,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
 <a href="#Contents">Back to the top.</a>
 
 # Testing
-To make the testing of my website easier and more structured, I have decided to carry out a 'five-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a><br> and <a href="#peer-review">Peer Review</a>
+To make the testing of my website easier and more structured, I have decided to carry out a 'seven-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a><br>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a> and <a href="perf-test">Performance Testing</a>
 
 ## Functionality
 The first phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels and also to ensure that all the interactive aspects of the website all worked with no problems.<br><br>
@@ -548,13 +548,14 @@ The below code validation report is from one of the pages used to magnify the ma
 <img src="assets/images-readme/html-validator7.png" alt="HTML validation report from W3C"><br><br>
 
 #### CSS Code Validation
+The main edits that I needed to make to the CSS file during code validation were as a result of changing ID's to Classes in the html files and having stylings for the iframes in the CSS rather than in-element stylings. The only 'errors' that came back were for some stylings (around 3 or 4) that I had accidentally given a value of '0', these were removed and the code re-run through the validator, it then passed with no errors or warnings. 
 <img src="assets/images-readme/css-validator.png" alt="CSS validation report from W3C">
 
 <h2 id="peer-review">Peer Review</h2>
-
-## Issues found during development
-## Performance Testing (lighthouse)
+<h2 id="dev-probs">Issues found during development</h2>
+<h2 id="perf-test">Performance Testing</h2>
 <img src="assets/images-readme/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
+
 <a href="#Contents">Back to the top.</a>
     
 # Deployment
