@@ -99,14 +99,13 @@ Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob
 Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
 
 # Features
-## Features left to implement
-<a href="#Contents">Back to the top.</a>
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/FEATURES.md">**LINK**</a> to view the Features section.
     
 # Testing
 Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md">**LINK**</a> to view the Testing section.
 
 # Deployment
-<a href="#Contents">Back to the top.</a>
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/DEPLOYMENT.md">**LINK**</a> to view the Deployment section.
 
 # Screenshots
 
