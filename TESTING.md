@@ -1,5 +1,7 @@
 # Testing - Travel Caribbean
 
+<a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/README.md">Back to README.md</a>
+
 ## Contents
 <ul>
     <li>
@@ -30,7 +32,8 @@
 <hr>
 
 ## Introduction
-To make the testing of my website easier and more structured, I have decided to carry out a 'seven-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a> and <a href="perf-test">Performance Testing</a>
+To make the testing of my website easier and more structured, I have decided to carry out a 'seven-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a> and <a href="perf-test">Performance Testing</a><br>
+<a href="#Contents">Back to the top.</a>
 
 ## Functionality
 The first phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels and also to ensure that all the interactive aspects of the website all worked with no problems.<br><br>
@@ -158,11 +161,13 @@ I tested the usability and intuitiveness of the website using different focus gr
             </ul>
         </td>
     </tr>
-</table>
+</table><br>
+<a href="#Contents">Back to the top.</a>
 
 ## Compatibility
 The second phase of my testing regime for the website was to ensure that the website is compatible through a range of devices, screen sizes and internet browsers. Throughout the development process, the website was tested on a number of devices: A 17.3 inch windows laptop, a 15.3 inch windows laptop, a 16 inch MacBook Pro, an 8 inch Samsung Galaxy Tab A, a 10.2 inch iPad, A Samsung Galaxy S20 Ultra and A Huawei P30 Pro. It was also tested in Chrome, Firefox, Internet Explorer and Safari as well as Samsung's own internet browser. By also using Chrome Dev Tools, I was able to manually change the screen size to see when elements within the web pages 'break', by using this method, I could pinpoint the exact screen widths and heights to be defined in the CSS media screen queries and alter the stylings to fit accordingly. As I chose not to have a query for phone sizes, another for tablets and another for PCs and instead chose to base the queries on when things start to look 'broken' this did mean a lot of media queries in the stylesheet, however I found it was the best way to ensure responsiveness and to make sure that all elements within the web page were correctly layed out in relation to other elements. The video below shows how I checked the responsiveness of the website at all screensizes.<br><br>
-<img src="assets/images-readme/resize-gif.gif" alt="Gif showing responsiveness of website section">
+<img src="assets/images-readme/resize-gif.gif" alt="Gif showing responsiveness of website section"><br>
+<a href="#Contents">Back to the top.</a>
 
 
 <h2 id="user-testing-stories">User Testing Stories</h1>
@@ -193,6 +198,7 @@ The third phase of my testing regime was to ensure that customer all user storie
 >Text here about how we have achieved this goal</em><br>
 <img src="assets/images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"><br>
 >All external links on the web page will open in a new tab so the customer is not completely diverted away from the website. There are links to social media platforms, where further reviews, images and information would be avalable for customers to view, in the partnership boxes there are links to external companies affiliated with <em>Travel Caribbean</em>, these companies have their own websites and own customer base which will not have been brought to them via the <em>Travel Caribbean</em> website.<br><br>
+<a href="#Contents">Back to the top.</a>
 
 <h2 id="validation">Code Validation</h2>
 The fourth phase of my testing regime for the website was to ensure all code written passes through code validation software with no errors or warnings.
@@ -230,9 +236,15 @@ The below code validation report is from one of the pages used to magnify the ma
 
 #### CSS Code Validation
 The main edits that I needed to make to the CSS file during code validation were as a result of changing ID's to Classes in the html files and having stylings for the iframes in the CSS rather than in-element stylings. The only 'errors' that came back were for some stylings (around 3 or 4) that I had accidentally given a value of '0', these were removed and the code re-run through the validator, it then passed with no errors or warnings. 
-<img src="assets/images-readme/css-validator.png" alt="CSS validation report from W3C">
+<img src="assets/images-readme/css-validator.png" alt="CSS validation report from W3C"><br>
+<a href="#Contents">Back to the top.</a>
 
 <h2 id="peer-review">Peer Review</h2>
+<br><a href="#Contents">Back to the top.</a>
+
 <h2 id="dev-probs">Issues found during development</h2>
+<br><a href="#Contents">Back to the top.</a>
+
 <h2 id="perf-test">Performance Testing</h2>
 <img src="assets/images-readme/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
+<a href="#Contents">Back to the top.</a>

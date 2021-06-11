@@ -35,7 +35,7 @@
         <a href="#Features"><strong>Features</strong></a>
     </li>
     <li>
-        <a href="testing.md"><strong>Testing (External Page)</strong></a>   
+        <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md"><strong>Testing (External Page)</strong></a>   
     </li>
     <li>
         <a href="#Deployment"><strong>Deployment</strong></a>
