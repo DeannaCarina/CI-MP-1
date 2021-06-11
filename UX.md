@@ -29,7 +29,8 @@
 <hr>
 
 # Introduction
-As more people rely on accessing services online the role of UX design has become increasingly important in our digitized world. The five planes provide a conceptual framework for breaking down the task of designing experiences into component elements so that we can understand the problem as a whole [1]. As this framework is structured, extensively used and consistently reliable, I have chosen to use the Five Planes method to design and implement my own website.
+As more people rely on accessing services online the role of UX design has become increasingly important in our digitized world. The five planes provide a conceptual framework for breaking down the task of designing experiences into component elements so that we can understand the problem as a whole [1]. As this framework is structured, extensively used and consistently reliable, I have chosen to use the Five Planes method to design and implement my own website.<br>
+<a href="#Contents">Back to the top.</a>
 
 # Strategy
 ### Vision
@@ -225,4 +226,5 @@ The videos embedded at the bottom of the gallery page were all taken from Youtub
     <li>[5]D. Horscroft and D. Horscroft, "Population estimates by marital status and living arrangements, England and Wales - Office for National Statistics", Ons.gov.uk, 2021. [Online]. Available: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/populationestimatesbymaritalstatusandlivingarrangements/2002to2017. [Accessed: 06- Jun- 2021].</li>
     <li>[6]C. Jönsson and D. Devonish, "Does Nationality, Gender, and Age Affect Travel Motivation? a Case of Visitors to The Caribbean Island of Barbados", Journal of Travel & Tourism Marketing, vol. 25, no. 3-4, pp. 398-408, 2008. Available: 10.1080/10548400802508499 [Accessed 5 June 2021].</li>
     <li>[7]Django Stars Blog. 2021. Your Guide to MVP, MMP, MLP, MDP and MAP Startup Stages. [online] Available at: https://djangostars.com/blog/guide-mvp-mmp-mlp-mdp-map-startup-stages [Accessed 7 June 2021].</li>
-</ol>
+</ol><br>
+<a href="#Contents">Back to the top.</a>
