@@ -345,7 +345,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
 <a href="#Contents">Back to the top.</a>
 
 # Testing
-To make the testing of my website easier and more structured, I have decided to carry out a 'four-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a> and <a href="#validation">Code Validation</a><br>
+To make the testing of my website easier and more structured, I have decided to carry out a 'five-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a><br> and <a href="#peer-review">Peer Review</a>
 
 ## Functionality
 The first phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels and also to ensure that all the interactive aspects of the website all worked with no problems.<br><br>
@@ -550,7 +550,7 @@ The below code validation report is from one of the pages used to magnify the ma
 #### CSS Code Validation
 <img src="assets/images-readme/css-validator.png" alt="CSS validation report from W3C">
 
-#### Peer Review
+<h2 id="peer-review">Peer Review</h2>
 
 ## Issues found during development
 ## Performance Testing (lighthouse)
