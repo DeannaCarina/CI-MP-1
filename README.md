@@ -6,6 +6,9 @@
         <a href="#Introduction"><strong>Introduction</strong></a>
     </li>
     <li>
+       <a href="#Credits"><strong>Credits</strong></a> 
+    </li>
+    <li>
         <a href="#UX"><strong>UX</strong></a>               
     </li>
     <li>
@@ -19,9 +22,6 @@
     </li>
     <li>
         <a href="#Deployment"><strong>Deployment</strong></a>
-    </li>
-    <li>
-       <a href="#Credits"><strong>Credits</strong></a> 
     </li>
     <li>
         <a href="#Screenshots"><strong>Screenshots</strong></a>
@@ -38,22 +38,6 @@ This is my submission for Code Institute's (5P) Portfolio Project One. It is a f
 A live demo of the website can be found <a href="https://deannacarina.github.io/travelcaribbean/" target="_blank">**HERE**</a>
 
 <img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
-<a href="#Contents">Back to the top.</a>
-
-# UX
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/UX.md">**LINK**</a> to view the UX section.
-
-# Technologies
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
-
-# Features
-## Features left to implement
-<a href="#Contents">Back to the top.</a>
-    
-# Testing
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md">**LINK**</a> to view the Testing section.
-
-# Deployment
 <a href="#Contents">Back to the top.</a>
 
 # Credits
@@ -106,6 +90,22 @@ All images seen on the website apart from those listed below are from my own pho
     <li>To my close work colleages at East Lancs Hospitals Trust - you have supported me through this endevour and also tested out the website, thank you for always wanting the best for me.</li>
     <li>To Katie Raby - You will probably never see this, but you are the reason I'm doing this course. It was your blog post and your journey that has inspired me to become a coder, I'll see you next year at my wedding as you're one of my best friends other halves - but I doubt you'll know how much you've changed my outlook on life. The words 'thank you' will never be enough.</li>
 </ul>
+<a href="#Contents">Back to the top.</a>
+
+# UX
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/UX.md">**LINK**</a> to view the UX section.
+
+# Technologies
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
+
+# Features
+## Features left to implement
+<a href="#Contents">Back to the top.</a>
+    
+# Testing
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md">**LINK**</a> to view the Testing section.
+
+# Deployment
 <a href="#Contents">Back to the top.</a>
 
 # Screenshots
