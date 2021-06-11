@@ -8,19 +8,19 @@
         <a href="#Introcuction">Introduction</a>
     </li>
     <li>
-        <a href="#Strategy">Functionality</a>
+        <a href="#Strategy">Strategy</a>
     </li>
     <li>
-        <a href="#Scope">Compatibility</a>
+        <a href="#Scope">Scope</a>
     </li>  
     <li>
-        <a href="#Structure">User Testing Stories</a>
+        <a href="#Structure">Structure</a>
     </li>    
     <li>
-        <a href="#Skeleton">Code Validation</a>
+        <a href="#Skeleton">Skeleton</a>
     </li>        
     <li>
-        <a href="#Surface">Peer Review</a>
+        <a href="#Surface">Surface</a>
     </li>
     <li>
         <a href="#References"><strong>References</strong></a>
