@@ -345,7 +345,11 @@ Throughout the planning, design, testing and deployment of the website, I have u
 <a href="#Contents">Back to the top.</a>
 
 # Testing
-The first phase of my testing regime was to ensure that the interactive aspects of the website all worked with no problems.
+To make the testing of my website easier and more structured, I have decided to carry out a 'four-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#User Testing Stories">User Testing Stories</a> and <a href="#Code Validation">Code Validation</a><br>
+
+## Functionality
+The first phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels and also to ensure that all the interactive aspects of the website all worked with no problems.<br><br>
+
 <ul>
     <li>The form in contact.html:
         <ul>
@@ -383,10 +387,9 @@ The first phase of my testing regime was to ensure that the interactive aspects 
             <li>All internal link buttons will change colour and gain a shadow styling when the customer hovers over them</li>
         </ul>    
     </li>     
-</ul>
+</ul><br>
 
-## Functionality
-The second phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels. I tested the usability and intuitiveness of the website using different focus groups divided by age: 
+I tested the usability and intuitiveness of the website using different focus groups divided by age: <br>
 <table>
     <tr>
         <th>Age Group</th>
@@ -473,10 +476,12 @@ The second phase of my testing regime for the website was to look at the functio
 </table>
 
 ## Compatibility
-Throughout the development process, the website was tested on a number of devices: A 17.3 inch windows laptop, a 15.3 inch windows laptop, a 16 inch MacBook Pro, an 8 inch Samsung Galaxy Tab A, a 10.2 inch iPad, A Samsung Galaxy S20 Ultra and A Huawei P30 Pro. It was also tested in Chrome, Firefox, Internet Explorer and Safari as well as Samsung's own internet browser. By also using Chrome Dev Tools, I was able to manually change the screen size to see when elements within the web pages 'break', by using this method, I could pinpoint the exact screen widths and heights to be defined in the CSS media screen queries and alter the stylings to fit accordingly. As I chose not to have a query for phone sizes, another for tablets and another for PCs and instead chose to base the queries on when things start to look 'broken' this did mean a lot of media queries in the stylesheet, however I found it was the best way to ensure responsiveness and to make sure that all elements within the web page were correctly layed out in relation to other elements. The video below shows how I checked the responsiveness of the website at all screensizes.<br><br>
+The second phase of my testing regime for the website was to ensure that the website is compatible through a range of devices, screen sizes and internet browsers. Throughout the development process, the website was tested on a number of devices: A 17.3 inch windows laptop, a 15.3 inch windows laptop, a 16 inch MacBook Pro, an 8 inch Samsung Galaxy Tab A, a 10.2 inch iPad, A Samsung Galaxy S20 Ultra and A Huawei P30 Pro. It was also tested in Chrome, Firefox, Internet Explorer and Safari as well as Samsung's own internet browser. By also using Chrome Dev Tools, I was able to manually change the screen size to see when elements within the web pages 'break', by using this method, I could pinpoint the exact screen widths and heights to be defined in the CSS media screen queries and alter the stylings to fit accordingly. As I chose not to have a query for phone sizes, another for tablets and another for PCs and instead chose to base the queries on when things start to look 'broken' this did mean a lot of media queries in the stylesheet, however I found it was the best way to ensure responsiveness and to make sure that all elements within the web page were correctly layed out in relation to other elements. The video below shows how I checked the responsiveness of the website at all screensizes.<br><br>
 <img src="assets/images-readme/resize-gif.gif" alt="Gif showing responsiveness of website section">
-## User Testing Stories
 
+
+## User Testing Stories
+The third phase of my testing regime was to ensure that all user stories identified in the <a href="#Strategy">Strategy</a> plane have been acknowledged and achieved.
 <em>"I want to know the purpose of the website as soon as I navigate to the home/landing page" & "I want to navigate the website quickly and effectively" & "I want to find everything in the website that I need to find with ease"</em><br>
 <img src="assets/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
@@ -509,6 +514,8 @@ Throughout the development process, the website was tested on a number of device
 >Text here about how we have achieved this goal<br><br>
 
 ## Code Validation
+The fourth phase of my testing regime for the website was to ensure all code written passes through code validation software with no errors or warnings.
+
 #### HTML Code Validation
 Below is a run-through off the code validation process of all pages on the website, all of the pages did come back with errors - some very small, some larger! However all errors and warnings were rectified and all pages now pass through validation with no errors or warnings.
 
