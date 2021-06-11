@@ -4,12 +4,9 @@
 <ul>
     <li>
         <a href="#Introduction"><strong>Introduction</strong></a>
-        <ul>
-            <li><a href="#Demo">Demo</a></li>
-        </ul>
     </li>
     <li>
-        <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/UX.md"><strong>UX (External Page)</strong></a>               
+        <a href="#UX"><strong>UX</strong></a>               
     </li>
     <li>
         <a href="#Technologies"><strong>Technologies</strong></a>
@@ -18,7 +15,7 @@
         <a href="#Features"><strong>Features</strong></a>
     </li>
     <li>
-        <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md"><strong>Testing (External Page)</strong></a>   
+        <a href="#Testing"><strong>Testing</strong></a>   
     </li>
     <li>
         <a href="#Deployment"><strong>Deployment</strong></a>
@@ -42,6 +39,10 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 
 <img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
 <a href="#Contents">Back to the top.</a>
+
+# UX
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/UX.md">**LINK**</a> to view the UX section.
+
 
 # Technologies
 Throughout the planning, design, testing and deployment of the website, I have used a number of technologies:
@@ -137,6 +138,9 @@ Throughout the planning, design, testing and deployment of the website, I have u
 ## Features left to implement
 <a href="#Contents">Back to the top.</a>
     
+# Testing
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md">**LINK**</a> to view the Testing section.
+
 # Deployment
 <a href="#Contents">Back to the top.</a>
 
