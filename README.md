@@ -37,23 +37,23 @@ This is my submission for Code Institute's (5P) Portfolio Project One. It is a f
 ## Demo
 A live demo of the website can be found <a href="https://deannacarina.github.io/travelcaribbean/" target="_blank">**HERE**</a>
 
-<img src="assets/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
+<img src="readme-files/images-readme/gif-index.gif" alt="Demo of Travel Caribbean Landing Page" width="100%">
 <a href="#Contents">Back to the top.</a><br>
 
 ### UX
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/UX.md">**LINK**</a> to view the UX section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/UX.md">**LINK**</a> to view the UX section.
 
 ### Technologies
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
 
 ### Features
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/FEATURES.md">**LINK**</a> to view the Features section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/FEATURES.md">**LINK**</a> to view the Features section.
     
 ### Testing
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/TESTING.md">**LINK**</a> to view the Testing section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/TESTING.md">**LINK**</a> to view the Testing section.
 
 ### Deployment
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/DEPLOYMENT.md">**LINK**</a> to view the Deployment section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/DEPLOYMENT.md">**LINK**</a> to view the Deployment section.
 <br>
 
 # Credits
@@ -110,14 +110,14 @@ All images seen on the website apart from those listed below are from my own pho
 
 # Screenshots
 
-<img src="assets/images-readme/screen-index.png" alt="Screenshot of index.html" width="90%"><br>
+<img src="readme-files/images-readme/screen-index.png" alt="Screenshot of index.html" width="90%"><br>
 <ul>
-    <li>Click <a href="assets/images-readme/screen-types.png" target="_blank">HERE</a> for types.html Screenshot</li>
-    <li>Click <a href="assets/images-readme/screen-gallery.png" target="_blank">HERE</a> for gallery.html Screenshot</li>
-    <li>Click <a href="assets/images-readme/screen-contact.png" target="_blank">HERE</a> for contact.html Screenshot</li>
-    <li>Click <a href="assets/images-readme/screen-thanks.png" target="_blank">HERE</a> for thanks.html Screenshot</li>
-    <li>Click <a href="assets/images-readme/screen-404.png" target="_blank">HERE</a> for 404.html Screenshot</li>
-    <li>Click <a href="assets/images-readme/screen-map.png" target="_blank">HERE</a> for large map page linked via islands.html Screenshot</li>
+    <li>Click <a href="readme-files/images-readme/screen-types.png" target="_blank">HERE</a> for types.html Screenshot</li>
+    <li>Click <a href="readme-files/images-readme/screen-gallery.png" target="_blank">HERE</a> for gallery.html Screenshot</li>
+    <li>Click <a href="readme-files/images-readme/screen-contact.png" target="_blank">HERE</a> for contact.html Screenshot</li>
+    <li>Click <a href="readme-files/images-readme/screen-thanks.png" target="_blank">HERE</a> for thanks.html Screenshot</li>
+    <li>Click <a href="readme-files/images-readme/screen-404.png" target="_blank">HERE</a> for 404.html Screenshot</li>
+    <li>Click <a href="readme-files/images-readme/screen-map.png" target="_blank">HERE</a> for large map page linked via islands.html Screenshot</li>
 </ul>
 <br>
 <a href="#Contents">Back to the top.</a>
