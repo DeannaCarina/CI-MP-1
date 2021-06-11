@@ -345,7 +345,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
 <a href="#Contents">Back to the top.</a>
 
 # Testing
-To make the testing of my website easier and more structured, I have decided to carry out a 'seven-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a><br>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a> and <a href="perf-test">Performance Testing</a>
+To make the testing of my website easier and more structured, I have decided to carry out a 'seven-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a> and <a href="perf-test">Performance Testing</a>
 
 ## Functionality
 The first phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels and also to ensure that all the interactive aspects of the website all worked with no problems.<br><br>
@@ -481,37 +481,32 @@ The second phase of my testing regime for the website was to ensure that the web
 
 
 <h2 id="user-testing-stories">User Testing Stories</h1>
-The third phase of my testing regime was to ensure that all user stories identified in the <a href="#Strategy">Strategy</a> plane have been acknowledged and achieved.
+The third phase of my testing regime was to ensure that customer all user stories identified in the <a href="#Strategy">Strategy</a> plane have been acknowledged and achieved.<br><br>
 <em>"I want to know the purpose of the website as soon as I navigate to the home/landing page" & "I want to navigate the website quickly and effectively" & "I want to find everything in the website that I need to find with ease"</em><br>
 <img src="assets/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"><br>
->Text here about how we have achieved this goal<br><br>
+>I have tried to make the website as intuitive as possible. From the first time the customer navigates to the home page I have tried to make it so the customer is aware straight away of the function of the website by including relevent video footage and cover text to exaplain what the website is for. As soon as the customer navigates to the home page, the things they should see are as follows: The 'hero' video, the menuu bar, the logo image and the website 'title': <em>Travel Caribbean</em>. I have used straightforward terminology in the navigation bar so the customer knows where they are navigating to and what they will find once they have navigated there. I feel I have succeeded in this area as I had a number of focus groups divided by age all of which found the site easy to navigate, highly intuitive and knew the exact function of the website at first navigation.<br><br>
 
-<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean" & "I want to learn about the different holiday types that are available to me" & "I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time" & "I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean" & "I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean"</em><br>
+<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean" & "I want to learn about the different holiday types that are available to me" & "I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time" & "I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean", "I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean" & "I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making"</em><br>
 <img src="assets/images-readme/image-islands.png" alt="Screenshot of top of islands page" width="100%"><br>
 <img src="assets/images-readme/image-types.png" alt="Screenshot of top of types page" width="100%"><br>
->Text here about how we have achieved this goal<br><br>
+>There are separate pages within the website (islands.html and types.html) for the customer to browse at their leisure to learn about the different islands they can go to and the different types of holiday they can go on. These sections also have up to date information on the best places to go and which places might be best to avoid (such as those in the hurricaine belt at certain points in the year, or those than have been badly affected by hurricanes in the past). There images in the backgrounds of the types sections to give the customer inspiration of what they might like to see or do on that particular type of holiday (such as scuba diving in the activity type), there is also a large gallery for the customer to browse including videos to further inspire the customer and to help them decide what they might like from their holiday. Within the information sections, there are also external links provided for the customer to be able to further their knowledge of different places and holiday types from other resources.<br><br>
 
 <em>"I want to know what other customers have said about the company to ensure the company is genuine and good at what they do"</em><br>
 <img src="assets/images-readme/image-reviews.png" alt="Screenshot of top of reviews section" width="100%"><br>
->Text here about how we have achieved this goal<br><br>
+>I have included customer reviews in the index page as I felt it was important that these were in a prominent place and easy for the customer to find. As they are on the home page, the customer doesn't need to navigate anywhere to see the reviews, they just need to scroll down. I know from personal experience that a lot of purchases (not just holidays) are based on the reviews and testimonies from past customers.<br><br>
 
-<em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure" & "I want to have updated deals and offers from the company for potential Caribbean holidays"</em><br>
+<em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure", "I want to have updated deals and offers from the company for potential Caribbean holidays" & "I want to browse the website and get information from the company without an obligation to book a holiday"</em><br>
 <img src="assets/images-readme/image-brochure.jpeg" alt="Screenshot of top of downloadable brochure" width="100%"><br>
->Text here about how we have achieved this goal<br><br>
+>The downloadable brochure (available from the button on the brochure mock-up in the Contact page) gives the customer a number of example holidays that they can book without having to make their own decisions about the details of their holiday. It shows the customer what the company can offer without them having any feeling of obligation to use the company. It contains up to date deals and provides the customer with a discount coupon - an incentive to use the services of the company.<br><br>
 
 <em>"I want to have a quick and easy way to contact the company/for the company to contact me"</em><br>
 <img src="assets/images-readme/image-contact.png" alt="Screenshot of top of contact page" width="100%"><br>
->Text here about how we have achieved this goal<br><br>
+>The form on the contact page is easy to find and straightforward to fill in. The input boxes are of a sensible size for the input type and the boxes that have to be filled in have the 'required' attribute attached to them. Due to the limimtations in my knowledge base and the fact that this project is based around HTML and CSS, I was limited in the functionality of the form, however with the use of PHP the form could be able to send a generic email to the customer to let them know we will contact them soon, or send them a more involved form to fill out for the company to better understand their wants and needs.<br><br>
 
-<em>"I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making" & "I want to have links to social media platforms related to the company to view further customer testomonies" & "I want to have links to social media platforms related to the company to view further images of potential locations and excusrions"</em><br>
+<em>"I want to have links to social media platforms related to the company to view further customer testomonies", "I want to have links to social media platforms related to the company to view further images of potential locations and excusrions" & "I want to be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company"</em><br>
+>Text here about how we have achieved this goal</em><br>
 <img src="assets/images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to browse the website and get information from the company without an obligation to book a holiday"</em><br>
->Text here about how we have achieved this goal<br><br>
+>All external links on the web page will open in a new tab so the customer is not completely diverted away from the website. There are links to social media platforms, where further reviews, images and information would be avalable for customers to view, in the partnership boxes there are links to external companies affiliated with <em>Travel Caribbean</em>, these companies have their own websites and own customer base which will not have been brought to them via the <em>Travel Caribbean</em> website.<br><br>
 
 <h2 id="validation">Code Validation</h2>
 The fourth phase of my testing regime for the website was to ensure all code written passes through code validation software with no errors or warnings.
