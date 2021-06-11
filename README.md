@@ -108,25 +108,18 @@ The theory of potential target audiences are as follows:
 <ol>
     <li>Know the purpose of the website as soon as I navigate to the home/landing page</li>
     <li>Navigate the website quickly and effectively</li>
-    <li>Find everything in the website that I need to find with ease<br>
-    <img src="assets/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"></li>
-    <li>Learn about the different locations that are available to me as a holiday destination in the Caribbean<br>
-    <img src="assets/images-readme/image-islands.png" alt="Screenshot of top of islands page" width="100%"></li>
-    <li>Learn about the different holiday types that are available to me<br>
-    <img src="assets/images-readme/image-types.png" alt="Screenshot of top of types page" width="100%"></li>
+    <li>Find everything in the website that I need to find with ease</li>
+    <li>Learn about the different locations that are available to me as a holiday destination in the Caribbean</li>
+    <li>Learn about the different holiday types that are available to me</li>
     <li>Have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean</li>
     <li>Have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean</li>
-    <li>Know what other customers have said about the company to ensure the company is genuine and good at what they do<br>
-    <img src="assets/images-readme/image-reviews.png" alt="Screenshot of top of reviews section" width="100%"></li>
+    <li>Know what other customers have said about the company to ensure the company is genuine and good at what they do</li>
     <li>Have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure</li>
-    <li>Have updated deals and offers from the company for potential Caribbean holidays<br>
-    <img src="assets/images-readme/image-brochure.jpeg" alt="Screenshot of top of downloadable brochure" width="100%"></li>
-    <li>Have a quick and easy way to contact the company/for the company to contact me<br>
-    <img src="assets/images-readme/image-contact.png" alt="Screenshot of top of contact page" width="100%"></li>
+    <li>Have updated deals and offers from the company for potential Caribbean holidays</li>
+    <li>Have a quick and easy way to contact the company/for the company to contact me</li>
     <li>Have updated information about locations in the Caribbean that may or may not be suitable for travel at that time</li>
     <li>Have links to social media platforms related to the company to view further customer testomonies</li>
-    <li>Have links to social media platforms related to the company to view further images of potential locations and excusrions<br>
-    <img src="assets/images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"></li>
+    <li>Have links to social media platforms related to the company to view further images of potential locations and excusrions</li>
     <li>Be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company</li>
     <li>Browse the website and get information from the company without an obligation to book a holiday</li>
     <li>Have easy navigation to external sources to further knowledge of different locations to aid in decision making</li>
@@ -449,24 +442,28 @@ Throughout the development process, the website was tested on a number of device
 ## User Testing Stories
 
 <em>"I want to know the purpose of the website as soon as I navigate to the home/landing page" & "I want to navigate the website quickly and effectively" & "I want to find everything in the website that I need to find with ease"</em><br>
+<img src="assets/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
 
-<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean" & "I want to learn about the different holiday types that are available to me" & "I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time" & "I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making"</em><br>
->Text here about how we have achieved this goal<br><br>
-
-<em>"I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean" & "I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean"</em><br>
+<em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean" & "I want to learn about the different holiday types that are available to me" & "I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time" & "I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean" & "I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean"</em><br>
+<img src="assets/images-readme/image-islands.png" alt="Screenshot of top of islands page" width="100%"><br>
+<img src="assets/images-readme/image-types.png" alt="Screenshot of top of types page" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to know what other customers have said about the company to ensure the company is genuine and good at what they do"</em><br>
+<img src="assets/images-readme/image-reviews.png" alt="Screenshot of top of reviews section" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure" & "I want to have updated deals and offers from the company for potential Caribbean holidays"</em><br>
+<img src="assets/images-readme/image-brochure.jpeg" alt="Screenshot of top of downloadable brochure" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to have a quick and easy way to contact the company/for the company to contact me"</em><br>
+<img src="assets/images-readme/image-contact.png" alt="Screenshot of top of contact page" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
 
-<em>"I want to have links to social media platforms related to the company to view further customer testomonies" & "I want to have links to social media platforms related to the company to view further images of potential locations and excusrions"</em><br>
+<em>"I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making" & "I want to have links to social media platforms related to the company to view further customer testomonies" & "I want to have links to social media platforms related to the company to view further images of potential locations and excusrions"</em><br>
+<img src="assets/images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"><br>
 >Text here about how we have achieved this goal<br><br>
 
 <em>"I want to be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company"</em><br>
@@ -492,7 +489,7 @@ The below code validation report is from types.html. There were minimal errors f
 <img src="assets/images-readme/html-validator3.png" alt="HTML validation report from W3C"><br><br>
 
 ##### gallery.html
-The below code validation report is from gallery.html. There were a few validation errors on this page concerning the iframes found in the video section of the page. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Once the iframe errors has been rectified, a clean validation report was returned. The error report from before code cleanup can be found <a href="assets/images-readme/errors-gallery.pdf" target="_blank"><strong>HERE</strong></a>.<br>
+The below code validation report is from gallery.html. There were a few validation errors on this page concerning the iframes found in the video section of the page. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Most of the errors concerning the iframes in the gallery page were brought about by the pre-built code from Youtube's embedding option. Once the iframe errors has been rectified, a clean validation report was returned. The error report from before code cleanup can be found <a href="assets/images-readme/errors-gallery.pdf" target="_blank"><strong>HERE</strong></a>.<br>
 <img src="assets/images-readme/html-validator4.png" alt="HTML validation report from W3C"><br><br>
 
 ##### contact.html
