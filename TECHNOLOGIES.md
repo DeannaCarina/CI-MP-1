@@ -8,13 +8,13 @@
         <a href="#Languages">Languages</a>
     </li>
     <li>
-        <a href="vc">Version Control</a>
+        <a href="#vc">Version Control</a>
     </li>
     <li>
         <a href="#Applications">Applications</a>
     </li>  
     <li>
-        <a href="flp">Frameworks, Libraries and Programs</a>
+        <a href="#flp">Frameworks, Libraries and Programs</a>
     </li>    
 </ul>
 <hr>
