@@ -345,7 +345,7 @@ Throughout the planning, design, testing and deployment of the website, I have u
 <a href="#Contents">Back to the top.</a>
 
 # Testing
-To make the testing of my website easier and more structured, I have decided to carry out a 'four-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#testing">User Testing Stories</a> and <a href="#validation">Code Validation</a><br>
+To make the testing of my website easier and more structured, I have decided to carry out a 'four-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a> and <a href="#validation">Code Validation</a><br>
 
 ## Functionality
 The first phase of my testing regime for the website was to look at the functionality of the website and make sure that it meets the needs of the customer on the most basic levels and also to ensure that all the interactive aspects of the website all worked with no problems.<br><br>
@@ -480,7 +480,7 @@ The second phase of my testing regime for the website was to ensure that the web
 <img src="assets/images-readme/resize-gif.gif" alt="Gif showing responsiveness of website section">
 
 
-<h2 id="testing">User Testing Stories</h1>
+<h2 id="user-testing-stories">User Testing Stories</h1>
 The third phase of my testing regime was to ensure that all user stories identified in the <a href="#Strategy">Strategy</a> plane have been acknowledged and achieved.
 <em>"I want to know the purpose of the website as soon as I navigate to the home/landing page" & "I want to navigate the website quickly and effectively" & "I want to find everything in the website that I need to find with ease"</em><br>
 <img src="assets/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"><br>
