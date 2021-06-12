@@ -251,7 +251,15 @@ The main edits that I needed to make to the CSS file during code validation were
 ## Accessibility
 <em>"By making your website accessible, you are ensuring that all of your potential users, including people with disabilities, have a decent user experience and are able to easily access your information.  By implementing accessibility best practices, you are also improving the usability of the site for all users." [1]</em>
 
-Due to the importance and necessity of accessibility on websites, I have chosen two independant accessibility evaluation tools: <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> and <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a>. I chose two in order to cross-check accessibility and ensure the website passes tests from more than one source. 
+Due to the importance and necessity of accessibility on websites, I have chosen two independant accessibility evaluation tools: <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> and <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker. I chose two in order to cross-check accessibility and ensure the website passes tests from more than one source. For all pages in the website the accessibility evaluation and improvement process was as follows:
+<ol>
+    <li>Run the web page though the <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker</li>
+    <li>Run the web page through the <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a></li>
+    <li>Rectify any errors that resulted from the <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> check regarding code errors and contrast errors</li>
+    <li>Re-run the web page through the <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker</li>
+    <li>Compare results from the two <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker analysis to ensure all previous errors are rectified.</li>
+</ol>
+This seemed to be the most efficient way of ensuring all accessibility criteria were evaluated and addressed. As <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker specifically looks at colour contrast, I felt it was important to rely on this more as a way to look at contrasting colours. <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> is a very good all-round tool and very good at pointing out where the problems are, so I used this tool to pin-point the problems to then fix them, but then confirmed the colour contrast errors in the page were fully rectified by re-running the web page through <a href="https://color.a11y.com/" target="_blank">A11y Color</a>.
 
 ##### index.html
 <ul>
@@ -259,7 +267,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-index.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-index.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-index.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -269,10 +277,10 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-islands.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-islands2.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-islands2.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a>  before fixing error identified in <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/contrast-islands.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker  before fixing error identified in <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/contrast-islands.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -282,7 +290,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-types.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-types.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-types.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -292,7 +300,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-gallery.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-gallery.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-gallery.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -302,10 +310,10 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-contact.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-contact2.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-contact2.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a>  before fixing error identified in <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/contrast-contact.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker  before fixing error identified in <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/contrast-contact.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -315,7 +323,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-thanks.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-thanks.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-thanks.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -325,7 +333,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-404.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-404.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-404.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
@@ -335,7 +343,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
         The accessibility report from <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/wave-largemap.png" target="_blank"><strong>HERE</strong></a>
     </li>
     <li>
-        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a> can be found <a href="../assets/images-readme/accessibility/contrast-largemap.png" target="_blank"><strong>HERE</strong></a>
+        The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-largemap.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
 
