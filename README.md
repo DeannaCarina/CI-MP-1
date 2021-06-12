@@ -41,19 +41,19 @@ A live demo of the website can be found <a href="https://deannacarina.github.io/
 <a href="#Contents">Back to the top.</a><br>
 
 ### UX
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/UX.md">**LINK**</a> to view the UX section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/readme-files/UX.md">**LINK**</a> to view the UX section.
 
 ### Technologies
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/readme-files/TECHNOLOGIES.md">**LINK**</a> to view the Technologies section.
 
 ### Features
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/FEATURES.md">**LINK**</a> to view the Features section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/readme-files/FEATURES.md">**LINK**</a> to view the Features section.
     
 ### Testing
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/TESTING.md">**LINK**</a> to view the Testing section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/readme-files/TESTING.md">**LINK**</a> to view the Testing section.
 
 ### Deployment
-Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/readme-files/master/DEPLOYMENT.md">**LINK**</a> to view the Deployment section.
+Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob/master/readme-files/DEPLOYMENT.md">**LINK**</a> to view the Deployment section.
 <br>
 
 # Credits
