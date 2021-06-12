@@ -166,37 +166,37 @@ I tested the usability and intuitiveness of the website using different focus gr
 
 ## Compatibility
 The second phase of my testing regime for the website was to ensure that the website is compatible through a range of devices, screen sizes and internet browsers. Throughout the development process, the website was tested on a number of devices: A 17.3 inch windows laptop, a 15.3 inch windows laptop, a 16 inch MacBook Pro, an 8 inch Samsung Galaxy Tab A, a 10.2 inch iPad, A Samsung Galaxy S20 Ultra and A Huawei P30 Pro. It was also tested in Chrome, Firefox, Internet Explorer and Safari as well as Samsung's own internet browser. By also using Chrome Dev Tools, I was able to manually change the screen size to see when elements within the web pages 'break', by using this method, I could pinpoint the exact screen widths and heights to be defined in the CSS media screen queries and alter the stylings to fit accordingly. As I chose not to have a query for phone sizes, another for tablets and another for PCs and instead chose to base the queries on when things start to look 'broken' this did mean a lot of media queries in the stylesheet, however I found it was the best way to ensure responsiveness and to make sure that all elements within the web page were correctly layed out in relation to other elements. The video below shows how I checked the responsiveness of the website at all screensizes.<br><br>
-<img src="readme-files/images-readme/resize-gif.gif" alt="Gif showing responsiveness of website section"><br>
+<img src="images-readme/resize-gif.gif" alt="Gif showing responsiveness of website section"><br>
 <a href="#Contents">Back to the top.</a>
 
 
 <h2 id="user-testing-stories">User Testing Stories</h1>
 The third phase of my testing regime was to ensure that customer all user stories identified in the <a href="#Strategy">Strategy</a> plane have been acknowledged and achieved.<br><br>
 <em>"I want to know the purpose of the website as soon as I navigate to the home/landing page" & "I want to navigate the website quickly and effectively" & "I want to find everything in the website that I need to find with ease"</em><br>
-<img src="readme-files/images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"><br>
+<img src="images-readme/image-home.png" alt="Screenshot of top of landing page" width="100%"><br>
 
 >I have tried to make the website as intuitive as possible. From the first time the customer navigates to the home page I have tried to make it so the customer is aware straight away of the function of the website by including relevent video footage and cover text to exaplain what the website is for. As soon as the customer navigates to the home page, the things they should see are as follows: The 'hero' video, the menuu bar, the logo image and the website 'title': <em>Travel Caribbean</em>. I have used straightforward terminology in the navigation bar so the customer knows where they are navigating to and what they will find once they have navigated there. I feel I have succeeded in this area as I had a number of focus groups divided by age all of which found the site easy to navigate, highly intuitive and knew the exact function of the website at first navigation.<br><br>
 
 <em>"I want to learn about the different locations that are available to me as a holiday destination in the Caribbean" & "I want to learn about the different holiday types that are available to me" & "I want to have updated information about locations in the Caribbean that may or may not be suitable for travel at that time" & "I want to have a visual aid to help the decision making process of what I would like to do on my holiday to the Caribbean", "I want to have a visual aid to help the decision making process of where I would like to go on my holiday to the Caribbean" & "I want to have easy navigation to external sources to further knowledge of different locations to aid in decision making"</em><br>
-<img src="readme-files/images-readme/image-islands.png" alt="Screenshot of top of islands page" width="100%"><br>
-<img src="readme-files/images-readme/image-types.png" alt="Screenshot of top of types page" width="100%"><br>
+<img src="images-readme/image-islands.png" alt="Screenshot of top of islands page" width="100%"><br>
+<img src="images-readme/image-types.png" alt="Screenshot of top of types page" width="100%"><br>
 >There are separate pages within the website (islands.html and types.html) for the customer to browse at their leisure to learn about the different islands they can go to and the different types of holiday they can go on. These sections also have up to date information on the best places to go and which places might be best to avoid (such as those in the hurricaine belt at certain points in the year, or those than have been badly affected by hurricanes in the past). There images in the backgrounds of the types sections to give the customer inspiration of what they might like to see or do on that particular type of holiday (such as scuba diving in the activity type), there is also a large gallery for the customer to browse including videos to further inspire the customer and to help them decide what they might like from their holiday. Within the information sections, there are also external links provided for the customer to be able to further their knowledge of different places and holiday types from other resources.<br><br>
 
 <em>"I want to know what other customers have said about the company to ensure the company is genuine and good at what they do"</em><br>
-<img src="readme-files/images-readme/image-reviews.png" alt="Screenshot of top of reviews section" width="100%"><br>
+<img src="images-readme/image-reviews.png" alt="Screenshot of top of reviews section" width="100%"><br>
 >I have included customer reviews in the index page as I felt it was important that these were in a prominent place and easy for the customer to find. As they are on the home page, the customer doesn't need to navigate anywhere to see the reviews, they just need to scroll down. I know from personal experience that a lot of purchases (not just holidays) are based on the reviews and testimonies from past customers.<br><br>
 
 <em>"I want to have some examples of what the company can offer to me for my holiday in the Caribbean via a brochure", "I want to have updated deals and offers from the company for potential Caribbean holidays" & "I want to browse the website and get information from the company without an obligation to book a holiday"</em><br>
-<img src="readme-files/images-readme/image-brochure.jpeg" alt="Screenshot of top of downloadable brochure" width="100%"><br>
+<img src="images-readme/image-brochure.jpeg" alt="Screenshot of top of downloadable brochure" width="100%"><br>
 >The downloadable brochure (available from the button on the brochure mock-up in the Contact page) gives the customer a number of example holidays that they can book without having to make their own decisions about the details of their holiday. It shows the customer what the company can offer without them having any feeling of obligation to use the company. It contains up to date deals and provides the customer with a discount coupon - an incentive to use the services of the company.<br><br>
 
 <em>"I want to have a quick and easy way to contact the company/for the company to contact me"</em><br>
-<img src="readme-files/images-readme/image-contact.png" alt="Screenshot of top of contact page" width="100%"><br>
+<img src="images-readme/image-contact.png" alt="Screenshot of top of contact page" width="100%"><br>
 >The form on the contact page is easy to find and straightforward to fill in. The input boxes are of a sensible size for the input type and the boxes that have to be filled in have the 'required' attribute attached to them. Due to the limimtations in my knowledge base and the fact that this project is based around HTML and CSS, I was limited in the functionality of the form, however with the use of PHP the form could be able to send a generic email to the customer to let them know we will contact them soon, or send them a more involved form to fill out for the company to better understand their wants and needs.<br><br>
 
 <em>"I want to have links to social media platforms related to the company to view further customer testomonies", "I want to have links to social media platforms related to the company to view further images of potential locations and excusrions" & "I want to be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company"</em><br>
 >Text here about how we have achieved this goal</em><br>
-<img src="readme-files/images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"><br>
+<img src="images-readme/image-links.jpeg" alt="Screenshot of top of reviews section" width="100%"><br>
 >All external links on the web page will open in a new tab so the customer is not completely diverted away from the website. There are links to social media platforms, where further reviews, images and information would be avalable for customers to view, in the partnership boxes there are links to external companies affiliated with <em>Travel Caribbean</em>, these companies have their own websites and own customer base which will not have been brought to them via the <em>Travel Caribbean</em> website.<br><br>
 <a href="#Contents">Back to the top.</a>
 
@@ -208,35 +208,35 @@ Below is a run-through off the code validation process of all pages on the websi
 
 ##### index.html
 The below code validation report is from index.html. There were minimal errors found on this page. The main 'errors' were repeated id attributes, this was rectified by replacing the id attributes with class attributes instead.
-<img src="readme-files/images-readme/html-validator.png" alt="HTML validation report from W3C"><br><br>
+<img src="images-readme/html-validator.png" alt="HTML validation report from W3C"><br><br>
 
 ##### islands.html
 The below code validation report is from islands.html. There were a few validation errors on this page concerning the iframe found at the top of the page containing the interactive caribbean map. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Once the iframe errors has been rectified, a clean validation report was returned.<br>
-<img src="readme-files/images-readme/html-validator2.png" alt="HTML validation report from W3C"><br><br>
+<img src="images-readme/html-validator2.png" alt="HTML validation report from W3C"><br><br>
 
 ##### types.html
 The below code validation report is from types.html. There were minimal errors for this page, the only reported errors were that one or two sections did not contain a heading. To fix this problem, I added heading elements to the sections, but styled the text as transparent and nil display.<br>
-<img src="readme-files/images-readme/html-validator3.png" alt="HTML validation report from W3C"><br><br>
+<img src="images-readme/html-validator3.png" alt="HTML validation report from W3C"><br><br>
 
 ##### gallery.html
-The below code validation report is from gallery.html. There were a few validation errors on this page concerning the iframes found in the video section of the page. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Most of the errors concerning the iframes in the gallery page were brought about by the pre-built code from Youtube's embedding option. Once the iframe errors has been rectified, a clean validation report was returned. The error report from before code cleanup can be found <a href="readme-files/images-readme/errors-gallery.pdf" target="_blank"><strong>HERE</strong></a>.<br>
-<img src="readme-files/images-readme/html-validator4.png" alt="HTML validation report from W3C"><br><br>
+The below code validation report is from gallery.html. There were a few validation errors on this page concerning the iframes found in the video section of the page. One of these was the text within the iframe opening and closing tags - the validator classed this as an error; I found this to be a problem with w3schools rather than the validation service itself by finding a GitHub thread concerning this matter <a href="https://github.com/validator/validator/issues/592" target="_blank"><strong>HERE</strong></a>. There were also problems with using percentages as height/width and using px as a height/width definition. As I wanted to ensure responsiveness of the iframe, to work around this error, I gave the iframe an id attribute and styled the element within the CSS instead. Most of the errors concerning the iframes in the gallery page were brought about by the pre-built code from Youtube's embedding option. Once the iframe errors has been rectified, a clean validation report was returned. The error report from before code cleanup can be found <a href="images-readme/errors-gallery.pdf" target="_blank"><strong>HERE</strong></a>.<br>
+<img src="images-readme/html-validator4.png" alt="HTML validation report from W3C"><br><br>
 
 ##### contact.html
 The below code validation report is from contact.html - the page website visitors are directed to when the form on contact.html is submitted. It needed a slight alteration to change the back 'button' from a button element to a div element as the code validator showed an error when the button was wrapped in an anchor element.<br>
-<img src="readme-files/images-readme/html-validator5.png" alt="HTML validation report from W3C"><br><br>
+<img src="images-readme/html-validator5.png" alt="HTML validation report from W3C"><br><br>
 
 ##### 404.html
 The below code validation report is from 404.html - the page website visitors are directed to when an invalid web address is used. It needed a slight alteration to change the back 'button' from a button element to a div element as the code validator showed an error when the button was wrapped in an anchor element.<br>
-<img src="readme-files/images-readme/html-validator6.png" alt="HTML validation report from W3C"><br><br>
+<img src="images-readme/html-validator6.png" alt="HTML validation report from W3C"><br><br>
 
 ##### Large map page linked via islands.html Wireframe
 The below code validation report is from one of the pages used to magnify the map thumbnails from islands.html. All of the validation reports were identical for these pages as they are almost identical (the only difference is the map image and the heading text). All of these needed a slight alteration to change the back 'button' from a button element to a div element as the code validator showed an error when the button was wrapped in an anchor element.<br>
-<img src="readme-files/images-readme/html-validator7.png" alt="HTML validation report from W3C"><br><br>
+<img src="images-readme/html-validator7.png" alt="HTML validation report from W3C"><br><br>
 
 #### CSS Code Validation
 The main edits that I needed to make to the CSS file during code validation were as a result of changing ID's to Classes in the html files and having stylings for the iframes in the CSS rather than in-element stylings. The only 'errors' that came back were for some stylings (around 3 or 4) that I had accidentally given a value of '0', these were removed and the code re-run through the validator, it then passed with no errors or warnings. 
-<img src="readme-files/images-readme/css-validator.png" alt="CSS validation report from W3C"><br>
+<img src="images-readme/css-validator.png" alt="CSS validation report from W3C"><br>
 <a href="#Contents">Back to the top.</a>
 
 <h2 id="peer-review">Peer Review</h2>
@@ -246,5 +246,5 @@ The main edits that I needed to make to the CSS file during code validation were
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="perf-test">Performance Testing</h2>
-<img src="readme-files/images-readme/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
+<img src="images-readme/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
 <a href="#Contents">Back to the top.</a>
