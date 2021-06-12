@@ -259,7 +259,7 @@ Due to the importance and necessity of accessibility on websites, I have chosen 
     <li>Re-run the web page through the <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker</li>
     <li>Compare results from the two <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker analysis to ensure all previous errors are rectified.</li>
 </ol>
-This seemed to be the most efficient way of ensuring all accessibility criteria were evaluated and addressed. As <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker specifically looks at colour contrast, I felt it was important to rely on this more as a way to look at contrasting colours. <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> is a very good all-round tool and very good at pointing out where the problems are, so I used this tool to pin-point the problems to then fix them, but then confirmed the colour contrast errors in the page were fully rectified by re-running the web page through <a href="https://color.a11y.com/" target="_blank">A11y Color</a>.
+This seemed to be the most efficient way of ensuring all accessibility criteria were evaluated and addressed. As <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker specifically looks at colour contrast, I felt it was important to rely on this more as a way to look at contrasting colours. <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> is a very good all-round tool and very good at pointing out where the problems are, so I used this tool to pin-point the problems to then fix them, but then confirmed the colour contrast errors in the page were fully rectified by re-running the web page through <a href="https://color.a11y.com/" target="_blank">A11y Color</a>.<br>
 
 ##### index.html
 <ul>
@@ -270,6 +270,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-index.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page was run through both accessibility validation programs and found to have no problems*.
 
 ##### islands.html
 <ul>
@@ -283,6 +284,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker  before fixing error identified in <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/contrast-islands.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page had some problems with colour contrast of the 'back-to-top' button used in the island sections. To rectify this, the background of the button was made darker and slightly less transparent. The page was then re-run through the accessibility checker and no errors were returned.
 
 ##### types.html
 <ul>
@@ -293,6 +295,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-types.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page was run through both accessibility validation programs and found to have no problems*.
 
 ##### gallery.html
 <ul>
@@ -303,6 +306,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-gallery.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page was run through both accessibility validation programs and found to have no problems*.
 
 ##### contact.html
 <ul>
@@ -316,6 +320,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker  before fixing error identified in <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> can be found <a href="../assets/images-readme/accessibility/contrast-contact.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page had some problems with colour contrast of the brochure download button and the banner used in the brochure mock-up. To rectify this, the background of these elements were made darker and slightly less transparent, the page of the brochure was also made pure white. The page was then re-run through the accessibility checker and no errors were returned.
 
 ##### thanks.html
 <ul>
@@ -326,6 +331,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-thanks.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page was run through both accessibility validation programs and found to have no problems*.
 
 ##### 404.html
 <ul>
@@ -336,6 +342,7 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-404.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
+This page was run through both accessibility validation programs and found to have no problems*.
 
 ##### large map pages
 <ul>
@@ -346,7 +353,8 @@ This seemed to be the most efficient way of ensuring all accessibility criteria 
         The accessibility report from <a href="https://color.a11y.com/" target="_blank">A11y Color</a> Contrast Checker can be found <a href="../assets/images-readme/accessibility/contrast-largemap.png" target="_blank"><strong>HERE</strong></a>
     </li>
 </ul>
-
+All of these identical pages were run through both accessibility validation programs and found to have no problems*.<br><br>
+*On running the all pages through the <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> program - all pages cam back with the same <strong>SIX</strong> errors: The social media links in the footer all required an aria-label due to the lack of text within the anchor element. Once the aria-label had been added, all pages then came back with no code accessibility errors.<br><br>
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="perf-test">Performance Testing</h2>
