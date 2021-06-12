@@ -361,7 +361,7 @@ All of these identical pages were run through both accessibility validation prog
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="perf-test">Performance Testing</h2>
-In order to test the performance of the website I used the built-in Chrome DevOps tool <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a> This was used on all pages, 
+In order to test the performance of the website I used the built-in Chrome DevOps tool <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a> This was used on all pages. I found that the results from the Lighthouse testing tool were different every time I tested it even if nothing has changed with the website between tests. The below image is the result from my most recent Lighthouse performance test, which I am very happy with.
 <img src="../assets/images-readme/performance/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
 <a href="#Contents">Back to the top.</a>
 
