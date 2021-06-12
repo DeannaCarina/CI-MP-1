@@ -26,13 +26,16 @@
         <a href="#dev-probs">Development Problems</a>
     </li>
     <li>
+        <a href="#Accessibility">Accessibility</a>
+    </li>
+    <li>
         <a href="#perf-test">Performance Testing</a>
     </li>
 </ul>
 <hr>
 
 ## Introduction
-To make the testing of my website easier and more structured, I have decided to carry out a 'seven-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a> and <a href="perf-test">Performance Testing</a><br><br>
+To make the testing of my website easier and more structured, I have decided to carry out an 'eight-phase' approach: <a href="#Functionality">Functionality</a>, <a href="#Compatibility">Compatibility</a>, <a href="#user-testing-stories">User Testing Stories</a>, <a href="#validation">Code Validation</a>, <a href="#peer-review">Peer Review</a>, <a href="dev-probs">Development Problems</a>, <a href="#Accessibility">Accessibility</a> and <a href="perf-test">Performance Testing</a><br><br>
 <a href="#Contents">Back to the top.</a>
 
 ## Functionality
@@ -243,6 +246,9 @@ The main edits that I needed to make to the CSS file during code validation were
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="dev-probs">Issues found during development</h2>
+<br><a href="#Contents">Back to the top.</a>
+
+## Accessibility
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="perf-test">Performance Testing</h2>
