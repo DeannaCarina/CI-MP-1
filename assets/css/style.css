@@ -480,6 +480,7 @@ a{
     margin-top: 15px;
     border-radius: 150px;
     color: white;
+    background-color: rgba(58, 58, 58, 0.863);
     display: inline-block;
     text-align: center;
 }    
