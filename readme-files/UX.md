@@ -159,15 +159,15 @@ This website consists of multiple pages. By having multiple page we can separate
 
 # Skeleton
 The wireframes for the <em>Travel Caribbean</em> website were made with the <a href="https://balsamiq.com/">Balsamiq</a> Desktop Applictaion, they can be found by viewing the image below and following the links below the image. As there is a number of pages within the website all containing a fairly large amount of content, I chose to create the wireframes based on a desktop layout as this is how I intend for the website to be viewed most frequently, however I have also created a wireframe for the contact page in mobile version, as the layout of this page will change a lot from being in desktop version to mobile version.<br><br>
-<img src="readme-files/images-readme/wire-index.png" alt="Wireframe plan of index.html" width="90%"><br>
+<img src="images-readme/wire-index.png" alt="Wireframe plan of index.html" width="90%"><br>
 <ul>
-    <li>Click <a href="readme-files/images-readme/wire-islands.png" target="_blank">HERE</a> for islands.html Wireframe</li>
-    <li>Click <a href="readme-files/images-readme/wire-types.png" target="_blank">HERE</a> for types.html Wireframe</li>
-    <li>Click <a href="readme-files/images-readme/wire-gallery.png" target="_blank">HERE</a> for gallery.html Wireframe</li>
-    <li>Click <a href="readme-files/images-readme/wire-contact.png" target="_blank">HERE</a> for contact.html Wireframe</li>
-    <li>Click <a href="readme-files/images-readme/wire-thanks.png" target="_blank">HERE</a> for thanks.html Wireframe</li>
-    <li>Click <a href="readme-files/images-readme/wire-404.png" target="_blank">HERE</a> for 404.html Wireframe</li>
-    <li>Click <a href="readme-files/images-readme/wire-bigmap.png" target="_blank">HERE</a> for large map page linked via islands.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-islands.png" target="_blank">HERE</a> for islands.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-types.png" target="_blank">HERE</a> for types.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-gallery.png" target="_blank">HERE</a> for gallery.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-contact.png" target="_blank">HERE</a> for contact.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-thanks.png" target="_blank">HERE</a> for thanks.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-404.png" target="_blank">HERE</a> for 404.html Wireframe</li>
+    <li>Click <a href="images-readme/wire-bigmap.png" target="_blank">HERE</a> for large map page linked via islands.html Wireframe</li>
 </ul>
 The wireframes were created during the website's initial desgin process, as such there are small changes between the layout of the wireframes and the final layout/design of the finished website. The website as designed via Balsamiq is divided into five main sections (Home, Islands, Types, Gallery and Contact), however there are also eight 'hidden' pages which are navigated to via the Islands page (these are to view the small thumbnail map images in a larger way and all have identical layouts), as well as the page which is navigated to via the submit button (the 'Thanks' page) in the contact form and the 404 error page. The 'Thanks' and 404 pages have almost identical layouts as it didn't make sense to have a completely different layout for these pages due to the low frequency of visits these pages may recieve - these pages are identical to the first section of the index page; I felt this added continuity and design flow to the website, the only differences between them is the video used in the background. Due to the website being heavily visual, I chose to focus mostly on which images I would use as backgrounds in the wireframe process to ensure that the images complimented each other, and the images sizes worked with the design of the web page that it was situated within.
 <br><br>
@@ -177,22 +177,22 @@ The wireframes were created during the website's initial desgin process, as such
 # Surface
 ### Typography
 I used <a href="https://fonts.google.com/" target="_blank">Google Fonts</a> to find the typography that I wanted to use for the website. I wanted to use a completely different font for the main title and the headers to the main text body of the website to distinguish between headers and main body, but also to show the importance of different sections and make it obvious for the user/customer when a new section is starting. I chose to use the font 'Satisfy' (seen below) as the cursive writing and free-flow design of it makes it feel more relaxed and whimsical - which is remeniscent of the Caribbean. I initially used an alternative cursive font however this wasn't as easy to read and could have been difficult to understand for those that do not have english as a first language.<br>
-<img src="readme-files/images-readme/satisfy.png" alt="Font used for headings" width="70%"><br>
+<img src="images-readme/satisfy.png" alt="Font used for headings" width="70%"><br>
 I did however have some minor problems with this font such as certain letters in lower case looking like other letters (see example below where the word 'or' actually looked like the word 'on'), however this only occured once in the website and was rectified by putting the word in uppercase.<br>
-<img src="readme-files/images-readme/font-problem.png" alt="Problem with using the satify font" height="100px"><br>
+<img src="images-readme/font-problem.png" alt="Problem with using the satify font" height="100px"><br>
 The font I used for the main text body of the website was 'Lato' as this font is easy to read which is needed when there is large amounts of information to be read and absorbed by customers, it has a modern feel, and is a popular font for many websites. The back-up font is 'Sans-Serif' just in case the font import link fails.
 
 ### Colour Scheme
 As I want the website to be very visual, it made most sense to me to choose a colour scheme based on an image that is regularly used throughout the site. When I think of the Caribbean, I think of the blue and turquoise waters of the sea, so wanted to have the colour scheme pulled from an image that has these colours within it. I chose the image that is repeated at the bottom of the main pages of the turtle, as this has the blues that remind me of the Caribbean. <br>
 <img src="readme-files/barbados2.jpg" alt="Image used to generate colour pallette" width="70%"><br>
 I then used the website <a href="http://colormind.io/" target="_blank">colormind.io</a> as this allows the creation of a colour pallette from an image rather than a single colour choice. The colour pallette below is the pallette generated from the turtle image. 
-<img src="readme-files/images-readme/colour-pallette.png" alt="Generated colour pallette" width="70%"><br>
+<img src="images-readme/colour-pallette.png" alt="Generated colour pallette" width="70%"><br>
 I really love the range of blues and will use these throughout my website as background colours and decoration colours. The majority of the pages on the website will have image backgrounds to aid in the visual appeal of the website, however I still want some continuity of colour throughout. As the majority of backgrounds are images, many of the text overlays will have to have a neutral background to have the text be more readable without clashing with the background image, therefore I have chosen the majority of text boxes to have the neutral colour of grey - ranging from darker greys on backgrounds that have a more toned down overall colour (such as the hero video in index.html and the background of the review text boxes):<br>
-<img src="readme-files/images-readme/colour-hero-box.png" alt="Image showing background colour of text box over the hero video" height="100px">
-<img src="readme-files/images-readme/colour-review-box.png" alt="Image showing background colour of text box in the reviews section" height="100px"><br>
+<img src="images-readme/colour-hero-box.png" alt="Image showing background colour of text box over the hero video" height="100px">
+<img src="images-readme/colour-review-box.png" alt="Image showing background colour of text box in the reviews section" height="100px"><br>
 To lighter and less transparent grey on backgrounds that are more vibrant and could cause problems with reading text (such as those in islands.html and types.html):<br>
-<img src="readme-files/images-readme/colour-island-box.png" alt="Image showing background colour of text box in islands.html" height="300px">
-<img src="readme-files/images-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html" height="300px">
+<img src="images-readme/colour-island-box.png" alt="Image showing background colour of text box in islands.html" height="300px">
+<img src="images-readme/colour-type-box.png" alt="Image showing background colour of text box in types.html" height="300px">
 
 ### Icons
 The icons used in the website were taken from <a href="https://fontawesome.com/">Font Awesome</a>, they can be seen throughout the site, are used on all pages for the social media links, and are used as calls to action in the Islands and Types pages to aid in navigation. Font Awesome is also the source of the icon used in the tab of the browser for <em>Travel Caribbean</em>.<br><br>
