@@ -243,7 +243,7 @@ The main edits that I needed to make to the CSS file during code validation were
 <a href="#Contents">Back to the top.</a>
 
 <h2 id="peer-review">Peer Review</h2>
-As a students of <a href="https://codeinstitute.net/" target="_blank">Code Instutute</a> we have <a href="https://slack.com/intl/en-gb/" target="_blank">Slack</a> as a resource to help and compliment our learning. We are able to post our web pages and GitHub repositories for other students to review. I would like to thank <a href="https://github.com/OliverCadman" target="_blank">Oliver Cadman</a> and <a hrf="https://github.com/MattBCoding">Matt Boden</a> for taking the time to look at my website and for pointing out some of my mistakes. All problems identified by my peers were rectified straight away. Extra pairs of eyes really do make a huge difference in the development of websites.<br>
+As a students of <a href="https://codeinstitute.net/" target="_blank">Code Instutute</a> we have <a href="https://slack.com/intl/en-gb/" target="_blank">Slack</a> as a resource to help and compliment our learning. We are able to post our web pages and GitHub repositories for other students to review. I would like to thank <a href="https://github.com/OliverCadman" target="_blank">Oliver Cadman</a> and <a href="https://github.com/MattBCoding" target="_blank">Matt Boden</a> for taking the time to look at my website and for pointing out some of my mistakes. All problems identified by my peers were rectified straight away. Extra pairs of eyes really do make a huge difference in the development of websites.<br>
 
 <br><a href="#Contents">Back to the top.</a>
 
