@@ -254,40 +254,40 @@ The main edits that I needed to make to the CSS file during code validation were
 Due to the importance and necessity of accessibility on websites, I have chosen two independant accessibility evaluation tools: <a href="https://wave.webaim.org/" target="_blank">Wave Accessibility</a> and <a href="https://color.a11y.com/" target="_blank">A11y Color Contrast Checker</a>. I chose two in order to cross-check accessibility and ensure the website passes tests from more than one source. 
 
 ##### index.html
-<img src="../assets/images-readme/accessibility/wave-index.png" alt="accessibility check from WebAim for index.html">
-<img src="../assets/images-readme/accessibility/contrast-index.png" alt="accessibility check from Color A11y for index.html"><br><br>
+<img src="../assets/images-readme/accessibility/wave-index.png" alt="accessibility check from WebAim for index.html" height="40%">
+<img src="../assets/images-readme/accessibility/contrast-index.png" alt="accessibility check from Color A11y for index.html" height="40%"><br><br>
 
 ##### islands.html
-<img src="../assets/images-readme/accessibility/wave-islands.png" alt="accessibility check from WebAim for islands.html">
-<img src="../assets/images-readme/accessibility/contrast-islands2.png" alt="accessibility check from Color A11y for islands.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-islands.png" alt="">Accessibility check from WebAim for islands.html</a>
+<a href="../assets/images-readme/accessibility/contrast-islands2.png" alt="">Accessibility check from Color A11y for islands.html</a><br><br>
 
-<img src="../assets/images-readme/accessibility/contrast-islands.png" alt="accessibility check from Color A11y for islands.html"><br><br>
+<a href="../assets/images-readme/accessibility/contrast-islands.png" alt="">Accessibility check from Color A11y for islands.html</a><br><br>
 
 ##### types.html
-<img src="../assets/images-readme/accessibility/wave-types.png" alt="accessibility check from WebAim for types.html">
-<img src="../assets/images-readme/accessibility/contrast-types.png" alt="accessibility check from Color A11y for types.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-types.png" alt="">Accessibility check from WebAim for types.html</a>
+<a href="../assets/images-readme/accessibility/contrast-types.png" alt="">Accessibility check from Color A11y for types.html</a><br><br>
 
 ##### gallery.html
-<img src="../assets/images-readme/accessibility/wave-gallery.png" alt="accessibility check from WebAim for gallery.html">
-<img src="../assets/images-readme/accessibility/contrast-gallery.png" alt="accessibility check from Color A11y for gallery.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-gallery.png" alt="">Accessibility check from WebAim for gallery.html</a>
+<a href="../assets/images-readme/accessibility/contrast-gallery.png" alt="">Accessibility check from Color A11y for gallery.html</a><br><br>
 
 ##### contact.html
-<img src="../assets/images-readme/accessibility/wave-contact.png" alt="accessibility check from WebAim for contact.html">
-<img src="../assets/images-readme/accessibility/contrast-contact2.png" alt="accessibility check from Color A11y for contact.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-contact.png" alt="">Accessibility check from WebAim for contact.html</a>
+<a href="../assets/images-readme/accessibility/contrast-contact2.png" alt="">Accessibility check from Color A11y for contact.html</a><br><br>
 
-<img src="../assets/images-readme/accessibility/contrast-contact.png" alt="accessibility check from Color A11y for contact.html"><br><br>
+<a href="../assets/images-readme/accessibility/contrast-contact.png" alt="">Accessibility check from Color A11y for contact.html</a><br><br>
 
 ##### thanks.html
-<img src="../assets/images-readme/accessibility/wave-thanks.png" alt="accessibility check from WebAim for thanks.html">
-<img src="../assets/images-readme/accessibility/contrast-thanks.png" alt="accessibility check from Color A11y for thanks.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-thanks.png" alt="">Accessibility check from WebAim for thanks.html</a>
+<a href="../assets/images-readme/accessibility/contrast-thanks.png" alt="">Accessibility check from Color A11y for thanks.html</a><br><br>
 
 ##### 404.html
-<img src="../assets/images-readme/accessibility/wave-404.png" alt="accessibility check from WebAim for 404.html">
-<img src="../assets/images-readme/accessibility/contrast-404.png" alt="accessibility check from Color A11y for 404.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-404.png" alt="">Accessibility check from WebAim for 404.html</a>
+<a href="../assets/images-readme/accessibility/contrast-404.png" alt="">Accessibility check from Color A11y for 404.html</a><br><br>
 
 ##### large map pages
-<img src="../assets/images-readme/accessibility/wave-largemap.png" alt="accessibility check from WebAim for large maps navigated to via islands.html">
-<img src="../assets/images-readme/accessibility/contrast-largemap.png" alt="accessibility check from Color A11y for large maps navigated to via islands.html"><br><br>
+<a href="../assets/images-readme/accessibility/wave-largemap.png" alt="">Accessibility check from WebAim for large maps navigated to via islands.html</a>
+<a href="../assets/images-readme/accessibility/contrast-largemap.png" alt="">Accessibility check from Color A11y for large maps navigated to via islands.html</a><br><br>
 
 <br><a href="#Contents">Back to the top.</a>
 
