@@ -243,9 +243,12 @@ The main edits that I needed to make to the CSS file during code validation were
 <a href="#Contents">Back to the top.</a>
 
 <h2 id="peer-review">Peer Review</h2>
+As a students of <a href="https://codeinstitute.net/" target="_blank">Code Instutute</a> we have <a href="https://slack.com/intl/en-gb/" target="_blank">Slack</a> as a resource to help and compliment our learning. We are able to post our web pages and GitHub repositories for other students to review. I would like to thank <a href="https://github.com/OliverCadman" target="_blank">Oliver Cadman</a> and <a hrf="https://github.com/MattBCoding">Matt Boden</a> for taking the time to look at my website and for pointing out some of my mistakes. All problems identified by my peers were rectified straight away. Extra pairs of eyes really do make a huge difference in the development of websites.<br>
+
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="dev-probs">Issues found during development</h2>
+Due to the limitations of only working with HTML and CSS, I found it quite difficult to make some of my ideas a reality - such as a custom interactive map in islands.html. It was my intention to have a static map (image) of the Caribbean but then have different islands 'light up' when the customer hovers over them and have a label appear to state which island it is. I found some pre-made JavaScript code to be able to do this, however decided it would be more challenging (and rewarding) to meet the aims of the website while staying within the confines of HTML and CSS.
 <br><a href="#Contents">Back to the top.</a>
 
 ## Accessibility
@@ -358,6 +361,7 @@ All of these identical pages were run through both accessibility validation prog
 <br><a href="#Contents">Back to the top.</a>
 
 <h2 id="perf-test">Performance Testing</h2>
+In order to test the performance of the website I used the built-in Chrome DevOps tool <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a> This was used on all pages, 
 <img src="../assets/images-readme/performance/lighthouse1.png" alt="Performance report from lighthouse" width="70%"><br><br>
 <a href="#Contents">Back to the top.</a>
 
