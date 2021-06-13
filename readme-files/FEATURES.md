@@ -122,13 +122,16 @@ From the table above, I was able to recognise which features were more likely to
 </ul>
 
 <h2 id="features-left">Features Left to Implement</h2>
-Due to time constraints and limitations of coding knowledges I have chosen not to try and implement the following features to the website:<br>
+Due to time constraints and limitations of coding knowledge I have chosen not to try and implement the following features to the website:<br>
 <ul>
-    <li>A database of clients and customers from past holidays and a database of clients and customers of potential interest</li>
-    <li>A booking form for customers to be able to book their holiday with options for hotels, excursions and flights</li>
-    <li>A login option for customers to manage and edit their holiday booking</li>
-    <li>An interactive 'google-map-style' map for customers to click on which will direct them to the specific location and information</li>
-    <li>A carousel-type gallery so customers can focus on one image at a time rather than be overloaded with images</li>
-    <li>A hamburger menu for smaller media screen sizes</li>
-    <li>A way for customers to select the destination and type of holiday in the islands.html and types.html pages, and for this to update the form in contact.html with relevant information</li>
+    <li>A database of clients and customers from past holidays and a database of clients and customers of potential interest - this would enable and guarentee future income for the company from a loyal customer base. Many people like to have a 'yearly getaway' to relax and get away from day-to-day life, this would be the main source of guarenteed income for the company.</li>
+    <li>A booking form for customers to be able to book their holiday with options for hotels, excursions and flights - this would reduce the need for customers to contact the company directly and free up time for company employees to carry out other tasks such as maintenance of the website and collaborating with other potential partnership companies.</li>
+    <li>A login option for customers to manage and edit their holiday booking - again this would mean the customer would be less likely to need to contact the company directly and be able to manage their own holiday booking without the help of company employees.</li>
+    <li>An interactive 'google-map-style' map for customers to click on which will direct them to the specific location and information - I tired to do this during development of the website using a static image as a background and divs overlayed with precise postition measurements, however this proved to be far too buggy for the website especialy as the screen size alters. I instead opted to go for a google maps iFrame for customers to be able to explore the area as they see fit, with links to specific island groups in a separate nav bar below the iFrame to direct the customer to the specific section in the web page. Having something more interactive would be possible with the use of JavaScript, however using JavaScript is beyond my current coding knowledge at this point in the Code Institute course.</li>
+    <li>A carousel-type gallery - this would be so customers can focus on one image at a time rather than be overloaded with images. The focus groups I used all commented on how nice the website looked, however almost all of them just scrolled straight through the gallery page without taking notice of the images within it. Only 8 out of the 25 individuals that tested the website realised that when you hover or click on an image in the gallery it shows where the image was taken.</li>
+    <li>A hamburger menu for smaller media screen sizes - this would save space at the top of the screen and allow for easier navigation of the website by removing the need for small text in the nav bar. There could also be the option of having an extending menu for different pages e.g. at the moment there are 5 pages in the nav bar, there is the potential for an extending list below 'Types' with another 9 navigation links: one for each type of holiday, and an extending list below 'Islands' with another 8 navigation links: one for each destination.</li>
+    <li>A way for customers to select the destination and type of holiday in the islands.html and types.html pages, and for this to update the form in contact.html with relevant information - I wouldn't know where to begin with this feature on the website, but it would make the website more intuitive and save the customer time when they come to fill out the contact form.</li>
+    <li>A portal for affiliated companies - This would enable the companies to log in to as a way to discuss partnership terms and alter contracts if needed</li>
 </ul>
+<br>
+<a href="#Contents">Back to the top.</a>

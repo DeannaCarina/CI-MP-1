@@ -90,7 +90,7 @@ The theory of potential target audiences are as follows:
     <li>Be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company</li>
     <li>Browse the website and get information from the company without an obligation to book a holiday</li>
     <li>Have easy navigation to external sources to further knowledge of different locations to aid in decision making</li>
-    <li>Have an online booking form to be able to book my holiday with <em>Travel Caribbean></em></li>
+    <li>Have an online booking form to be able to book my holiday with <em>Travel Caribbean</em></li>
     <li>To be able to log in to the website and alter my booking if necessary</li>
 </ol>
 
