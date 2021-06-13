@@ -126,12 +126,12 @@ The theory of potential target audiences are as follows:
 
 #### What's in and what's out?
 <table>
-    <th>
-        <td>Opportunity/Feature</td>
-        <td>Feasibility/Viability (score out of 5)</td>
-        <td>Level of Importance (score out of 5)</td>
-        <td>In or out?</td>
-    </th>
+    <tr>
+        <th>Opportunity/Feature</th>
+        <th>Feasibility/Viability (score out of 5)</th>
+        <th>Level of Importance (score out of 5)</th>
+        <th>In or out?</th>
+    </tr>
     <tr>
         <td>Obvious role of the website demonstrated with hero image/video and capture text</td>
         <td>5</td>
