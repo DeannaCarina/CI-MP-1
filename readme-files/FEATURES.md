@@ -108,5 +108,26 @@ The main features to be implemented in the website were determined in the Strate
 
 
 <h2 id="implemented">Implemented Features</h2>
+From the table above, I was able to recognise which features were more likely to have a positive impace on the website and implement those.
+<ul>
+    <li>Obvious role of the website demonstrated with hero image/video and capture text - I have tried to make the landing page (catering for all screen sizes) as obvious as possible to identify the role and purpose of the website. The background video itself shows a woman walking through very shallow water with white sand below while carrying a sun hat; this identifies to the customer that the website is likely to be about somewhere tropical and warm. The cover text over the video "The new way to plan your Caribbean getway" further identifies to the customer the role of the website - this is where you can plan your holiday and decide where you'd like to go and what you'd like to do.</li>
+    <li>Simple design with straightforward navigation to make it easier for the user to understand where to find information - The website has a simple design throughout, with each page having it's own title and each page having separate sections. The font and colours throughout are all the same adding continuity and familiarity to the website - improving user experience. These elements were all styled using CSS with psuedo classes for hover actions to enable the customer to visualise a transitioning style. These first two features meet aim <strong>11</strong> identified in the Strategy section of UX.</li>
+    <li>Past customer testimonies to show the company is genuine and trustworthy - this was a very straightforward feature to implement. As my family and I are frequent travellers to the Caribbean, we were able to write the reviews from our own perspectives based on the types of holiday that we have had and where we have travelled to. As the customer base increases, and the number of reviews increases, these reviews can be updated or a separate page implemented on the website specifically for customer testimonies. This feature meets aims <strong>6, 7 and 8</strong> identified in the Strategy section of UX.</li>
+    <li>A downloadable brochure for customers to view at their leisure - this is accessible via the contact page. This was a fairly easy feature to quickly design (using Publisher) and implement. It adds a lot of content for the customer and allows them to see the potential of using the services of the company. This feature meets aims <strong>2, 6, 7, 8 and 12</strong> identified in the Strategy section of UX.</li>
+    <li>An easy to find and intuitive contact form for customers to be able to discuss their holiday wants and needs with the company - Following the lessons provided by Code Institute in the HTML essentials module, the form was a straightforward feature to implement. It allows the customer to contact the company and alerts the company to potential customers and potential future income. This feature meets aims <strong>2, 3 and 10</strong> identified in the Strategy section of UX.</li>
+    <li>High levels of up-to-date information on the different places customers can go on their holiday and different types of holiday they can have - It was important for the function of the website to provide customers with information regarding potential holiday locations and holiday types so they are able to make informed decisions around their holiday. This feature meets aims <strong>6, 7, 8, 9 and 11</strong> identified in the Strategy section of UX.</li>
+    <li>Footer on all pages containing social media links for customers to view further information and more customer testimonies - Following the lessons provided by Code Institute in the Love Running Milestone Project, I was easily able to implement this feature ion all pages of the website. If the company was 'real' the social media links would navigate the customer to the relevant social media platform company page. This would enable the customer to see more information about the company, more reviews and contact the company in whichever way they prefer. This feature meets aims <strong>3, 4, 5, 6, 7, 8, 9 and 11</strong> identified in the Strategy section of UX.</li>
+    
+    
+    <li>A highly visually interactive website to show the customer what they are able to experience from a Caribbean holiday</li>
+    
+    
+    <li>A database of external companies affiliated with <em>Travel Caribbean</em> to make it easier for customers to plan excursions and experiences</li>
+    
+    
+    <li>A Fully accessible website able to be experienced by customers with visual imparement</li>
+
+
+</ul>
 
 <h2 id="features-left">Features Left to Implement</h2>
