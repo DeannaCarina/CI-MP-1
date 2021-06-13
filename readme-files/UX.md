@@ -90,6 +90,8 @@ The theory of potential target audiences are as follows:
     <li>Be assured that the locations and excursions advertised by the website are rated and reviewed by customers not affiliated to the company</li>
     <li>Browse the website and get information from the company without an obligation to book a holiday</li>
     <li>Have easy navigation to external sources to further knowledge of different locations to aid in decision making</li>
+    <li>Have an online booking form to be able to book my holiday with <em>Travel Caribbean></em></li>
+    <li>To be able to log in to the website and alter my booking if necessary</li>
 </ol>
 
 #### Business Operator
@@ -121,6 +123,88 @@ The theory of potential target audiences are as follows:
     <li>Have any advertising via <em>Travel Caribbean</em> to be positive and promotional</li>
     <li>Have a fast and easy way for customers to be able to navigate to my own company's website via <em>Travel Caribbean</em></li>
 </ol>
+
+#### What's in and what's out?
+<table>
+    <th>
+        <td>Opportunity/Feature</td>
+        <td>Feasibility/Viability (score out of 5)</td>
+        <td>Level of Importance (score out of 5)</td>
+        <td>In or out?</td>
+    </th>
+    <tr>
+        <td>Obvious role of the website demonstrated with hero image/video and capture text</td>
+        <td>5</td>
+        <td>5</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>Simple design with straightforward navigation to make it easier for the user to understand where to find information</td>
+        <td>4</td>
+        <td>5</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>Past customer testimonies to show the company is genuine and trustworthy</td>
+        <td>5</td>
+        <td>4</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>A downloadable brochure for customers to view at their leisure</td>
+        <td>4</td>
+        <td>4</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>An easy to find and intuitive contact form for customers to be able to discuss their holiday wants and needs with the company</td>
+        <td>4</td>
+        <td>5</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>High levels of up-to-date information on the different places customers can go on their holiday and different types of holiday they can have</td>
+        <td>4</td>
+        <td>3</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>Footer on all pages containing social media links for customers to view further information and more customer testimonies</td>
+        <td>5</td>
+        <td>3</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>A highly visually interactive website to show the customer what they are able to experience from a Caribbean holiday</td>
+        <td>5</td>
+        <td>4</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>A database of external companies affiliated with <em>Travel Caribbean</em> to make it easier for customers to plan excursions and experiences</td>
+        <td>4</td>
+        <td>3</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>A database of clients and customers from past holidays and a database of clients and customers of potential interest</td>
+        <td>2</td>
+        <td>4</td>
+        <td>Out</td>
+    </tr>
+    <tr>
+        <td>A Fully accessible website able to be experienced by customers with visual imparement</td>
+        <td>4</td>
+        <td>5</td>
+        <td>In</td>
+    </tr>
+    <tr>
+        <td>A booking form for customers to be able to book their holiday with a login option to manage their booking</td>
+        <td>0</td>
+        <td>2</td>
+        <td>Out</td>
+    </tr>
+</table>
 <a href="#Contents">Back to the top.</a>
 
 # Scope
@@ -149,7 +233,7 @@ While following the MMP model, to meet the user and business goals, my website w
 <a href="#Contents">Back to the top.</a>
 
 ## Structure
-This website consists of multiple pages. By having multiple page we can separate large amounts of information into logical sections to make it easier for the user to find what they are looking for. The navigation bar at the top of all of the pages allows the user to easily navigate to the page of the website they are most interested in. There are also certain pages (islands.html and types.html) that have their own internal navigation sections due to these pages being split into logical sections for different islands and different types; these internal page navigation areas mean that the user can be even more specific about what they would like and find it easily.<br><br>
+I have chosen to carry out a non-linear method of design for this website as it consists of multiple pages which might not necessarily be viewed in a particular order as each page has a different role to play. By having multiple page we can separate large amounts of information into logical sections to make it easier for the user to find what they are looking for. The navigation bar at the top of all of the pages allows the user to easily navigate to the page of the website they are most interested in. There are also certain pages (islands.html and types.html) that have their own internal navigation sections due to these pages being split into logical sections for different islands and different types; these internal page navigation areas mean that the user can be even more specific about what they would like and find it easily.<br><br>
 <strong>On index.html</strong>: I chose for the 'hero video' to be at the top, the next section to be text to capture the user and to further explain the function of the website, the next section to explain the steps the customer should take in choosing their holiday - this section is very straightforward and minimal to allow for intuitive browsing, the next section to be holiday types - just the types, no extra information, then the review section and finally a link to the contact form and brochure. This is the layout that I found to be most logical; as the user moves down the page they are slowly given the information they need in order to organise a holiday to the Caribbean with the company - this avoids information overload and increases the chance of the customer staying on the website. Some of the sections in index.html also have links within them to be able to navigate to other pages on the site to allow for intuitive browsing - whenever this is available to the user, the destination of the link always has a back button just in case the user wants to go back to where they were before e.g. the user clicks on the 'Beach' type button on in the index page which will take them to the Beach section of types.html, however they may want to go back to the index page to the area they were at previously - the back button provided will take them there. I wanted these sections on the home page to be the most important to the user as they have key information within them.<br><br>
 <strong>On islands.html</strong>: I chose to have an iframe at the top from Google Maps, to allow the customer the opportunity to do some exploring of the area themselves should they wish. Under the iframe there is an internal nav area, each link representing a different island or island group. These are mainly organised geographically from the islands at the top of the caribbean moving round in a clockwise fashion ending with the ABC islands. Organising by geographical location made most sense to me, and would make it easier to find particular islands on the iframe map. Within each of the sections I have included a back-to-top button, as the page has a lot of information, I didn't want the user to be constantly scrolling up and down the page to see what other island options there are by viewing the nav-bar.<br><br>
 <strong>On types.html</strong>: I chose to have the same types section from the home page as the internal nav bar, this provides continuity and familiarity for the user. Underneath the nav bar there are nine sections, each representing a type of holiday the customer could have. These don't have a particular order, however I have tried to arrange them as possible popularity - these can easily be moved around and re-ordered as necessary in the future. Within each of the sections I have included a back-to-top button, as the page has a lot of information, I didn't want the user to be constantly scrolling up and down the page to see what other types of holiday there are by viewing the nav-bar.<br><br>
