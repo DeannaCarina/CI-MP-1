@@ -10,7 +10,7 @@
 <hr>
 
 # Features
-The main features to be implemented in the website were determined in the Strategy plane of the UX section. Below is the table as a summary of the user storiesl which user stories we are able to implement and which we are not (due to time contraints and developer knowledge limitations).
+The main features to be implemented in the website were determined in the Strategy plane of the UX section. Below is the table as a summary of which user stories we are able to implement and which we are not (due to time contraints and developer knowledge limitations) this can also be found <a href="UX.md#Strategy"><strong>HERE</strong></a>.
 
 <table style="font-size: small;">
     <tr>
