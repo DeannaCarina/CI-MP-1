@@ -122,3 +122,13 @@ From the table above, I was able to recognise which features were more likely to
 </ul>
 
 <h2 id="features-left">Features Left to Implement</h2>
+Due to time constraints and limitations of coding knowledges I have chosen not to try and implement the following features to the website:<br>
+<ul>
+    <li>A database of clients and customers from past holidays and a database of clients and customers of potential interest</li>
+    <li>A booking form for customers to be able to book their holiday with options for hotels, excursions and flights</li>
+    <li>A login option for customers to manage and edit their holiday booking</li>
+    <li>An interactive 'google-map-style' map for customers to click on which will direct them to the specific location and information</li>
+    <li>A carousel-type gallery so customers can focus on one image at a time rather than be overloaded with images</li>
+    <li>A hamburger menu for smaller media screen sizes</li>
+    <li>A way for customers to select the destination and type of holiday in the islands.html and types.html pages, and for this to update the form in contact.html with relevant information</li>
+</ul>
