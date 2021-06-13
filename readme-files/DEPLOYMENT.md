@@ -28,6 +28,7 @@ This project was created on GitHub and Edited in GitPod by carrying out the foll
             <li>git push - to push all committed shanges to the GitHub repo associated with the GitPod workspace</li>
             <li>commit --amend - I am prone to typing errors, this command came in very handy for changing the wording or spelling of the most recent commit</li>
             <li>git reset "commit hash" - I only used this a couple of times when I decided to take certain sections in a different directions e.g. resize all images to a certain size, commit and push, but then decide I want them to be bigger/smaller.</li>
+            <li>git push -f - This was used to force changes through to the GitHub repo if either "commit --amend" or "git reset" were used</li>
         </ul>
     </li>
 </ol>
@@ -45,6 +46,18 @@ This project was deployed via GitHub pages by carrying out the following:
 *It can take some time for the site to be deployed when the 'save' button is pressed and a URL created.
 <br>
 <h2 id="LD">Local Deployment</h2>
+There are many ways to deploy the project locally on your own device. The ways I will explain here are: Forking, Cloning, GitHub Desktop and Zip Exctraction, the steps in these processes are outlines below:
+
+#### Forking the GitHub repo
+If you want to make changes to the repo without affecting it, you can make a copy of it by 'Forking' it. This will make sure that the original repo remains unchanged.
+<ol>
+    <li>Log in to your GitHub account</li>
+    <li>Navigate to the repository <a href="https://github.com/DeannaCarina/travelcaribbean"><strong>HERE</strong></a></li>
+    <li>Select the 'Fork' button in the top right corner of the page (under your account image)</li>
+    <li>The repo has now been copied into your own repos and you can work on it in your chosen IDE</li>
+    <li>If you have any suggestions to make regards to the code to make the site better, you can put in a pull request</li>
+</ol>
+<br>
 
 #### Cloning the repo with GitPod
 <ol>
@@ -57,3 +70,27 @@ This project was deployed via GitHub pages by carrying out the following:
     <li>Press enter - the IDE will clone and download the repo</li>
     <li>You can then type 'python3 -m http.server' to host the website locally</li>
 </ol>
+<br>
+
+#### Github Desktop
+<ol>
+    <li>Log in to your GitHub account</li>
+    <li>Navigate to the Repository <a href="https://github.com/DeannaCarina/travelcaribbean"><strong>HERE</strong></a></li>
+    <li>Select the 'Code' button above the file list on the right had side</li>
+    <li>Select 'Open with GitHub Desktop'</li>
+    <li>If you haven't already installed GiHub desktop application - you will need to follow the relevant steps to do this</li>
+    <li>The repo will then be copied locally onto your machine</li>
+</ol>
+<br>
+
+#### Download and extract the zip directly from GitHub
+<ol>
+    <li>Log in to your GitHub account</li>
+    <li>Navigate to the Repository <a href="https://github.com/DeannaCarina/travelcaribbean"><strong>HERE</strong></a></li>
+    <li>Select the 'Code' button above the file list on the right had side</li>
+    <li>Select 'Download Zip'</li>
+    <li>Once you have the Zip downloaded, open it with your prefered file decompression software</li>
+    <li>You can then drag and drop the files from the folder into your chosen IDE or view/edit them on your local machine</li>
+</ol>
+<br>
+<a href="#Contents">Back to the top.</a>
