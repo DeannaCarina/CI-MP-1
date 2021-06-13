@@ -103,14 +103,102 @@ h5{
 
 @media screen and (max-width: 1700px){
     .readme-section{
-        width: 100%;
-        margin-left: 0px;
+        width: 65%;
+        margin: auto;
+    }
+    .readme-div{
+        width: 85%;
     }
     #readme-menu li{
         background-color: whitesmoke;
     }    
 }
-@media screen and (max-width: 1100px){
+@media screen and (max-width: 1260px){
+    .readme-section{
+        width: 55%;
+    }
+    .readme-div{
+        width: 70%;
+    }
+}
+@media screen and (max-width: 840px){
+    .readme-section{
+        width: 90%;
+    }
+    .readme-div{
+        width: 70%;
+    }
+    #readme-menu li{
+        height: 30px;
+        line-height: 30px;
+        width: 80px;
+        font-size: smaller;
+    }
+    #readme-menu{
+        top: 20px;
+    }
+    #readme-logo{
+        padding-right: 120px;
+        padding-left: 120px;
+        line-height: 60px;
+    }
+    #readme-header{
+        margin-bottom: 45px;
+    }
+}
+@media screen and (max-width: 700px){
+    #readme-menu li{
+        margin: -1px;
+        height: 18px;
+        line-height: 20px;
+        width: 90px;
+    }
+    #readme-menu{
+        top: 0px;
+        margin-top: 0px;
+        padding-left: 1px;
+        columns: 3;
+        column-width: 90px;
+        width: 100%;        
+    }
+    #readme-header{
+        margin-top: 120px;
+    }
+    .readme-section{
+        margin: 0 auto;
+    }
+    .readme-div{
+        text-align: left;
+    }
+}
+@media screen and (max-width: 645px){
+    #readme-header{
+        margin-bottom: 105px;
+    }
+    .readme-div{
+        padding: 15px;
+        width: 85%;
+    }
+    .readme-section{
+        width: 95%;
+    }
+    img{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 500px){
+    #readme-logo{
+        padding-right: 30px;
+        padding-left: 30px;
+        line-height: 60px;
+    }
+}
+@media screen and (max-width: 460px){
+    table, th, td, tr{
+        font-size: smaller;
+    }
+}
+/* @media screen and (max-width: 1100px){
     .readme-div{
         width: 80%;
         padding-right: 20px;
@@ -143,4 +231,4 @@ h5{
     td, th{
         font-size: small;
     }
-}    
+}     */
