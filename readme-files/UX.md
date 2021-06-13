@@ -213,7 +213,12 @@ The theory of potential target audiences are as follows:
 </table>
 
 As we can see from the table above, the viability is higher than the importance, which is good because that means most of the features are able to be implemented, however we must be careful not to implemnt features that would be unneccessary for the website and cause potential confusion for the customer. I must also be careful to stay within the scope of my own coding limitations - implementing features that I have no knowledge or experience of could cause a high liklihood of bugs and errors in the website which would in turn reduce the potential of a positive user experience.<br>
-I have plotted the table above into a graph to easily visualise the features that will be implemented into the website and which ones won't be:<br><br>
+I have plotted the table above into a graph to easily visualise the features that will be implemented into the website and which ones won't be:
+<ul>
+    <li>The features in the pink section will be implemented</li>
+    <li>The features in the grey section could be implemented at a later date but aren't necessary right now</li>
+    <li>The features in the turquoise section will not be implemented as it would be unwise to focus on these features until a later date</li>
+</ul><br>
 <img src="../assets/images-readme/user-stories/graph.png" alt="Graph depicting the features that will be included in the website" width="80%"><br>
 <img src="../assets/images-readme/user-stories/graph-key.png" alt="Key to show which circles on the graph represent which feature" width="50%"><br><br>
 <a href="#Contents">Back to the top.</a>
