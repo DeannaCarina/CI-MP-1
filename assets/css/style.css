@@ -845,6 +845,9 @@ a{
     margin: 0 auto;
     margin-top: 30px;
 }
+#contact-brochure-button:hover{
+    background-color: rgb(136, 160, 172);
+}
 /*Footer of all site pages---------------------------------------------------------------------------------------------------------------------------------*/
 footer{
     height: auto;
