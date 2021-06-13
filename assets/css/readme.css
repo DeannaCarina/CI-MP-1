@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Satisfy&display=swap');
+/*Applied to whole site*/
+body{
+    font-family: Lato, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+h1, h2, h3, h4, h5{
+    font-family: "Satisfy", sans-serif;
+    margin: 0;
+}
+h3{
+    font-size: 175%;
+}
+h4{
+    font-size: 150%;
+}
+h5{
+    font-size: 130%;
+}
+#readme-header{
+    width: 100%;
+    height: 65px;
+    margin-top: 50px;
+    text-align: center;
+}
+#readme-logo{
+    font-size: 400%;
+}
+.readme-section{
+    width: 80%;
+    background-color: rgb(187, 187, 187);
+    height: auto;
+    text-align: center;
+    margin-left: 10%;
+    padding-top: 40px;
+}
+.readme-section h2{
+    font-size: 200%;
+}
+.readme-div{
+    background-color: whitesmoke;
+    width: 60%;
+    height: auto;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 0 auto;
+    text-align: justify;
+}
+#readme-menu{
+    width: 100%;
+    padding-top: 0px;
+    position: fixed;
+}
+#readme-menu li{
+    border: 1px solid black;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    list-style-type: none;
+}
+#readme-menu a{
+    color: rgb(58, 58, 58);
+}
+#readme-menu li:hover{
+    background-color: rgb(60, 152, 175);
+    box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
+}
+#features-table{
+    border: 1px solid black;
+    text-align: center;
+}
+#features-table th{
+    border: 1px solid black;
+}
+#features-table td{
+    border: 1px solid black;
+}
+#graph{
+    box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
+    border: transparent;
+    margin-bottom: 20px;
+}
+#testing-table{
+    text-align: left;
+    border: 1px solid black;
+}
+#testing-table th{
+    border: 1px solid black;
+}
+#testing-table td{
+    border: 1px solid black;
+}
+#references-div{
+    text-align: left;
+}
+#references-section{
+    padding-bottom: 50px;
+}
+
+@media screen and (max-width: 1700px){
+    .readme-section{
+        width: 100%;
+        margin-left: 0px;
+    }
+    #readme-menu li{
+        background-color: whitesmoke;
+    }    
+}
+@media screen and (max-width: 1100px){
+    .readme-div{
+        width: 80%;
+        padding-right: 20px;
+    }
+    #readme-menu li{
+        float: left;
+        width: 90px;
+        margin: auto auto;
+        font-size: small;
+    }    
+    #readme-menu{
+        position: absolute;
+        top: 0;
+        position: fixed;
+    }
+    #readme-logo{
+        margin-top: 80px;
+    }
+}
+@media screen and (max-width: 630px){
+    img{
+        width: 90%;
+    }
+    .readme-div{
+        padding: 10px;
+        width: 90%;
+    }
+}    
+@media screen and (max-width: 400px){
+    td, th{
+        font-size: small;
+    }
+}    
