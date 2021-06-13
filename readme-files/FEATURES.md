@@ -5,11 +5,18 @@
 ## Contents
 <ul>
     <li>
-    </li>    
+        <a href="#decisions">Deciding what to Implement</a>
+    </li>   
+    <li>
+        <a href="#implemented">Implemented Features</a>
+    </li> 
+    <li>
+        <a href="#features-left">Features Left to Implement</a>
+    </li> 
 </ul>
 <hr>
 
-# Features
+<h2 id="decisions">Deciding what to Implement</h2>
 The main features to be implemented in the website were determined in the Strategy plane of the UX section. Below is the table as a summary of which user stories we are able to implement and which we are not (due to time contraints and developer knowledge limitations) this can also be found <a href="UX.md#Strategy"><strong>HERE</strong></a>.
 
 <table style="font-size: small;">
@@ -99,3 +106,7 @@ The main features to be implemented in the website were determined in the Strate
     </tr>
 </table>
 
+
+<h2 id="implemented">Implemented Features</h2>
+
+<h2 id="features-left">Features Left to Implement</h2>
