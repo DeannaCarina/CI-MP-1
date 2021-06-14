@@ -73,7 +73,7 @@ a{
     overflow: hidden;
     position: relative;
 }
-#index-top-bar-div{
+/* #index-top-bar-div{
     background-color: rgba(85, 84, 84, 0.514);
     box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
 }
@@ -88,7 +88,7 @@ a{
 } 
 .sub-pages-top-bar > h6{
     display: none;
-}    
+}     */
 #index-cover-text-div{
     color:  rgba(235, 235, 235, 0.9);
     text-shadow: 3px 3px rgb(102, 102, 102);
@@ -689,6 +689,12 @@ a{
     padding-left: 50px;
     height: 175px;
     background-color: rgb(45, 82, 97);
+    }
+#index-page-header {
+    padding-top: 25px;
+    padding-left: 50px;
+    height: 175px;
+    background-color: rgba(63, 63, 63, 0.384);
     }
 .logo {
     margin: 0 30px 0 10px;
@@ -1315,7 +1321,7 @@ footer a:hover{
     .logo{
         font-size: 300%;
     }
-    #sub-page-header{
+    #sub-page-header, #index-page-header{
         height: 130px;
     }
 }    
@@ -1613,7 +1619,7 @@ footer a:hover{
     }
 }
 @media screen and (max-width: 552px){
-    #sub-page-header{
+    #sub-page-header, #index-page-header{
         height: 70px;
         padding-left: 10px;
     }
@@ -1919,7 +1925,7 @@ footer a:hover{
     }
 }    
 @media screen and (max-width: 397px){
-    #sub-page-header{
+    #sub-page-header, #index-page-header{
         height: 50px;
     }
     .logo{
