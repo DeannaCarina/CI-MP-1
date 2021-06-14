@@ -157,9 +157,10 @@ h5{
         top: 0px;
         margin-top: 0px;
         padding-left: 1px;
-        columns: 3;
+        columns: 5;
         column-width: 90px;
-        width: 100%;        
+        width: 100%;       
+        background-color: rgb(148, 148, 148); 
     }
     #readme-header{
         margin-top: 120px;
