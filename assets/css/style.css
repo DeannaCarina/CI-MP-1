@@ -785,6 +785,9 @@ a{
   z-index: 1000;
 }
 /* --------------------------------End of credit-------------------------------------------------- */
+.list-active{
+    background-color: rgb(80, 80, 80);
+}
 #big-screen-nav{
     width: 100%;
     text-align: left;
