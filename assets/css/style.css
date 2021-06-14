@@ -255,7 +255,6 @@ a{
 #index-steps-div{
     height: 400px;
     width: 90%;
-    /* background-color: rgba(255, 105, 180, 0.582); */
     margin: 0 auto;
     padding-bottom: 30px;
     padding-top: 40px;
@@ -267,7 +266,7 @@ a{
     margin: auto;
     background-color: rgba(58, 57, 57, 0.514);
     box-shadow: 0 40px 50px 0 rgba(230, 230, 230, 0.6), 0 10px 50px 0 rgba(0,0,0,0.7);
-    border: 5px solid rgb(226, 225, 225);
+    border: 2px solid rgb(226, 225, 225);
     border-style: ridge;
     border-radius: 20px;
     color: white;
@@ -303,7 +302,7 @@ a{
     border-radius: 50%;
     line-height: 120px;
     color: whitesmoke;
-    border: 5px solid rgb(226, 225, 225);
+    border: 2px solid rgb(226, 225, 225);
     border-style: ridge;
 }
 .index-steps-row-1-child:hover{
@@ -319,7 +318,7 @@ a{
     margin: 10px;
     background-color: rgba(255, 255, 255, 0.541);
     border-radius: 20px;
-    border: 5px solid rgb(226, 225, 225);
+    border: 2px solid rgb(226, 225, 225);
     border-style: ridge;
 }
 .index-steps-row-3{
@@ -334,7 +333,7 @@ a{
     margin: auto;
     border-radius: 50%;
     line-height: 70px;
-    border: 5px solid rgb(226, 225, 225);
+    border: 2px solid rgb(226, 225, 225);
     border-style: ridge;
     font-size: 200%;
 }
