@@ -357,9 +357,6 @@ a{
     line-height: 70px;
 }
 /*In maps.html----------------------------------------------------------------------------------------------------------------------------------------------------*/
-#islands-header-container{
-    height: auto;
-}   
 #islands-iframe{
     height: 500px;
     width: 100%;
@@ -1341,12 +1338,18 @@ footer a:hover{
 @media screen and (max-width: 821px){
     .hov-map{
         border-bottom: 0px solid transparent;
-        border-radius: 20px;
-        margin: 2px;
+        border-radius: 10px;
+        margin: 0px;
+        padding-top: 0px;
         border: 2px solid whitesmoke;
+        height: 35px;
+        width: 60px;
+        line-height: 11px;
+        font-size: 0.6em;
     }
     #islands-internal-nav-bar{
-        height: 253px;
+        height: 70px;
+        line-height: 80px;
     }
     #islands-iframe{
         height: 300px;
@@ -1635,6 +1638,16 @@ footer a:hover{
         pointer-events: none;
         }
 }    
+@media screen and (max-width: 533px){
+    #islands-internal-nav-bar{
+        height: 90px;
+        line-height: 30px;
+        padding-top: 10px;
+    }
+    #islands-iframe{
+        height: 300px;
+    }
+}  
 @media screen and (max-width: 518px){
     #index-capture-text-section{
         font-size: 100%;
@@ -1662,10 +1675,6 @@ footer a:hover{
         margin: 30px auto;
         font-size: 125%;
         line-height: 40px;
-    }
-    #islands-internal-nav-bar{
-        height: 250px;
-        line-height: 55px;
     }
     #thanks-button{
         width: 150px;
@@ -1739,11 +1748,6 @@ footer a:hover{
         height: 50px;
     }
 }
-@media screen and (max-width: 441px){
-    #islands-internal-nav-bar{
-        height: 383px;
-    }
-}  
 @media screen and (max-width: 423px){
     #index-steps-div{
         height: 500px
@@ -1964,11 +1968,6 @@ footer a:hover{
         padding-left: 30px;
     }
 }
-@media screen and (max-width: 330px){
-    #islands-internal-nav-bar{
-        height: 510px;
-    }
-}
 @media screen and (max-width: 327px){
     #index-reviews-section{
         height: 2400px;
@@ -2074,12 +2073,6 @@ footer a:hover{
         width: 150px;
         height: 65px;
         line-height: 20px;
-    }
-}
-@media screen and (max-width: 231px){
-    #islands-internal-nav-bar{
-        height: 500px;
-        line-height: 55px;
     }
 }
 @media screen and (max-width: 218px){
