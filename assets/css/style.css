@@ -1582,7 +1582,7 @@ footer a:hover{
         font-size: 90%;
     }
 }
-@media screen and (max-width: 552px){
+@media screen and (max-width: 562px){
     #sub-page-header, #index-page-header{
         height: 70px;
         padding-left: 10px;
