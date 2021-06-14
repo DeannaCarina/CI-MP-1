@@ -12,33 +12,42 @@
     <title>Travel Caribbean</title>
 </head>
 <body>
-    <header id="islands-header-container">
-        <section class="sub-pages-top-bar">
-            <h6>Islands Page</h6>
-            <nav>
-                <ul id="menu">
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="islands.html" class="active">Islands</a>
-                    </li>
-                    <li>
-                        <a href="types.html">Types</a>
-                    </li>
-                    <li>
-                        <a href="gallery.html">Gallery</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact Us</a>
-                    </li>
-                </ul>
-            </nav>
-            <img src="assets/logos/homemade.png" alt="Travel Caribbean Logo" id="logo-image"><h1 id="index-logo">Travel Caribbean</h1>
-        </section>
+    <header id="sub-page-header">
+        <!-- -------------------------------------Credit to Mark Caron - see readme------------------------------------------ -->
+        <nav id="main-menu" class="main-menu" aria-label="Main menu">
+            <a href="#main-menu-toggle" id="main-menu-close" class="menu-close" aria-label="Close main menu">
+              <span class="sr-only">Close main menu</span>
+              <span class="fa fa-close" aria-hidden="true"></span>
+            </a>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="islands.html">Islands</a></li>
+              <li><a href="types.html">Types</a></li>
+              <li class="list-active"><a href="gallery.html">Gallery</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+        <a href="#main-menu-toggle"
+            class="backdrop"
+            tabindex="-1"
+            aria-hidden="true" hidden>
+        </a>
+        <a href="#main-menu" id="main-menu-toggle" class="menu-toggle" aria-label="Open main menu">
+            <span class="fa fa-bars" aria-hidden="true"></span>
+        </a>
+        <!-- -------------------------End of credit------------------------- -->
+        <span class="logo">Travel Caribbean</span>      
+        <img src="assets/logos/homemade.png" alt="Travel Caribbean Logo" id="logo-homemade">  
+        <nav id="big-screen-nav">
+            <a href="index.html"><span>Home</span></a>
+            <a href="islands.html"><span>Islands</span></a>
+            <a href="types.html"><span>Types</span></a>
+            <a href="gallery.html" class="active"><span>Gallery</span></a>
+            <a href="contact.html"><span>Contact Us</span></a>
+        </nav> 
+    </header>
         <iframe id="islands-iframe" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d9965431.835803904!2d-72.95229533045138!3d18.178775546861694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2suk!4v1622051994057!5m2!1sen!2suk" title="Map of Caribbean from Google Maps">
         </iframe>
-    </header>
     <div id="islands-internal-nav-bar">
         <a href="#map-link-1">
             <div class="hov-map">

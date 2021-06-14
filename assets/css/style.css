@@ -1348,6 +1348,9 @@ footer a:hover{
     #islands-internal-nav-bar{
         height: 253px;
     }
+    #islands-iframe{
+        height: 300px;
+    }
 }    
 @media screen and (max-width: 801px){
     #index-reviews-section{
