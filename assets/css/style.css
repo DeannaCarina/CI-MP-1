@@ -687,6 +687,118 @@ a{
     margin: 40px;
 }
 /*In gallery.html-------------------------------------------------------------------------------------------------------------------------------------*/
+#sub-page-header {
+    padding-top: 25px;
+    padding-left: 50px;
+    height: 175px;
+    background-color: rgb(45, 82, 97);
+    }
+.logo {
+    margin: 0 30px 0 10px;
+    font-size: 500%;
+    color: white;
+    text-shadow: 8px 8px rgba(70, 70, 70, 0.46);
+    font-family: 'Satisfy';
+    font-weight: 600;
+    }
+.fa-bars{
+    font-size: 200%;
+    color: white;
+    }
+.fa-bars:hover{
+    color: rgb(0, 0, 0);
+    }
+#main-menu-toggle{
+    display: none;
+    pointer-events: none;
+}    
+#logo-homemade{
+    height: 160px;
+    float: right;
+    margin-right: 20px;
+    }
+/* ------------------------Credit to Mark Caron - See Readme----------------------------------- */
+.menu-toggle {
+    display: inline-block;
+    padding: 15px;
+    }
+.main-menu {
+    position: absolute;
+    display: none;
+    left: -200px;
+    top: 0;
+    height: 240px;
+    transition: left 0.3s ease,
+          box-shadow 0.3s ease;
+    z-index: 999;
+    
+    }
+.main-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 2.5em 0 0;
+    height: 240px;
+    width: 200px;
+    background: #1a1a1a;
+    }
+.main-menu a {
+    display: block;
+    padding: .75em 15px;
+    line-height: 1em;
+    font-size: 1em;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid #383838;
+    }
+.small-link{
+    font-size: 0.7em;
+}    
+.main-menu li:first-child a {
+    border-top: 1px solid #383838;
+    }
+.main-menu a:hover, .main-menu a:focus {
+    background: #333;
+    text-decoration: underline;
+    }
+.main-menu .menu-close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    }
+
+/* Inside the pop-out menu --------------------------------- */
+.main-menu:target,
+.main-menu[aria-expanded="true"] {
+  display: block;
+  left: 0;
+  outline: none;
+}
+
+.main-menu:target .menu-close,
+.main-menu[aria-expanded="true"] .menu-close {
+  z-index: 1001;
+}
+
+.main-menu:target ul,
+.main-menu[aria-expanded="true"] ul {
+  position: relative;
+  z-index: 1000;
+}
+/* --------------------------------End of credit-------------------------------------------------- */
+#big-screen-nav{
+    width: 100%;
+    text-align: left;
+    height: 50px;
+    line-height: 50px;
+}
+#big-screen-nav a{
+    padding: 5px;
+    color: white;
+}
+#big-screen-nav a:hover{
+    color: rgb(45, 82, 97);
+    background-color: white;
+}
 #gallery-photos-section{
     clear: both;
     line-height: 0;
@@ -1195,6 +1307,17 @@ footer a:hover{
     #index-reviews-section{
         height: 1450px;
     }
+}  
+@media screen and (max-width: 870px){  
+    #logo-homemade{
+        height: 90px;
+    }
+    .logo{
+        font-size: 300%;
+    }
+    #sub-page-header{
+        height: 130px;
+    }
 }    
 @media screen and (max-width: 860px){
     #index-cover-text-div{
@@ -1480,6 +1603,32 @@ footer a:hover{
         font-size: 90%;
     }
 }
+@media screen and (max-width: 552px){
+    #sub-page-header{
+        height: 70px;
+        padding-left: 10px;
+    }
+    .fa-bars{
+        font-size: 100%;
+        margin: 0px;
+    }
+    .logo{
+        font-size: 200%;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    #logo-homemade{
+        height: 50px;
+    }
+    #main-menu-toggle{
+        display: unset;
+        pointer-events: all;
+    }
+    #big-screen-nav{
+        display: none;
+        pointer-events: none;
+        }
+}    
 @media screen and (max-width: 518px){
     #index-capture-text-section{
         font-size: 100%;
@@ -1759,6 +1908,17 @@ footer a:hover{
         width: 200px;
     }
 }    
+@media screen and (max-width: 397px){
+    #sub-page-header{
+        height: 50px;
+    }
+    .logo{
+        font-size: 150%;
+    }
+    #logo-homemade{
+        height: 30px;
+    }
+}   
 @media screen and (max-width: 386px){
     #index-capture-text-section{            
         height: 280px;
@@ -1842,6 +2002,9 @@ footer a:hover{
 @media screen and (max-width: 319px){
     #index-capture-text-section{
         height: 380px;
+    }
+    #logo-homemade{
+        display: none;
     }
 }
 @media screen and (max-width: 312px){
