@@ -1923,6 +1923,11 @@ footer a:hover{
         margin-right: 10px;
     }
 } 
+@media screen and (max-width: 366px){
+    #index-types-div{
+        height: 810px;
+    }
+}    
 @media screen and (max-width: 360px){
     #index-capture-text-section{
         height: 320px;
