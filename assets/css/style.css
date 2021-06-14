@@ -1370,6 +1370,14 @@ footer a:hover{
     .form-white-text{
         color: black;
     }
+    #contact-brochure-top-page{
+        width: 200px;
+        height: 290px;
+        transform: rotate(0deg);
+    }
+    #contact-brochure-button{
+        margin-top: 10px;
+    }
 } 
 @media screen and (max-width: 735px){
     #index-reviews-section{
