@@ -182,7 +182,7 @@ a{
     position: relative;
     margin: 250px auto;
 }
-/*In block 2 (Website capture text) of index.html*/
+/*Website capture text of index.html*/
 #index-capture-text-section{
     height: 220px;
     background-color: whitesmoke;
@@ -190,52 +190,7 @@ a{
     padding: 30px;
     text-align: center;
 }
-/*In block 3 (Types of holiday) of index.html*/
-.heading-bar{
-    color: whitesmoke;
-    text-align: center;
-    line-height: 80px;
-    font-size: x-large;
-    background-color: rgba(57, 104, 116, 0.8);
-    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
-    border-top: 2px solid rgb(226, 225, 225);
-    border-bottom: 2px solid rgb(226, 225, 225);
-    border-style: ridge;
-    border-left: 0px solid transparent;
-    border-right: 0px solid transparent;
-}
-#index-types-div{
-    height: 300px;
-    background: url(../backgrounds/index-backgrounds/bvi3.jpg) center no-repeat no-repeat;
-    background-size: cover;
-}
-#index-types-container{
-    width: 100%;
-    height: 300px;
-}
-.types{
-    border: 2px solid rgb(226, 225, 225);
-    border-radius: 40px;
-    border-style: ridge;
-    background-color: rgba(255, 255, 255, 0.829);
-    height: 100px;
-    width: 170px;
-    display: inline-block;
-    margin: 3px;
-    margin-top: 15px;
-    text-align: center;
-    line-height: 30px;
-    font-size: x-large;
-    padding-top: 40px;
-    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
-    transition-duration: 0.5s;
-    color: rgb(24, 70, 71);
-}
-.types:hover{
-    background-color: rgba(57, 104, 116, 0.4);
-    color: whitesmoke;
-}
-/*In block 5 (Contact, company ethos, partnerships) of index.html*/
+/*In steps section of index.html*/
 #index-steps-section{
     height: 540px;
     background: url(../gallery-images/bvi4.jpg) no-repeat center center;
@@ -327,7 +282,52 @@ a{
     border-style: ridge;
     font-size: 200%;
 }
-/*In block 4 (Reviews) of index.html*/
+/*In types nav bar of index.html AND types.html*/
+.heading-bar{
+    color: whitesmoke;
+    text-align: center;
+    line-height: 80px;
+    font-size: x-large;
+    background-color: rgba(57, 104, 116, 0.8);
+    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
+    border-top: 2px solid rgb(226, 225, 225);
+    border-bottom: 2px solid rgb(226, 225, 225);
+    border-style: ridge;
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
+}
+#index-types-div{
+    height: 300px;
+    background: url(../backgrounds/index-backgrounds/bvi3.jpg) center no-repeat no-repeat;
+    background-size: cover;
+}
+#index-types-container{
+    width: 100%;
+    height: 300px;
+}
+.types{
+    border: 2px solid rgb(226, 225, 225);
+    border-radius: 40px;
+    border-style: ridge;
+    background-color: rgba(255, 255, 255, 0.829);
+    height: 100px;
+    width: 170px;
+    display: inline-block;
+    margin: 3px;
+    margin-top: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: x-large;
+    padding-top: 40px;
+    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
+    transition-duration: 0.5s;
+    color: rgb(24, 70, 71);
+}
+.types:hover{
+    background-color: rgba(57, 104, 116, 0.4);
+    color: whitesmoke;
+}
+/*In reviews section of index.html*/
 #index-reviews-section{
     height: 1200px;
     background-color: lightgray;
@@ -391,7 +391,7 @@ a{
 #review4{
     background: url(../index-reviewers/review4.jpg) no-repeat center center;
 }
-/*In block 6 (Turtle Image) Thank you and Sign up button of index.html*/
+/*In turtle banner including Thank you text div and Sign up button of index.html*/
 #turtle-banner{
     height: 700px;
     border-top: 4px solid darkgrey;
@@ -451,7 +451,7 @@ a{
     background-size: cover;
     box-shadow: 0 60px 75px 0 rgba(103, 170, 170, 0.4), 0 57px 100px 0 rgba(143, 151, 230, 0.3);
 }
-.hov-map{
+.hov-map /* navigation links to various sections in the page */{ 
     border-radius: 0px 0px 100px 100px;
     border-bottom: 10px solid white;
     font-size: medium;
@@ -532,7 +532,7 @@ a{
 .fa-arrow-circle-up{
     color: transparent;
 }
-.islands-section-map-link-container{
+.islands-section-map-link-container /* separate div containing map thumbail and back to top button */ {
     width: 316px;
     height: 385px;
     margin-left: 50px;
@@ -603,6 +603,7 @@ a{
     background: url(../small-maps/abc.png);
     background-size: 100% 100%; 
 }
+/* stylings for separate large map pages linked to via islands.html */
 .island-page{
     width: 100%;
     height: 900px;
@@ -963,7 +964,7 @@ footer a:hover{
     width: 10%;
     padding: 10px;
 }    
-/*In thanks.html----------------------------------------------------------------------------------------------------------*/
+/*In thanks.html and 404.html----------------------------------------------------------------------------------------------------------*/
 #thanks-button{
     color: white;
     width: 250px;
