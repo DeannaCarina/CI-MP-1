@@ -140,24 +140,9 @@ a{
     color: rgb(45, 82, 97);
     background-color: white;
 }
-#index-logo, .sub-pages-logo{
-    font-size: 500%;
-    padding-top: 10px;
-    padding-left: 30px;
-    color: white;
-    margin: 0;
-    text-shadow: 8px 8px rgba(70, 70, 70, 0.46);
-}
 .active{
     border-bottom: 1px solid rgb(255, 255, 255);
     color: grey;
-}
-#menu a{
-    color: white;
-    text-shadow: 2px 2px rgba(128, 128, 128, 0.46);
-}
-#menu a:hover{
-    color:rgb(64, 131, 133);
 }
 /*In the main body of index.html-------------------------------------------------------------------------------------------------------------------------------------*/
 #index-types-div, #index-reviews-section, #index-steps-section, #turtle-banner{
@@ -1152,9 +1137,6 @@ footer a:hover{
     }
 }
 @media screen and (max-width: 1350px){
-    #index-logo{
-        font-size: 500%;
-    }
     #index-cover-text-div{
         margin: 150px auto;
     }
@@ -1162,12 +1144,6 @@ footer a:hover{
         margin: 150px auto;
     }
 }    
-@media screen and (max-width: 1310px){
-    .sub-pages-logo{
-        font-size: 350%;
-        padding-top: 20px;
-    }
-}     
 @media screen and (max-width: 1234px){
     .types{
         width: 130px;
@@ -1356,14 +1332,6 @@ footer a:hover{
         column-count: 2;
     }    
 }  
-@media screen and (max-width: 754px){
-    #menu{
-        font-size: 100%;
-    }
-    #menu li{
-        margin-right: 20px;
-    }  
-} 
 @media screen and (max-width: 739px){
     #contact-page-section{
         background: url(../gallery-images/dominica4.jpg) no-repeat center center;
@@ -1587,16 +1555,6 @@ footer a:hover{
         width: 110px;
         font-size: large;
     }
-    #menu li{
-        text-align: right;
-        float: none;
-        padding-top: 5px;
-    }
-    #index-logo{
-        font-size: 300%;
-        text-align: center;
-        padding-right: 10px;
-    }
     #index-cover-text-div{
         width: 130px;
         height: 160px;
@@ -1680,22 +1638,7 @@ footer a:hover{
         font-size: small;
     }
 }
-@media screen and (max-width: 471px){
-    #index-logo{
-        font-size: 400%;
-        text-align: center;
-        padding-left: 30px;
-        padding-right: 30px;
-    }
-    #menu li{
-        padding-left: 75px;
-        margin-left: 90px;
-    }
-}
 @media screen and (max-width: 470px){
-    .sub-pages-logo{
-        padding-right: 50px;
-    }
     .islands-text{
         width: 275px;
         margin-right: 10px;
@@ -1738,9 +1681,6 @@ footer a:hover{
     }
 }
 @media screen and (max-width: 454px){
-    .sub-pages-top-bar{
-        height: 350px;
-    }
     #thanks-button{
         width: 100px;
         height: 50px;
@@ -1860,17 +1800,7 @@ footer a:hover{
         width: 100px;
     }
 }
-@media screen and (max-width: 414px){
-    #menu li{
-        margin-left: 0px;
-        padding-left: 100px;
-    }
-}
 @media screen and (max-width: 406px){
-    #index-logo{
-        margin-top: 70px;
-        font-size: 400%;
-    }
     #gallery-photos-section{
         column-count: 1;
     }
@@ -1944,14 +1874,6 @@ footer a:hover{
         padding-top: 20px;
     }  
 }
-@media screen and (max-width: 368px){
-    #menu{
-        font-size: 100%;
-    }
-    #menu li{
-        margin-right: 10px;
-    }
-} 
 @media screen and (max-width: 366px){
     #index-types-div{
         height: 810px;
@@ -1960,15 +1882,6 @@ footer a:hover{
 @media screen and (max-width: 360px){
     #index-capture-text-section{
         height: 320px;
-    }
-}
-@media screen and (max-width: 342px){
-    #index-logo{
-        font-size: 300%;
-        text-align: center;
-    }
-    #menu li{
-        padding-left: 30px;
     }
 }
 @media screen and (max-width: 327px){
@@ -1994,18 +1907,9 @@ footer a:hover{
     #review-div-4{
         height: 490px;
     }
-    .sub-pages-top-bar{
-        text-align: center;
-    }
-    .sub-pages-logo{
-        padding-left: 20px;
-    }
     .islands-section-map-link-container{
         margin-right: 10px;
     } 
-    #menu li{
-        padding-left: 50px;
-    }
 }
 @media screen and (max-width: 319px){
     #index-capture-text-section{
@@ -2051,17 +1955,6 @@ footer a:hover{
         width: 140px;
         height: 50px;
         line-height: 2px;
-    }
-    #menu li{
-        padding-left: 0px;
-    }
-}
-@media screen and (max-width: 261px){
-    .sub-pages-logo{
-        font-size: 280%;
-    }
-    #menu{
-        padding-left: 0px;
     }
 }
 @media screen and (max-width: 249px){
