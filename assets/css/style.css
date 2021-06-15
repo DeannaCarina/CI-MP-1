@@ -354,7 +354,8 @@ a{
     width: 60%;
     height: auto;
     background-color: rgba(0, 0, 0, 0.6);
-    border: 5px solid whitesmoke;
+    border: 2px solid whitesmoke;
+    border-style: ridge;
     border-radius: 60px;
     display: inline-block;
     margin: 35px 200px;
@@ -379,6 +380,7 @@ a{
 .review-border /*outer border of reviewer portrait*/{
     height: 130px;
     width: 130px;
+    border-style: ridge;
     border: 2px solid whitesmoke;
     border-radius: 50%;
     float: right;
