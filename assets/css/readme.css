@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Satisfy&display=swap');
-/*Applied to whole site*/
 body{
     font-family: Lato, sans-serif;
     margin: 0;
@@ -238,7 +237,6 @@ h5{
 #references-section{
     padding-bottom: 50px;
 }
-
 @media screen and (max-width: 1700px){
     .readme-section{
         width: 65%;
