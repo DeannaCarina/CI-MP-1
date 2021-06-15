@@ -128,10 +128,13 @@ a{
     text-align: left;
     height: 50px;
     line-height: 50px;
+    font-size: 150%;
+    margin-left: 20px;
 }
 #big-screen-nav a{
     padding: 5px;
     color: white;
+    margin-right: 10px;
 }
 #big-screen-nav a:hover{
     color: rgb(45, 82, 97);
@@ -1377,6 +1380,13 @@ footer a:hover{
     }
     #contact-brochure-button{
         margin-top: 10px;
+    }
+    #big-screen-nav{
+        font-size: 100%;
+        margin-left: 20px;
+    }
+    #big-screen-nav a{
+        margin-right: 5px;
     }
 } 
 @media screen and (max-width: 735px){
