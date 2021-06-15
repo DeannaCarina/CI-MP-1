@@ -34,17 +34,14 @@ As more people rely on accessing services online the role of UX design has becom
 
 # Strategy
 ### Vision
-<em>Travel Caribbean</em> is a specialist travel website focusing on travel to the Caribbean. Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [2][3]. As a frequent traveller to the Caribbean, I felt there was a gap in the market to provide potential travellers to the Caribbean with a straightforward and easy means of learning about the 
-potential locations to travel to, and the different types of holiday they can go on, as well as the different activites and excursions customers can go on once they are in
-the Caribbean to experience the best the Caribbean has to offer. Much like an online travel-agent, I hope the website can provide confidence to customers to take the 
-leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. From personal experience however, I have found that many online travel agent websites are confusing to navigate and have an overabundance of information, it is my aim to make my own website easily navigatable and provide customers with a structured and logical delivery of information. By doing this, it will encourage customers to stay on the site and want to use the company's services rather than navigate away from the page due to information overload.
+<em>Travel Caribbean</em> is a specialist travel website focusing on travel to the Caribbean. Planning a holiday to the Caribbean can be daunting and confusing for many people due to the massive amount of choice that the Caribbean provides [2][3]. As a frequent traveler to the Caribbean, I felt there was a gap in the market to provide potential travelers to the Caribbean with a straightforward and easy means of learning about the potential locations to travel to, and the different types of holiday they can go on, as well as the different activities and excursions customers can go on once they are in the Caribbean to experience the best the Caribbean has to offer. Much like an online travel-agent, I hope the website can provide confidence to customers to take the leap and book their holiday to the Caribbean as there are so many amazing things to see and do, as well as incredible cultures to experience. From personal experience however, I have found that many online travel agent websites are confusing to navigate and have an overabundance of information, it is my aim to make my own website easily navigable and provide customers with a structured and logical delivery of information. By doing this, it will encourage customers to stay on the site and want to use the company's services rather than navigate away from the page due to information overload.
 
 ### Aims
 <ol>
     <li>To earn commision from partner companies that are advertised via the website</li>
     <li>To earn income from customers by charging a fee to plan and organise their Caribbean Holiday (fee included in overall holiday price)</li>
     <li>To build a database of customers that have used the services of the website for future holidays</li>
-    <li>To be easily findable via search engines</li>
+    <li>To be easily find-able via search engines</li>
     <li>To be shareable between current customers and potential customers for potential future revenue</li>
     <li>To help customers decide on where they would like to go on their Caribbean Holiday</li>
     <li>To help customers decide on what type of holiday they would like for their Caribbean getaway</li>
@@ -61,12 +58,12 @@ The theory of potential target audiences are as follows:
 <ul>
     <li><strong>Age 18-30</strong> - This is the group of potential customers that are most likely to want to experience 'rustic' travel [4] </li>
     <li><strong>Age 30-60</strong> - This is the group of potential customers that are more likly to want family holidays</li>
-    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises. This demographic also has a likelihood of having a large proportion of solo travellers [5]</li>
+    <li><strong>Age 60+</strong> - This is the group of potential customers that are likely to want holidays away during their retirement, paticularly cruises. This demographic also has a likelihood of having a large proportion of solo travelers [5]</li>
     <li><strong>Naturists</strong> - as clothing optional holidays are very niche, it is important for this group of individuals to have a place to go to cater to their more specialist wants and needs</li>
     <li><strong>Adventurous People</strong> - This is the group of people more likely to use the services of the website to plan and book excursions in the Caribbean</li>
     <li><strong>Newly engaged couples</strong> - This is the group of people more likely to want to organise group holidays for hen and stag parties</li>
     <li><strong>Newly married couples</strong> - This is the group of people more likely to want to use the services of the website to plan a honeymoon</li>
-    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [6], I would like to utilise this and target the website towards British travellers as there is a huge market for Caribbean travel from the United Kingdom and Ireland, especially due to the direct flights from international airports such as Manchester and Heathrow.</li>
+    <li><strong>British People</strong> - Britains account for nearly 40% of foreign tourist arrivals in Barbados [6], I would like to utilise this and target the website towards British travelers as there is a huge market for Caribbean travel from the United Kingdom and Ireland, especially due to the direct flights from international airports such as Manchester and Heathrow.</li>
 </ul>
 
 ### User stories
@@ -105,7 +102,7 @@ The theory of potential target audiences are as follows:
     <li>Ensure all navigation links (internal or external) are always fully functional for ease of use</li>
     <li>Ensure the website is fully accessible to users that may have visual imparement</li>
     <li>Ensure the website is intuitive for all age groups and abilities</li>
-    <li>Gain comission from external companies advertised via the website and in partnership with the company</li>
+    <li>Gain commission from external companies advertised via the website and in partnership with the company</li>
     <li>Gain income from customers via a fee placed within the total price of the booked holiday to the Caribbean</li>
     <li>Create a visually stimulating environment for customers to see what is available to them during a Caribbean holiday and increase the 
     likelihood of booking and future potential revenue</li>
@@ -117,8 +114,8 @@ The theory of potential target audiences are as follows:
 <strong>As a company in partnership with <em>Travel Caribbean</em> I want to...</strong>
 <ol>
     <li>Ensure that <em>Travel Caribbean</em> is a company with good reputation that I can affiliate my own company with</li>
-    <li>Ensure that any comission paid to <em>Travel Caribbean</em> will result in a guarenteed flow of customers to my own company for guaranteed future revenue</li>
-    <li>Have a fast and easy way to contact <em>Travel Caribbean</em> to discuss partnership terms and comission fees</li>
+    <li>Ensure that any commission paid to <em>Travel Caribbean</em> will result in a guarenteed flow of customers to my own company for guaranteed future revenue</li>
+    <li>Have a fast and easy way to contact <em>Travel Caribbean</em> to discuss partnership terms and commission fees</li>
     <li>To have little competition with other external companies affiliated with <em>Travel Caribbean</em> that offer similar products to my own commpany</li>
     <li>Have any advertising via <em>Travel Caribbean</em> to be positive and promotional</li>
     <li>Have a fast and easy way for customers to be able to navigate to my own company's website via <em>Travel Caribbean</em></li>

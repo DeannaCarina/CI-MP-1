@@ -1,4 +1,4 @@
-# Travel Caribbean
+<a href="https://deannacarina.github.io/travelcaribbean/" target="_blank"><h1>Travel Caribbean</h1></a>
 
 ## Contents
 <ul>
@@ -32,7 +32,7 @@
 # Introduction
 Portfolio Project One: HTML/CSS Essentials - Code Institute - Deadline 1st July 2021
 
-This is my submission for Code Institute's (5P) Portfolio Project One. It is a fictitious company with coresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with HTML and CSS as well as with the use of many other <a href="#Technologies">technologies</a>. The website covers the most basic function of the company: <em>"The new way to plan your Caribbean getaway"</em>, the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to download the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram acount as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
+This is my submission for Code Institute's (5P) Portfolio Project One. It is a fictitious company with corresponding website which provides the service of planning customers' holidays in The Caribbean. The website is created with HTML and CSS as well as with the use of many other <a href="#Technologies">technologies</a>. The website covers the most basic function of the company: <em>"The new way to plan your Caribbean getaway"</em>, the steps a customer can take to get started on their holiday ideas, reviews from customers, a gallery page and a page to download the company's brochure which is published every month, as well as two pages to help the customer make the decision of where they would like to go (Islands) and what type of holiday they would like to partake in (Types). There are also contact links at the bottom of all pages with personal links to my own Instagram account as many static images have come from my own photography portfolio (from index.html, gallery.html and contact.html, as well as the background images of the brochure downloadable).
 
 ## Demo
 A live demo of the website can be found <a href="https://deannacarina.github.io/travelcaribbean/" target="_blank">**HERE**</a>
@@ -59,25 +59,26 @@ Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob
 # Credits
 ## Code
 <ul>
-    <li>Mark Caron - Hamburger menu used for smaller screen sizes in header of all pages
+    <li>Mark Caron - Hamburger menu used for smaller screen sizes in header of all HTML pages.
         <ul>
             <li>Sourced from: https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793</li>
             <li>Also viewable on: https://gist.github.com/markcaron</li>
+            <li>Use this link to view how I edited the code to meet the needs of the website: <a href="https://raw.githubusercontent.com/DeannaCarina/travelcaribbean/master/readme-files/CREDITED-WORK.md" target="_blank">Edited code file</a></li>
         </ul>
     </li>
 </ul>
 
 ## Content
 <ul>
-    <li>Factual statements used in the islands.html file are taken from the Wikipedia pages of the relevant websites (referenced via external link in the relevant information box)</li>
-    <li>Factual statements used in the types.html file are found from standard Google searches e.g. "<em>What is the average temerature in the Caribbean?</em>", "<em>When is hurricane season in the Carribean</em>" and "<em>What were the after effects of Hurricane Irma?"</em></li>
-    <li>The bulk of the text foud in the types.html page are written from my own thoughts and ideas</li>
+    <li>Factual statements used in the islands.html file are taken from the Wikipedia pages of the relevant islands (referenced via external link in the relevant information box)</li>
+    <li>Factual statements used in the types.html file are found from standard Google searches e.g. "<em>What is the average temperature in the Caribbean?</em>", "<em>When is hurricane season in the Carribean</em>" and "<em>What were the after effects of Hurricane Irma?"</em></li>
+    <li>The bulk of the text found in the types.html page are written from my own thoughts and ideas</li>
     <li>The reviews written in index.html were written by my family members and myself</li>
-    <li>HTML code used in the website was taken from the classes delivered by Code Institute in the HTML essentials module</li>
-    <li>CSS code used in the website was taken from the classes delivered by Code Institute in the CSS essentials module</li>
+    <li>HTML code used in the website was taken from the classes delivered by Code Institute in the HTML essentials module (with the esception noted in the Code Credits section)</li>
+    <li>CSS code used in the website was taken from the classes delivered by Code Institute in the CSS essentials module (with the esception noted in the Code Credits section)</li>
 </ul>
 
-## Credits - Images
+## Images
 All images seen on the website apart from those listed below are from my own photography portfolio, some of these images can be found on my <a href="https://www.instagram.com/deannacarina/" target="_blank">Instagram</a> page and some on my <a href="https://www.facebook.com/DeannaCarina/photos_albums" target="_blank">Facebook</a> page in the Caribbean Cruise Albums.
 
 ### Pexels Images
@@ -100,7 +101,7 @@ All images seen on the website apart from those listed below are from my own pho
     <li><a href="https://unsplash.com/photos/fnAN6OFXR9A" target="_blank">Emily Bauman</a> - Background image of 'Cuba', 'Hispaniola and Puerto Rico', 'Windward Islands' and 'ABC islands' sections of islands.html</li>
 </ul>
 
-## Credits - Video
+## Video
 ### Pexels Videos
 <ul>
     <li><a href="https://www.pexels.com/video/low-angle-footage-of-a-palm-tree-6018713/" target="_blank">Nikunj Patel</a> - Background video of thanks.html</li>

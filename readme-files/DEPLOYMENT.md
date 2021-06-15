@@ -43,7 +43,8 @@ This project was deployed via GitHub pages by carrying out the following:
     <li>In the source section, the 'Master' branch is selected and the save button selected</li>
     <li>The web page is then assigned it's URL which will appear in the source section*</li>
 </ol>
-*It can take some time for the site to be deployed when the 'save' button is pressed and a URL created.
+*It can take some time for the site to be deployed when the 'save' button is pressed and a URL created.<br>
+A live demo of the website can be found <a href="https://deannacarina.github.io/travelcaribbean/" target="_blank">**HERE**</a>
 <br>
 <h2 id="LD">Local Deployment</h2>
 There are many ways to deploy the project locally on your own device. The ways I will explain here are: Forking, Cloning, GitHub Desktop and Zip Exctraction, the steps in these processes are outlines below:
