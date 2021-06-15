@@ -2,9 +2,9 @@ https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d1
 
 Also viewable in GitHub Repo: https://gist.github.com/markcaron
 
-# Original Code from Source:
+---------------------------------------------------Original Code from Source-----------------------------------------------------------------------
 
-## HTML
+---------------------------------------HTML-------------------------------------------------------
 
 <header>
   <a href="#main-menu"
@@ -37,7 +37,7 @@ Also viewable in GitHub Repo: https://gist.github.com/markcaron
      aria-hidden="true" hidden></a>
 </header>
 
-## CSS
+---------------------------------------CSS-------------------------------------------------------
 
 /* Screen reader only */
 .sr-only {
@@ -213,9 +213,9 @@ article h2 {
   }
 }
 
-# Edited code for site
+-------------------------------------------------------------- Edited code for site-------------------------------------------------------------------------------------
 
-## HTML
+---------------------------------------HTML-------------------------------------------------------
 
 <nav id="main-menu" class="main-menu" aria-label="Main menu">
 <a href="#main-menu-toggle" id="main-menu-close" class="menu-close" aria-label="Close main menu">
@@ -235,7 +235,7 @@ article h2 {
     <span class="fa fa-bars" aria-hidden="true"></span>
 </a>
 
-## CSS
+---------------------------------------CSS-------------------------------------------------------
 
 .menu-toggle {
     display: inline-block;
