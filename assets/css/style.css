@@ -559,10 +559,17 @@ a{
 .islands-map{
     width: 300px;
     height: 300px;
-    box-shadow: 0 20px 25px 0 rgba(0,0,0,0.4), 0 17px 50px 0 rgba(0,0,0,0.3);
     border: 2px solid rgb(226, 225, 225);
     border-radius: 40px;
     border-style: ridge;
+}
+.islands-map:hover{
+    box-shadow: 0 40px 50px 0 rgba(0,0,0,0.4), 0 34px 100px 0 rgba(0,0,0,0.3);
+    border-style: solid;
+    border: 2px solid rgb(58, 105, 128);
+    -webkit-filter: brightness(90%);
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
 }
 .islands-back-to-top{
     width: 200px;
