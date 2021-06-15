@@ -762,12 +762,12 @@ a{
     margin-right: 100px;
     border: 3px solid rgb(43, 92, 104);
 }
-.logo{
+.partner-logo{
     height: 20%;
     width: auto;
     margin: 25px;
 }
-.logo1{
+.partner-logo1{
     height: 12%;
     width: auto;
     margin: 40px;
@@ -1045,10 +1045,10 @@ footer a:hover{
         height: 350px;
         margin-left: 10px;
     }
-    .logo{
+    .partner-logo{
         height: 50px;
     }
-    .logo1{
+    .partner-logo1{
         height: 30px;
     }
 }
@@ -1776,11 +1776,11 @@ footer a:hover{
         padding: 20px;
         height: auto;
     }
-    .logo{
+    .partner-logo{
         margin: 20px;
         height: 20px;
     }
-    .logo1{
+    .partner-logo1{
         margin: 20px;
         height: 20px;
     }
