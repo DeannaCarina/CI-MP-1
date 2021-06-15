@@ -213,9 +213,11 @@ a{
     font-size: x-large;
     background-color: rgba(57, 104, 116, 0.8);
     box-shadow: 0 40px 50px 0 rgba(0,0,0,0.8), 0 17px 50px 0 rgba(0,0,0,0.7);
-    border-top: 8px solid rgb(226, 225, 225);
-    border-bottom: 8px solid rgb(226, 225, 225);
+    border-top: 2px solid rgb(226, 225, 225);
+    border-bottom: 2px solid rgb(226, 225, 225);
     border-style: ridge;
+    border-left: 0px solid transparent;
+    border-right: 0px solid transparent;
 }
 #index-types-div{
     height: 300px;
