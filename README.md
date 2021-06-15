@@ -57,6 +57,16 @@ Please follow this <a href="https://github.com/DeannaCarina/travelcaribbean/blob
 <br>
 
 # Credits
+## Code
+<ul>
+    <li>Mark Caron - Hamburger menu used for smaller screen sizes in header of all pages
+        <ul>
+            <li>Sourced from: https://medium.com/@heyoka/responsive-pure-css-off-canvas-hamburger-menu-aebc8d11d793</li>
+            <li>Also viewable on: https://gist.github.com/markcaron</li>
+        </ul>
+    </li>
+</ul>
+
 ## Content
 <ul>
     <li>Factual statements used in the islands.html file are taken from the Wikipedia pages of the relevant websites (referenced via external link in the relevant information box)</li>
